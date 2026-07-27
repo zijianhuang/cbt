@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1785182444388,
+  "timestamp": 1785185018290,
   "appData": "Fonlow.ColorBlindTest.ServiceWorker",
   "index": "/cbt/ru/index.html",
   "assetGroups": [
@@ -24,9 +24,9 @@
         "ignoreVary": true
       },
       "urls": [
-        "/cbt/ru/main-A6BSDXKN.js",
+        "/cbt/ru/main-XFDEV6PP.js",
         "/cbt/ru/polyfills-DM2G2W4W.js",
-        "/cbt/ru/scripts-MJCM4COL.js"
+        "/cbt/ru/scripts-UTMOHECG.js"
       ],
       "patterns": []
     },
@@ -137,11 +137,11 @@
     "/cbt/ru/assets/themes/cyan-orange.css": "db756b0d1f88bee9cbfc8c5417203f67eb690086",
     "/cbt/ru/assets/themes/magenta-violet.css": "7a58db77acee34a257c0c6c1dc360fa7f3142f6c",
     "/cbt/ru/assets/themes/rose-red.css": "b39d843369c203984c6a04c702b4cd30ac47a98a",
-    "/cbt/ru/main-A6BSDXKN.js": "f4779e3353722794da87489739dac237375d2e96",
+    "/cbt/ru/main-XFDEV6PP.js": "ccacc734632361bd789bf0a0cdd52468404eb83d",
     "/cbt/ru/media/material-symbols-outlined-latin-400-normal-PA3AWAOZ.woff": "2f0218bac4101bd9ccc056188f1920ac33e2141c",
     "/cbt/ru/media/material-symbols-outlined-latin-400-normal-WKVH22ZP.woff2": "feab3398482749736126332d403b96462aa6dec1",
     "/cbt/ru/polyfills-DM2G2W4W.js": "3e04054063a7a8cc4a15b6951c0fd962226bd10c",
-    "/cbt/ru/scripts-MJCM4COL.js": "394e78f20473a3ad8a6342b6f1bb66b71af2f4d2",
+    "/cbt/ru/scripts-UTMOHECG.js": "002106dae44bd9ef71d699c12971ca1feadfa2f2",
     "/cbt/ru/styles-MZR6EREK.css": "63b3d3be641f08ef8e889d6935bc84985df3edfe"
   },
   "navigationUrls": [
