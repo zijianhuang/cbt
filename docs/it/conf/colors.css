@@ -1,0 +1,15 @@
+tr.correct {
+	background-color: lightgreen;
+}
+
+tr.wrong {
+	background-color: pink;
+}
+
+tr.deficiency {
+	background-color: yellow;
+}
+
+div.floating-bar-background {
+	background-color: lightyellow;
+}

@@ -1,0 +1,75 @@
+{
+	"$schema": "https://raw.githubusercontent.com/zijianhuang/schemas/refs/heads/main/json/ColorBlindTestSchema.json",
+	"title": "Alphanumerics",
+	"description": "Letters and Numbers",
+	"dir": "../../../SVG_Files/General1/Letter",
+	"plates": [
+		{
+			"platePath": "ishihara_B.svg",
+			"nature": "Letter",
+			"input": "LetterPad",
+			"answer": "B",
+			"description": "Locate letter"
+		},
+		{
+			"platePath": "ishihara_C.svg",
+			"nature": "Letter",
+			"input": "LetterPad",
+			"answer": "C"
+		},
+		{
+			"platePath": "ishihara_H.svg",
+			"nature": "Letter",
+			"input": "LetterPad",
+			"answer": "H"
+		},
+		{
+			"platePath": "ishihara_T.svg",
+			"nature": "Letter",
+			"input": "LetterPad",
+			"answer": "T"
+		},
+		{
+			"platePath": "ishihara_3.svg",
+			"nature": "Digit",
+			"input": "NumPad",
+			"answer": "3"
+		},
+		{
+			"platePath": "ishihara_5.svg",
+			"nature": "Digit",
+			"input": "NumPad",
+			"answer": "5"
+		},
+		{
+			"platePath": "ABC.svg",
+			"nature": "Letter",
+			"input": "LetterPad",
+			"answer": "ABC"
+		},
+		{
+			"platePath": "BL.svg",
+			"nature": "Letter",
+			"input": "LetterPad",
+			"answer": "BL"
+		},
+		{
+			"platePath": "cd.svg",
+			"nature": "Letter",
+			"input": "LetterPad",
+			"answer": "cd"
+		},
+		{
+			"platePath": "gh.svg",
+			"nature": "Letter",
+			"input": "LetterPad",
+			"answer": "gh"
+		},
+		{
+			"platePath": "HK.svg",
+			"nature": "Letter",
+			"input": "LetterPad",
+			"answer": "HK"
+		}
+	]
+}

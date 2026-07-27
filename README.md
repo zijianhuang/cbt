@@ -1,2 +1,3 @@
-# cbt
-Color Blind Test localized
+# Color Blind Test Localized
+
+https://zijianhuang.github.io/cbt/
