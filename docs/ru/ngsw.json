@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1785286903273,
+  "timestamp": 1786654887478,
   "appData": "Fonlow.ColorBlindTest.ServiceWorker",
   "index": "/cbt/ru/index.html",
   "assetGroups": [
@@ -24,9 +24,9 @@
         "ignoreVary": true
       },
       "urls": [
-        "/cbt/ru/main-IU7TFLIB.js",
-        "/cbt/ru/polyfills-DM2G2W4W.js",
-        "/cbt/ru/scripts-5SKI5CGP.js"
+        "/cbt/ru/main-TQHOJDQS.js",
+        "/cbt/ru/polyfills-RBNYAPE3.js",
+        "/cbt/ru/scripts-SBPADBE5.js"
       ],
       "patterns": []
     },
@@ -137,11 +137,11 @@
     "/cbt/ru/assets/themes/cyan-orange.css": "db756b0d1f88bee9cbfc8c5417203f67eb690086",
     "/cbt/ru/assets/themes/magenta-violet.css": "7a58db77acee34a257c0c6c1dc360fa7f3142f6c",
     "/cbt/ru/assets/themes/rose-red.css": "b39d843369c203984c6a04c702b4cd30ac47a98a",
-    "/cbt/ru/main-IU7TFLIB.js": "6ae2335ef8bb22819f7ded3a321ef4671f032de0",
+    "/cbt/ru/main-TQHOJDQS.js": "9fa3f8a346b18484e39e4054fab2dd3087b4bc1e",
     "/cbt/ru/media/material-symbols-outlined-latin-400-normal-PA3AWAOZ.woff": "2f0218bac4101bd9ccc056188f1920ac33e2141c",
     "/cbt/ru/media/material-symbols-outlined-latin-400-normal-WKVH22ZP.woff2": "feab3398482749736126332d403b96462aa6dec1",
-    "/cbt/ru/polyfills-DM2G2W4W.js": "3e04054063a7a8cc4a15b6951c0fd962226bd10c",
-    "/cbt/ru/scripts-5SKI5CGP.js": "0519cb3ff7ddef1646854b4511c2ddbd8ab66bbe",
+    "/cbt/ru/polyfills-RBNYAPE3.js": "f0be7fe324576ed7674a25d2f4d2ba428d9bff0b",
+    "/cbt/ru/scripts-SBPADBE5.js": "1fc54412e5ebb8bb1bf79bec6f311e575c6ef547",
     "/cbt/ru/styles-MZR6EREK.css": "63b3d3be641f08ef8e889d6935bc84985df3edfe"
   },
   "navigationUrls": [
