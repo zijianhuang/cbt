@@ -31,6 +31,9 @@ to
 
 Each high resolution PNG file is around 10 MB, this makes the 2-round rendering of the plate look not nice, since there's a significant lap between the rendering of SVG and the rendering PNG on many day to day computing devices. Linking to a low resolution PNG file makes the rendering look instant in almost all cases. And also make the automatic caching of service worker of PWA work more reliable.
 
+### Inline to Replace xlink:href
+SVG file with xlink:href can be displayed properly only through <object> rather than simple <img>. And there's a race condition concern especially during offline usage along with service worker and browser cache. Therefore, the JS program structure has to be complex however still not reliable. Therefore, `inline-svg-png.js` is used to convert such SVG files into new ones with embedded PNG in base64 format.
+
 ### Circle clip
 
 Rather than displaying the whole rectangle of the PNG, circle clipping is to focus on the core part of the Ishihara plates.
