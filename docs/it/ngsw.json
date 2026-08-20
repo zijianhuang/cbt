@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1786924085002,
+  "timestamp": 1787267246810,
   "appData": "Fonlow.ColorBlindTest.ServiceWorker",
   "index": "/cbt/it/index.html",
   "assetGroups": [
@@ -24,9 +24,9 @@
         "ignoreVary": true
       },
       "urls": [
-        "/cbt/it/main-7MR4CX7U.js",
-        "/cbt/it/polyfills-7IF7DWIW.js",
-        "/cbt/it/scripts-5HAPDA3Z.js"
+        "/cbt/it/main-ZF72MSRE.js",
+        "/cbt/it/polyfills-ACELFFX5.js",
+        "/cbt/it/scripts-3AJJQGFJ.js"
       ],
       "patterns": []
     },
@@ -109,7 +109,7 @@
       "cacheQueryOptions": {
         "ignoreVary": true
       },
-      "version": 1
+      "version": 3
     }
   ],
   "hashTable": {
@@ -137,11 +137,11 @@
     "/cbt/it/assets/themes/cyan-orange.css": "db756b0d1f88bee9cbfc8c5417203f67eb690086",
     "/cbt/it/assets/themes/magenta-violet.css": "7a58db77acee34a257c0c6c1dc360fa7f3142f6c",
     "/cbt/it/assets/themes/rose-red.css": "b39d843369c203984c6a04c702b4cd30ac47a98a",
-    "/cbt/it/main-7MR4CX7U.js": "5ed1a5f2012a143d76e29983cdb30a2ac98723ab",
+    "/cbt/it/main-ZF72MSRE.js": "1bf469e1477dec7af9f4b7c2426a96f5d625508d",
     "/cbt/it/media/material-symbols-outlined-latin-400-normal-PA3AWAOZ.woff": "2f0218bac4101bd9ccc056188f1920ac33e2141c",
     "/cbt/it/media/material-symbols-outlined-latin-400-normal-WKVH22ZP.woff2": "feab3398482749736126332d403b96462aa6dec1",
-    "/cbt/it/polyfills-7IF7DWIW.js": "c6d60798f79b1101fa9d57c3a0ee52e491ab4792",
-    "/cbt/it/scripts-5HAPDA3Z.js": "600753dcf5cd05fcc975b209da79ab7987ef3416",
+    "/cbt/it/polyfills-ACELFFX5.js": "dd4bf13fe8b46a3f4a23f3abce4e26af8c3d9767",
+    "/cbt/it/scripts-3AJJQGFJ.js": "da29a577d873d8a5a192190d7f94236e1a8c77a7",
     "/cbt/it/styles-MZR6EREK.css": "63b3d3be641f08ef8e889d6935bc84985df3edfe"
   },
   "navigationUrls": [
