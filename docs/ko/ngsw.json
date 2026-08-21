@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1787267246849,
+  "timestamp": 1787270410530,
   "appData": "Fonlow.ColorBlindTest.ServiceWorker",
   "index": "/cbt/ko/index.html",
   "assetGroups": [
@@ -12,7 +12,7 @@
         "ignoreVary": true
       },
       "urls": [
-        "/cbt/ko/styles-MZR6EREK.css"
+        "/cbt/ko/styles-7ENBX62R.css"
       ],
       "patterns": []
     },
@@ -26,7 +26,7 @@
       "urls": [
         "/cbt/ko/main-ZF72MSRE.js",
         "/cbt/ko/polyfills-ACELFFX5.js",
-        "/cbt/ko/scripts-3AJJQGFJ.js"
+        "/cbt/ko/scripts-ZK7ROAGF.js"
       ],
       "patterns": []
     },
@@ -141,8 +141,8 @@
     "/cbt/ko/media/material-symbols-outlined-latin-400-normal-PA3AWAOZ.woff": "2f0218bac4101bd9ccc056188f1920ac33e2141c",
     "/cbt/ko/media/material-symbols-outlined-latin-400-normal-WKVH22ZP.woff2": "feab3398482749736126332d403b96462aa6dec1",
     "/cbt/ko/polyfills-ACELFFX5.js": "e487d5eb91647d7801c31f78ac94e960f19316f6",
-    "/cbt/ko/scripts-3AJJQGFJ.js": "da29a577d873d8a5a192190d7f94236e1a8c77a7",
-    "/cbt/ko/styles-MZR6EREK.css": "63b3d3be641f08ef8e889d6935bc84985df3edfe"
+    "/cbt/ko/scripts-ZK7ROAGF.js": "0a66e7a47a57cd90aa00612ff3b93b586f90ef70",
+    "/cbt/ko/styles-7ENBX62R.css": "744ea71cd20f81e389b426ccc6d603bb53f42bd8"
   },
   "navigationUrls": [
     {

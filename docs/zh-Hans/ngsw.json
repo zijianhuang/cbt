@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1787267246932,
+  "timestamp": 1787270410604,
   "appData": "Fonlow.ColorBlindTest.ServiceWorker",
   "index": "/cbt/zh-Hans/index.html",
   "assetGroups": [
@@ -12,7 +12,7 @@
         "ignoreVary": true
       },
       "urls": [
-        "/cbt/zh-Hans/styles-MZR6EREK.css"
+        "/cbt/zh-Hans/styles-7ENBX62R.css"
       ],
       "patterns": []
     },
@@ -26,7 +26,7 @@
       "urls": [
         "/cbt/zh-Hans/main-ZF72MSRE.js",
         "/cbt/zh-Hans/polyfills-ACELFFX5.js",
-        "/cbt/zh-Hans/scripts-3AJJQGFJ.js"
+        "/cbt/zh-Hans/scripts-ZK7ROAGF.js"
       ],
       "patterns": []
     },
@@ -141,8 +141,8 @@
     "/cbt/zh-Hans/media/material-symbols-outlined-latin-400-normal-PA3AWAOZ.woff": "2f0218bac4101bd9ccc056188f1920ac33e2141c",
     "/cbt/zh-Hans/media/material-symbols-outlined-latin-400-normal-WKVH22ZP.woff2": "feab3398482749736126332d403b96462aa6dec1",
     "/cbt/zh-Hans/polyfills-ACELFFX5.js": "99b20bca425136190376a78a245d665b08fc593a",
-    "/cbt/zh-Hans/scripts-3AJJQGFJ.js": "da29a577d873d8a5a192190d7f94236e1a8c77a7",
-    "/cbt/zh-Hans/styles-MZR6EREK.css": "63b3d3be641f08ef8e889d6935bc84985df3edfe"
+    "/cbt/zh-Hans/scripts-ZK7ROAGF.js": "0a66e7a47a57cd90aa00612ff3b93b586f90ef70",
+    "/cbt/zh-Hans/styles-7ENBX62R.css": "744ea71cd20f81e389b426ccc6d603bb53f42bd8"
   },
   "navigationUrls": [
     {
