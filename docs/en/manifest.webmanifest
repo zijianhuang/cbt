@@ -7,12 +7,15 @@
   "background_color": "#fafafa",
   "display": "standalone",
   "orientation": "any",
-  "lang": "en",
+  "launch_handler": {
+    "client_mode": "focus-existing"
+  },
   "categories": [
     "health",
     "medical",
     "education"
   ],
+  "lang": "en",
   "scope": "/en/",
   "start_url": "/en/",
   "icons": [

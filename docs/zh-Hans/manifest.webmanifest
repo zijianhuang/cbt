@@ -7,12 +7,15 @@
   "background_color": "#fafafa",
   "display": "standalone",
   "orientation": "any",
-  "lang": "zh-Hans",
+  "launch_handler": {
+    "client_mode": "focus-existing"
+  },
   "categories": [
     "health",
     "medical",
     "education"
   ],
+  "lang": "zh-Hans",
   "scope": "/zh-Hans/",
   "start_url": "/zh-Hans/",
   "icons": [

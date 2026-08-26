@@ -7,12 +7,15 @@
   "background_color": "#fafafa",
   "display": "standalone",
   "orientation": "any",
-  "lang": "ko",
+  "launch_handler": {
+    "client_mode": "focus-existing"
+  },
   "categories": [
     "health",
     "medical",
     "education"
   ],
+  "lang": "ko",
   "scope": "/ko/",
   "start_url": "/ko/",
   "icons": [

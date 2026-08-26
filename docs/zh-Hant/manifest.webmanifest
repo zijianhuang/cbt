@@ -7,12 +7,15 @@
   "background_color": "#fafafa",
   "display": "standalone",
   "orientation": "any",
-  "lang": "zh-Hant",
+  "launch_handler": {
+    "client_mode": "focus-existing"
+  },
   "categories": [
     "health",
     "medical",
     "education"
   ],
+  "lang": "zh-Hant",
   "scope": "/zh-Hant/",
   "start_url": "/zh-Hant/",
   "icons": [

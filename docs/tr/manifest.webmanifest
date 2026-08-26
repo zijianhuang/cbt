@@ -1,18 +1,21 @@
 {
   "name": "Ishihara Renk Körlüğü Testi",
   "short_name": "Renk Körlüğü",
-  "description": "Renk körlüğü taraması için Ishihara plakalarını kullanarak renk görme yeteneğinizi test edin.",
+  "description": "Renk körlüğü taraması için Ishihara plakalarını kullanarak renk görme yeteneğinizi hızlıca test edin.",
   "id": "Fonlow.ColorBlindTest",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
   "orientation": "any",
-  "lang": "tr",
+  "launch_handler": {
+    "client_mode": "focus-existing"
+  },
   "categories": [
     "health",
     "medical",
     "education"
   ],
+  "lang": "tr",
   "scope": "/tr/",
   "start_url": "/tr/",
   "icons": [
