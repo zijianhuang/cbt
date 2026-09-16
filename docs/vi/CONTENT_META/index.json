@@ -320,7 +320,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "Tầm nhìn bình thường: 5; Thiếu hụt màu đỏ-xanh: 2"
+            "description": "Tầm nhìn bình thường: 5; Thiếu hụt sắc đỏ-xanh: 2"
           },
           {
             "platePath": "7.svg",
@@ -504,7 +504,7 @@
             "deficiency": [
               "45"
             ],
-            "description": "Cảnh quan bình thường: không có gì; Thiếu hụt sắc đỏ-xanh: 45"
+            "description": "Thị lực bình thường: không có gì; Thiếu hụt sắc đỏ-xanh: 45"
           },
           {
             "platePath": "22.svg",
@@ -690,7 +690,7 @@
               "8",
               "3"
             ],
-            "description": "Chế độ xem bình thường: không có gì; Thiếu sắc đỏ-xanh: 2"
+            "description": "Chế độ bình thường: không có gì; Thiếu hụt sắc đỏ-xanh: 2"
           },
           {
             "platePath": "20.svg",
@@ -704,7 +704,7 @@
               "∅",
               "23"
             ],
-            "description": "Cảnh quan bình thường: không có gì; Thiếu hụt sắc đỏ-xanh: 45"
+            "description": "Thị lực bình thường: không có gì; Thiếu hụt sắc đỏ-xanh: 45"
           },
           {
             "platePath": "21.svg",
@@ -718,7 +718,7 @@
               "43",
               "22"
             ],
-            "description": "Chế độ xem bình thường: không có gì; Thiếu hụt màu đỏ-xanh lá: 73"
+            "description": "Chế độ xem bình thường: không có gì; Thiếu hụt sắc đỏ-xanh: 73"
           },
           {
             "platePath": "28.svg",
@@ -1088,7 +1088,7 @@
             "deficiency": [
               "45"
             ],
-            "description": "Thị lực bình thường: không có gì; Thiếu hụt sắc đỏ-xanh: 45"
+            "description": "Quan sát bình thường: không có gì; Thiếu hụt sắc đỏ-xanh: 45"
           },
           {
             "platePath": "21.svg",
@@ -1105,7 +1105,7 @@
             "deficiency": [
               "73"
             ],
-            "description": "Chế độ xem bình thường: không có gì; Thiếu hụt màu đỏ-xanh lá: 73"
+            "description": "Chế độ xem bình thường: không có gì; Thiếu hụt sắc đỏ-xanh: 73"
           },
           {
             "platePath": "22.svg",

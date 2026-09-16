@@ -1587,7 +1587,7 @@
             "nature": "Letter",
             "input": "LetterPad",
             "answer": "B",
-            "description": "Suchen Sie den Buchstaben"
+            "description": "Brief suchen"
           },
           {
             "platePath": "ishihara_C.svg",

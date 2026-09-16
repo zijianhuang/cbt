@@ -253,7 +253,7 @@
     {
       "dir": "24-plate",
       "test": {
-        "title": "이시하라 접시 24점",
+        "title": "이시하라 접시 24개",
         "description": "마틴 크르지빈스키가 정밀하게 다듬은 이시하라 플레이트 24점",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [

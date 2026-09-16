@@ -1587,7 +1587,7 @@
             "nature": "Letter",
             "input": "LetterPad",
             "answer": "B",
-            "description": "حدد موقع الرسالة"
+            "description": "ابحث عن الرسالة"
           },
           {
             "platePath": "ishihara_C.svg",
