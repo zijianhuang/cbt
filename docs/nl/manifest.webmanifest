@@ -1,7 +1,7 @@
 {
   "name": "Ishihara-kleurenblindheidstest",
   "short_name": "Kleurenblind",
-  "description": "Test uw kleurenzicht met Ishihara-platen voor een snelle screening op kleurenblindheid.",
+  "description": "Controleer uw kleurwaarneming met Ishihara-platen voor een snelle screening op kleurenblindheid.",
   "id": "Fonlow.ColorBlindTest",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",

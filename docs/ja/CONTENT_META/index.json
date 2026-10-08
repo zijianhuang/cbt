@@ -1,13 +1,13 @@
 {
   "$schema": "https://raw.githubusercontent.com/zijianhuang/schemas/refs/heads/main/json/AllColorBlindTestsSchema.json",
-  "title": "石原版（2026）",
-  "description": "石原式分類表複数セット",
+  "title": "石原表 (2026)",
+  "description": "石原式色覚検査表の複数セット",
   "testContents": [
     {
       "dir": "14-plate",
       "test": {
-        "title": "石原式分類図鑑14枚",
-        "description": "マーティン・クシウィンスキーによって精緻化された石原版14枚",
+        "title": "石原式色覚検査表（14枚）",
+        "description": "マーティン・クジウィンスキーが改良した14枚の石原表",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -15,7 +15,7 @@
             "nature": "Letter",
             "input": "Buttons",
             "answer": "12",
-            "description": "誰もが12という数字を見るべきだ。",
+            "description": "誰もが「ナンバー12」を見るべきです。",
             "buttonTexts": [
               "21",
               "17",
@@ -39,7 +39,7 @@
             "deficiency": [
               "3"
             ],
-            "description": "正常視野：8；赤緑色覚異常：3"
+            "description": "正常な見え方：8；赤緑色覚異常：3"
           },
           {
             "platePath": "6.svg",
@@ -56,7 +56,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "正常視野：5；赤緑色覚異常：2"
+            "description": "正常な色覚：5；赤緑色覚異常：2"
           },
           {
             "platePath": "4.svg",
@@ -73,7 +73,7 @@
             "deficiency": [
               "70"
             ],
-            "description": "正常視野：29；赤緑色覚異常：70"
+            "description": "正常な見え方：29；赤緑色覚異常：70"
           },
           {
             "platePath": "9.svg",
@@ -90,7 +90,7 @@
             "deficiency": [
               "21"
             ],
-            "description": "正常視野：74；赤緑色覚異常：21"
+            "description": "正常な見え方：74、赤緑色覚異常：21"
           },
           {
             "platePath": "15.svg",
@@ -107,7 +107,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常な視野：7；赤緑色覚異常：ほとんどの人は何も見えないか、何か異常が見える。"
+            "description": "正常な視覚：7；赤緑色覚異常：多くの人は何も見えないか、何か違ったものが見える。"
           },
           {
             "platePath": "13.svg",
@@ -124,7 +124,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常な視野: 45; 赤緑色覚異常: ほとんどの人は何も見えないか、何か異常が見える。"
+            "description": "正常な視覚：45；赤緑色覚異常：多くの人は何も見えないか、あるいは異なって見えます。"
           },
           {
             "platePath": "10.svg",
@@ -141,7 +141,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常な視界: 2; 赤緑色覚異常: ほとんどの人は何も見えないか、何かがおかしいと感じる。"
+            "description": "正常な視覚：2；赤緑色覚異常：多くの人は何も見えないか、あるいは何か違ったものが見えます。"
           },
           {
             "platePath": "19.svg",
@@ -158,7 +158,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "通常の視界：なし；赤緑色覚異常：2"
+            "description": "正常な見え方：何も見えない；赤緑色覚異常：2"
           },
           {
             "platePath": "16.svg",
@@ -175,7 +175,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常な視野: 16; 赤緑色覚異常: ほとんどの人は何も見えないか、何か異常が見える。"
+            "description": "正常な視覚：16；赤緑色覚異常：多くの人は何も見えないか、あるいは異なって見えます。"
           },
           {
             "platePath": "31.svg",
@@ -191,7 +191,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "正常表示：青緑色の線；赤緑色欠損：∅"
+            "description": "正常な視覚：青緑色の線；赤緑色覚異常：∅"
           },
           {
             "platePath": "24.svg",
@@ -209,7 +209,7 @@
               "5",
               "3"
             ],
-            "description": "正常視力：35；第一色覚異常または第一色覚異常：5；第二色覚異常または第二色覚異常：3"
+            "description": "正常な色覚：35；第一色覚異常（第一色盲または第一色弱）：5；第二色覚異常（第二色盲または第二色弱）：3"
           },
           {
             "platePath": "25.svg",
@@ -227,7 +227,7 @@
               "6",
               "9"
             ],
-            "description": "正常視力：96；第一色覚異常または第一色覚異常：6；第二色覚異常または第二色覚異常：9"
+            "description": "正常な見え方：96；1色覚（赤）または赤色弱：6；1色覚（緑）または緑色弱：9"
           },
           {
             "platePath": "27.svg",
@@ -245,7 +245,7 @@
               "draw_27_purple.svg",
               "draw_27_red.svg"
             ],
-            "description": "通常の視界：紫と赤の斑点；第一色覚異常：紫の線のみ；第二色覚異常：赤の線のみ"
+            "description": "通常の視覚：紫と赤の点；1色覚（プロタノピア）または1色覚（プロタノマリー）：紫の線のみ；1色覚（デウテラノピア）または1色覚（デウテラノマリー）：赤の線のみ"
           }
         ]
       }
@@ -253,8 +253,8 @@
     {
       "dir": "24-plate",
       "test": {
-        "title": "石原式色覚検査表24枚",
-        "description": "マルティン・クシウィンスキーによって精緻化された石原版24枚",
+        "title": "石原式色覚検査表（24枚）",
+        "description": "Martin Krzywinskiが改良した24枚の石原表",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -262,7 +262,7 @@
             "nature": "Letter",
             "input": "Buttons",
             "answer": "12",
-            "description": "誰もが12という数字を見るべきだ。",
+            "description": "誰もが「ナンバー12」を見るべきです。",
             "buttonTexts": [
               "21",
               "17",
@@ -286,7 +286,7 @@
             "deficiency": [
               "3"
             ],
-            "description": "正常視野：8；赤緑色覚異常：3"
+            "description": "正常な見え方：8；赤緑色覚異常：3"
           },
           {
             "platePath": "4.svg",
@@ -303,7 +303,7 @@
             "deficiency": [
               "70"
             ],
-            "description": "正常視野：29；赤緑色覚異常：70"
+            "description": "正常な見え方：29；赤緑色覚異常：70"
           },
           {
             "platePath": "6.svg",
@@ -320,7 +320,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "正常視野：5；赤緑色覚異常：2"
+            "description": "正常な色覚：5；赤緑色覚異常：2"
           },
           {
             "platePath": "7.svg",
@@ -337,7 +337,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "正常視野：3；赤緑色覚異常：5"
+            "description": "正常な見え方：3；赤緑色覚異常：5"
           },
           {
             "platePath": "8.svg",
@@ -354,7 +354,7 @@
             "deficiency": [
               "17"
             ],
-            "description": "正常視野：15；赤緑色覚異常：17"
+            "description": "正常な色覚：15；赤緑色覚異常：17"
           },
           {
             "platePath": "9.svg",
@@ -371,7 +371,7 @@
             "deficiency": [
               "21"
             ],
-            "description": "正常視野：74；赤緑色覚異常：21"
+            "description": "正常な見え方：74、赤緑色覚異常：21"
           },
           {
             "platePath": "11.svg",
@@ -385,7 +385,7 @@
               "∅",
               "8"
             ],
-            "description": "正常な視界: 6; 赤緑色覚異常: ほとんどの人は何も見えないか、何かがおかしいと感じる。"
+            "description": "正常な視覚：6；赤緑色覚異常：多くの人は何も見えないか、あるいは何か別のものが見えます。"
           },
           {
             "platePath": "13.svg",
@@ -402,7 +402,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常な視野: 45; 赤緑色覚異常: ほとんどの人は何も見えないか、何か異常が見える。"
+            "description": "正常な視覚：45；赤緑色覚異常：多くの人は何も見えないか、あるいは異なって見えます。"
           },
           {
             "platePath": "14.svg",
@@ -419,7 +419,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常な視力: 5; 赤緑色覚異常: ほとんどの人は何も見えないか、何か異常が見える。"
+            "description": "正常な視覚：5；赤緑色覚異常：多くの人は何も見えないか、あるいは何か別のものが見えます。"
           },
           {
             "platePath": "15.svg",
@@ -436,7 +436,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常な視野：7；赤緑色覚異常：ほとんどの人は何も見えないか、何か異常が見える。"
+            "description": "正常な視覚：7；赤緑色覚異常：多くの人は何も見えないか、何か違ったものが見える。"
           },
           {
             "platePath": "16.svg",
@@ -453,7 +453,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常な視野: 16; 赤緑色覚異常: ほとんどの人は何も見えないか、何か異常が見える。"
+            "description": "正常な視覚：16；赤緑色覚異常：多くの人は何も見えないか、あるいは異なって見えます。"
           },
           {
             "platePath": "17.svg",
@@ -470,7 +470,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常な視力：73；赤緑色覚異常：ほとんどの人は何も見えないか、何か異常が見える。"
+            "description": "正常な視覚：73；赤緑色覚異常：多くの人は何も見えないか、あるいは何か別のものが見えます。"
           },
           {
             "platePath": "18.svg",
@@ -487,7 +487,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "通常の視界：なし；赤緑色覚異常：5"
+            "description": "正常な見え方：何も見えない；赤緑色覚異常：5"
           },
           {
             "platePath": "20.svg",
@@ -504,7 +504,7 @@
             "deficiency": [
               "45"
             ],
-            "description": "通常の視界：なし；赤緑色覚異常：45"
+            "description": "正常な見え方：何も見えない；赤緑色覚異常：45"
           },
           {
             "platePath": "22.svg",
@@ -522,7 +522,7 @@
               "6",
               "2"
             ],
-            "description": "正常視力：26；第一色覚異常または第一色覚異常：6；第二色覚異常または第二色覚異常：2"
+            "description": "正常な色覚：26；第一色覚異常（第一色盲または第一色弱）：6；第二色覚異常（第二色盲または第二色弱）：2"
           },
           {
             "platePath": "23.svg",
@@ -540,7 +540,7 @@
               "2",
               "4"
             ],
-            "description": "正常視力：42；第一色覚異常または第一色覚異常：2；第二色覚異常または第二色覚異常：4"
+            "description": "正常な色覚：42；第一色覚異常（第一色盲または第一色弱）：2；第二色覚異常（第二色盲または第二色弱）：4"
           },
           {
             "platePath": "26.svg",
@@ -558,7 +558,7 @@
               "draw_26_purple.svg",
               "draw_26_red.svg"
             ],
-            "description": "通常の視界：紫と赤の斑点；第一色覚異常：紫の線のみ；第二色覚異常：赤の線のみ"
+            "description": "通常の視覚：紫と赤の点；1色覚（プロタノピア）または1色覚（プロタノマリー）：紫の線のみ；1色覚（デウテラノピア）または1色覚（デウテラノマリー）：赤の線のみ"
           },
           {
             "platePath": "28.svg",
@@ -574,7 +574,7 @@
             "deficiency": [
               "draw_28_deficiency_red_green.svg"
             ],
-            "description": "通常の表示：何も表示されない；赤緑色覚異常：線が表示される"
+            "description": "正常な見え方：何も見えない；赤緑色覚異常：線が見える"
           },
           {
             "platePath": "30.svg",
@@ -590,7 +590,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "正常表示：青緑色の線；赤緑色欠損：∅"
+            "description": "正常な視覚：青緑色の線；赤緑色覚異常：∅"
           },
           {
             "platePath": "32.svg",
@@ -606,7 +606,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "正常な表示：オレンジ色の線；赤緑色覚異常：∅または偽の線"
+            "description": "正常な見え方：オレンジ色の線；赤緑色覚異常：∅ または誤った線"
           },
           {
             "platePath": "35.svg",
@@ -622,7 +622,7 @@
             "deficiency": [
               "draw_35_deficiency.svg"
             ],
-            "description": "正常な視野：青緑色と黄緑色の線；赤緑色覚異常：青緑色と紫色の線のみ"
+            "description": "正常な見え方：青緑色と黄緑色の線；赤緑色覚異常：青緑色と紫色の線のみ"
           },
           {
             "platePath": "37.svg",
@@ -639,7 +639,7 @@
             "deficiency": [
               "draw_37_deficiency.svg"
             ],
-            "description": "正常な視野：紫とオレンジの線；赤緑色覚異常：青緑色と紫の線"
+            "description": "正常な見え方：紫とオレンジの線；赤緑色覚異常：青緑と紫の線"
           },
           {
             "platePath": "38.svg",
@@ -652,7 +652,7 @@
               "draw_38.svg",
               "draw_33.svg"
             ],
-            "description": "誰もが同じ線を見るべきだ"
+            "description": "全員が同じ線を見ているはずです。"
           }
         ]
       }
@@ -660,8 +660,8 @@
     {
       "dir": "Hidden-plate",
       "test": {
-        "title": "石原隠皿",
-        "description": "色覚異常のある人だけが読み取ることができます",
+        "title": "石原式隠しプレート",
+        "description": "色覚に特性のある方のみが読み取ることができます。",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -676,7 +676,7 @@
               "6",
               "7"
             ],
-            "description": "通常の視界：なし；赤緑色覚異常：5"
+            "description": "正常な見え方：何も見えない；赤緑色覚異常：5"
           },
           {
             "platePath": "19.svg",
@@ -690,7 +690,7 @@
               "8",
               "3"
             ],
-            "description": "通常の視界：なし；赤緑色覚異常：2"
+            "description": "正常な見え方：何も見えない；赤緑色覚異常：2"
           },
           {
             "platePath": "20.svg",
@@ -704,7 +704,7 @@
               "∅",
               "23"
             ],
-            "description": "通常の視界：なし；赤緑色覚異常：45"
+            "description": "正常な見え方：何も見えない；赤緑色覚異常：45"
           },
           {
             "platePath": "21.svg",
@@ -718,7 +718,7 @@
               "43",
               "22"
             ],
-            "description": "通常の視界：なし；赤緑色覚異常：73"
+            "description": "正常な見え方：何も見えない；赤緑色覚異常：73"
           },
           {
             "platePath": "28.svg",
@@ -731,7 +731,7 @@
               "draw_28_deficiency_red_green.svg",
               "empty-set.svg"
             ],
-            "description": "通常の表示：何も表示されない；赤緑色覚異常：線が表示される"
+            "description": "正常な見え方：何も見えない；赤緑色覚異常：線が見える"
           },
           {
             "platePath": "29.svg",
@@ -744,7 +744,7 @@
               "draw_32.svg",
               "draw_29_deficiency_red_green.svg"
             ],
-            "description": "通常の表示：何も表示されない；赤緑色覚異常：線が表示される"
+            "description": "正常な見え方：何も見えない；赤緑色覚異常：線が見える"
           }
         ]
       }
@@ -752,8 +752,8 @@
     {
       "dir": "MartinKrzywinski",
       "test": {
-        "title": "石原式分類図鑑38枚",
-        "description": "マルティン・クシウィンスキーによって精緻化された石原版38枚",
+        "title": "石原式色覚検査表（38表）",
+        "description": "マーティン・クジウィンスキーが改良した38枚の石原表",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -761,7 +761,7 @@
             "nature": "Letter",
             "input": "Buttons",
             "answer": "12",
-            "description": "誰もが12という数字を見るべきだ。",
+            "description": "誰もが「ナンバー12」を見るべきです。",
             "buttonTexts": [
               "21",
               "17",
@@ -785,7 +785,7 @@
             "deficiency": [
               "3"
             ],
-            "description": "正常視野：8；赤緑色覚異常：3"
+            "description": "正常な見え方：8；赤緑色覚異常：3"
           },
           {
             "platePath": "3.svg",
@@ -802,7 +802,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "正常視野：6；赤緑色覚異常：5"
+            "description": "正常な見え方：6；赤緑色覚異常：5"
           },
           {
             "platePath": "4.svg",
@@ -819,7 +819,7 @@
             "deficiency": [
               "70"
             ],
-            "description": "正常視野：29；赤緑色覚異常：70"
+            "description": "正常な見え方：29；赤緑色覚異常：70"
           },
           {
             "platePath": "5.svg",
@@ -836,7 +836,7 @@
             "deficiency": [
               "35"
             ],
-            "description": "正常視野：57；赤緑色覚異常：35"
+            "description": "正常な色覚：57；赤緑色覚異常：35"
           },
           {
             "platePath": "6.svg",
@@ -853,7 +853,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "正常視野：5；赤緑色覚異常：2"
+            "description": "正常な色覚：5；赤緑色覚異常：2"
           },
           {
             "platePath": "7.svg",
@@ -870,7 +870,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "正常視野：3；赤緑色覚異常：5"
+            "description": "正常な見え方：3；赤緑色覚異常：5"
           },
           {
             "platePath": "8.svg",
@@ -887,7 +887,7 @@
             "deficiency": [
               "17"
             ],
-            "description": "正常視野：15；赤緑色覚異常：17"
+            "description": "正常な色覚：15；赤緑色覚異常：17"
           },
           {
             "platePath": "9.svg",
@@ -904,7 +904,7 @@
             "deficiency": [
               "21"
             ],
-            "description": "正常視野：74；赤緑色覚異常：21"
+            "description": "正常な見え方：74、赤緑色覚異常：21"
           },
           {
             "platePath": "10.svg",
@@ -921,7 +921,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常な視界: 2; 赤緑色覚異常: ほとんどの人は何も見えないか、何かがおかしいと感じる。"
+            "description": "正常な視覚：2；赤緑色覚異常：多くの人は何も見えないか、あるいは何か違ったものが見えます。"
           },
           {
             "platePath": "11.svg",
@@ -935,7 +935,7 @@
               "∅",
               "8"
             ],
-            "description": "正常な視界: 6; 赤緑色覚異常: ほとんどの人は何も見えないか、何かがおかしいと感じる。"
+            "description": "正常な視覚：6；赤緑色覚異常：多くの人は何も見えないか、あるいは何か別のものが見えます。"
           },
           {
             "platePath": "12.svg",
@@ -952,7 +952,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常な視力：97；赤緑色覚異常：ほとんどの人は何も見えないか、何か異常が見える。"
+            "description": "通常の視覚：97；赤緑色覚異常：多くの人は何も見えないか、あるいは何か違ったものが見えます。"
           },
           {
             "platePath": "13.svg",
@@ -969,7 +969,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常な視野: 45; 赤緑色覚異常: ほとんどの人は何も見えないか、何か異常が見える。"
+            "description": "正常な視覚：45；赤緑色覚異常：多くの人は何も見えないか、あるいは異なって見えます。"
           },
           {
             "platePath": "14.svg",
@@ -986,7 +986,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常な視力: 5; 赤緑色覚異常: ほとんどの人は何も見えないか、何か異常が見える。"
+            "description": "正常な視覚：5；赤緑色覚異常：多くの人は何も見えないか、あるいは何か別のものが見えます。"
           },
           {
             "platePath": "15.svg",
@@ -1003,7 +1003,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常な視野：7；赤緑色覚異常：ほとんどの人は何も見えないか、何か異常が見える。"
+            "description": "正常な視覚：7；赤緑色覚異常：多くの人は何も見えないか、何か違ったものが見える。"
           },
           {
             "platePath": "16.svg",
@@ -1020,7 +1020,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常な視野: 16; 赤緑色覚異常: ほとんどの人は何も見えないか、何か異常が見える。"
+            "description": "正常な視覚：16；赤緑色覚異常：多くの人は何も見えないか、あるいは異なって見えます。"
           },
           {
             "platePath": "17.svg",
@@ -1037,7 +1037,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常な視力：73；赤緑色覚異常：ほとんどの人は何も見えないか、何か異常が見える。"
+            "description": "正常な視覚：73；赤緑色覚異常：多くの人は何も見えないか、あるいは何か別のものが見えます。"
           },
           {
             "platePath": "18.svg",
@@ -1054,7 +1054,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "通常の視界：なし；赤緑色覚異常：5"
+            "description": "正常な見え方：何も見えない；赤緑色覚異常：5"
           },
           {
             "platePath": "19.svg",
@@ -1071,7 +1071,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "通常の視界：なし；赤緑色覚異常：2"
+            "description": "正常な見え方：何も見えない；赤緑色覚異常：2"
           },
           {
             "platePath": "20.svg",
@@ -1088,7 +1088,7 @@
             "deficiency": [
               "45"
             ],
-            "description": "通常の視界：なし；赤緑色覚異常：45"
+            "description": "正常な見え方：何も見えない；赤緑色覚異常：45"
           },
           {
             "platePath": "21.svg",
@@ -1105,7 +1105,7 @@
             "deficiency": [
               "73"
             ],
-            "description": "通常の視界：なし；赤緑色覚異常：73"
+            "description": "正常な見え方：何も見えない；赤緑色覚異常：73"
           },
           {
             "platePath": "22.svg",
@@ -1123,7 +1123,7 @@
               "6",
               "2"
             ],
-            "description": "正常視力：26；第一色覚異常または第一色覚異常：6；第二色覚異常または第二色覚異常：2"
+            "description": "正常な色覚：26；第一色覚異常（第一色盲または第一色弱）：6；第二色覚異常（第二色盲または第二色弱）：2"
           },
           {
             "platePath": "23.svg",
@@ -1141,7 +1141,7 @@
               "2",
               "4"
             ],
-            "description": "正常視力：42；第一色覚異常または第一色覚異常：2；第二色覚異常または第二色覚異常：4"
+            "description": "正常な色覚：42；第一色覚異常（第一色盲または第一色弱）：2；第二色覚異常（第二色盲または第二色弱）：4"
           },
           {
             "platePath": "24.svg",
@@ -1159,7 +1159,7 @@
               "5",
               "3"
             ],
-            "description": "正常視力：35；第一色覚異常または第一色覚異常：5；第二色覚異常または第二色覚異常：3"
+            "description": "正常な色覚：35；第一色覚異常（第一色盲または第一色弱）：5；第二色覚異常（第二色盲または第二色弱）：3"
           },
           {
             "platePath": "25.svg",
@@ -1177,7 +1177,7 @@
               "6",
               "9"
             ],
-            "description": "正常視力：96；第一色覚異常または第一色覚異常：6；第二色覚異常または第二色覚異常：9"
+            "description": "正常な見え方：96；1色覚（赤）または赤色弱：6；1色覚（緑）または緑色弱：9"
           },
           {
             "platePath": "26.svg",
@@ -1195,7 +1195,7 @@
               "draw_26_purple.svg",
               "draw_26_red.svg"
             ],
-            "description": "通常の視界：紫と赤の斑点；第一色覚異常：紫の線のみ；第二色覚異常：赤の線のみ"
+            "description": "通常の視覚：紫と赤の点；1色覚（プロタノピア）または1色覚（プロタノマリー）：紫の線のみ；1色覚（デウテラノピア）または1色覚（デウテラノマリー）：赤の線のみ"
           },
           {
             "platePath": "27.svg",
@@ -1213,7 +1213,7 @@
               "draw_27_purple.svg",
               "draw_27_red.svg"
             ],
-            "description": "通常の視界：紫と赤の斑点；第一色覚異常：紫の線のみ；第二色覚異常：赤の線のみ"
+            "description": "通常の視覚：紫と赤の点；1色覚（プロタノピア）または1色覚（プロタノマリー）：紫の線のみ；1色覚（デウテラノピア）または1色覚（デウテラノマリー）：赤の線のみ"
           },
           {
             "platePath": "28.svg",
@@ -1229,7 +1229,7 @@
             "deficiency": [
               "draw_28_deficiency_red_green.svg"
             ],
-            "description": "通常の表示：何も表示されない；赤緑色覚異常：線が表示される"
+            "description": "正常な見え方：何も見えない；赤緑色覚異常：線が見える"
           },
           {
             "platePath": "29.svg",
@@ -1245,7 +1245,7 @@
             "deficiency": [
               "draw_29_deficiency_red_green.svg"
             ],
-            "description": "通常の表示：何も表示されない；赤緑色覚異常：線が表示される"
+            "description": "正常な見え方：何も見えない；赤緑色覚異常：線が見える"
           },
           {
             "platePath": "30.svg",
@@ -1261,7 +1261,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "正常表示：青緑色の線；赤緑色欠損：∅"
+            "description": "正常な視覚：青緑色の線；赤緑色覚異常：∅"
           },
           {
             "platePath": "31.svg",
@@ -1277,7 +1277,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "正常表示：青緑色の線；赤緑色欠損：∅"
+            "description": "正常な視覚：青緑色の線；赤緑色覚異常：∅"
           },
           {
             "platePath": "32.svg",
@@ -1293,7 +1293,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "正常な表示：オレンジ色の線；赤緑色覚異常：∅または偽の線"
+            "description": "正常な見え方：オレンジ色の線；赤緑色覚異常：∅ または誤った線"
           },
           {
             "platePath": "33.svg",
@@ -1309,7 +1309,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "正常な表示：オレンジ色の線；赤緑色覚異常：∅または偽の線"
+            "description": "正常な見え方：オレンジ色の線；赤緑色覚異常：∅ または誤った線"
           },
           {
             "platePath": "34.svg",
@@ -1325,7 +1325,7 @@
             "deficiency": [
               "draw_34_deficiency.svg"
             ],
-            "description": "正常な表示：青緑色と黄緑色の線；赤緑色覚異常：赤緑色と紫色の線のみ"
+            "description": "正常な見え方：青緑色と黄緑色の線；赤緑色覚異常：赤緑色と紫色の線のみ"
           },
           {
             "platePath": "35.svg",
@@ -1341,7 +1341,7 @@
             "deficiency": [
               "draw_35_deficiency.svg"
             ],
-            "description": "正常な視野：青緑色と黄緑色の線；赤緑色覚異常：青緑色と紫色の線のみ"
+            "description": "正常な見え方：青緑色と黄緑色の線；赤緑色覚異常：青緑色と紫色の線のみ"
           },
           {
             "platePath": "36.svg",
@@ -1358,7 +1358,7 @@
             "deficiency": [
               "draw_36_deficiency.svg"
             ],
-            "description": "正常な視野：紫とオレンジの線；赤緑色覚異常：青緑色と紫の線"
+            "description": "正常な見え方：紫とオレンジの線；赤緑色覚異常：青緑と紫の線"
           },
           {
             "platePath": "37.svg",
@@ -1375,7 +1375,7 @@
             "deficiency": [
               "draw_37_deficiency.svg"
             ],
-            "description": "正常な視野：紫とオレンジの線；赤緑色覚異常：青緑色と紫の線"
+            "description": "正常な見え方：紫とオレンジの線；赤緑色覚異常：青緑と紫の線"
           },
           {
             "platePath": "38.svg",
@@ -1388,7 +1388,7 @@
               "draw_38.svg",
               "draw_33.svg"
             ],
-            "description": "誰もが同じ線を見るべきだ"
+            "description": "全員が同じ線を見ているはずです。"
           }
         ]
       }
@@ -1397,7 +1397,7 @@
       "dir": "Numbers_MixedBackground",
       "test": {
         "title": "数字",
-        "description": "数字～混合背景",
+        "description": "数字 ～ ミックス背景",
         "maxPlates": 10,
         "dir": "../../SVG_Files/Numbers_MixedBackground",
         "plates": [
@@ -1486,7 +1486,7 @@
       "dir": "Shape_Object",
       "test": {
         "title": "オブジェクト",
-        "description": "形と物体",
+        "description": "形状とオブジェクト",
         "dir": "../../SVG_Files/Shape_Object",
         "plates": [
           {
@@ -1587,7 +1587,7 @@
             "nature": "Letter",
             "input": "LetterPad",
             "answer": "B",
-            "description": "手紙を探す"
+            "description": "手紙の場所を特定する"
           },
           {
             "platePath": "ishihara_C.svg",

@@ -1,7 +1,7 @@
 {
-  "name": "Prueba de daltonismo de Ishihara",
-  "short_name": "Daltonismo",
-  "description": "Comprueba tu visión del color con las láminas de Ishihara para una detección rápida del daltonismo.",
+  "name": "Prueba de Ishihara para el daltonismo",
+  "short_name": "Daltónico",
+  "description": "Evalúe su visión cromática con las láminas de Ishihara para una detección rápida del daltonismo.",
   "id": "Fonlow.ColorBlindTest",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",

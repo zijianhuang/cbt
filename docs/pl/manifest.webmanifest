@@ -1,7 +1,7 @@
 {
-  "name": "Test na daltonizm Ishihary",
+  "name": "Test Ishihary na rozpoznawanie barw",
   "short_name": "Daltonista",
-  "description": "Sprawdź swoje widzenie kolorów za pomocą tablic Ishihary, co pozwoli Ci szybko wykryć daltonizm.",
+  "description": "Sprawdź swoje widzenie barwne za pomocą tablic Ishihary, aby szybko wykryć ewentualną ślepotę barw.",
   "id": "Fonlow.ColorBlindTest",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",

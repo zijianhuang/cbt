@@ -1,7 +1,7 @@
 {
   "name": "Tes Buta Warna Ishihara",
-  "short_name": "Buta Warna",
-  "description": "Periksa penglihatan warna Anda dengan pelat Ishihara untuk skrining buta warna cepat.",
+  "short_name": "Buta warna",
+  "description": "Periksa penglihatan warna Anda menggunakan pelat Ishihara untuk skrining buta warna yang cepat.",
   "id": "Fonlow.ColorBlindTest",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",

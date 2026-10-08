@@ -1,7 +1,7 @@
 {
   "name": "石原氏色盲测试",
   "short_name": "色盲",
-  "description": "使用石原氏色盲测试图快速筛查色觉。",
+  "description": "使用石原氏色盲检查图（Ishihara plates）检查色觉，进行快速色盲筛查。",
   "id": "Fonlow.ColorBlindTest",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",

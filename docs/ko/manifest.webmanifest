@@ -1,7 +1,7 @@
 {
-  "name": "이시하라 색맹 검사",
+  "name": "이시하라 색각 검사",
   "short_name": "색맹",
-  "description": "이시하라 색맹 검사표를 사용하여 빠르게 색각을 확인해 보세요.",
+  "description": "간편한 색맹 검사를 위해 이시하라 색각표로 색각을 확인해 보세요.",
   "id": "Fonlow.ColorBlindTest",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",

@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1789596826773,
+  "timestamp": 1791491177017,
   "appData": "Fonlow.ColorBlindTest.ServiceWorker",
   "index": "/cbt/ru/index.html",
   "assetGroups": [
@@ -12,7 +12,7 @@
         "ignoreVary": true
       },
       "urls": [
-        "/cbt/ru/styles-FDIKEPEV.css"
+        "/cbt/ru/styles-QAIHHN72.css"
       ],
       "patterns": []
     },
@@ -24,9 +24,9 @@
         "ignoreVary": true
       },
       "urls": [
-        "/cbt/ru/main-FUATZYX5.js",
-        "/cbt/ru/polyfills-ZZ3QNWJ3.js",
-        "/cbt/ru/scripts-2WFIHJND.js"
+        "/cbt/ru/main-VZU74TLL.js",
+        "/cbt/ru/polyfills-5RZQU3U6.js",
+        "/cbt/ru/scripts-555OJNPI.js"
       ],
       "patterns": []
     },
@@ -73,8 +73,8 @@
         "ignoreVary": true
       },
       "urls": [
-        "/cbt/ru/media/material-symbols-outlined-latin-400-normal-B7DPBS27.woff",
-        "/cbt/ru/media/material-symbols-outlined-latin-400-normal-K6BLXDDP.woff2"
+        "/cbt/ru/media/material-symbols-outlined-latin-400-normal-6JBQYTB6.woff",
+        "/cbt/ru/media/material-symbols-outlined-latin-400-normal-AACPWZOV.woff2"
       ],
       "patterns": []
     }
@@ -137,12 +137,12 @@
     "/cbt/ru/assets/themes/cyan-orange.css": "db756b0d1f88bee9cbfc8c5417203f67eb690086",
     "/cbt/ru/assets/themes/magenta-violet.css": "7a58db77acee34a257c0c6c1dc360fa7f3142f6c",
     "/cbt/ru/assets/themes/rose-red.css": "b39d843369c203984c6a04c702b4cd30ac47a98a",
-    "/cbt/ru/main-FUATZYX5.js": "178841d45dca1d96f0a7ae4afbc143b86e7016c5",
-    "/cbt/ru/media/material-symbols-outlined-latin-400-normal-B7DPBS27.woff": "aefe60fd3460687e7272b5f3f7204c2ccc285109",
-    "/cbt/ru/media/material-symbols-outlined-latin-400-normal-K6BLXDDP.woff2": "fb72317ce3fa6d0c7b0d9ca6bc1877e84613a5aa",
-    "/cbt/ru/polyfills-ZZ3QNWJ3.js": "2289afa7908b61142241d4b6c4cdc9bf31d3c913",
-    "/cbt/ru/scripts-2WFIHJND.js": "7ac8637db592785d675d48297851d28accc84030",
-    "/cbt/ru/styles-FDIKEPEV.css": "b36fc0d95f8cecbd6a54568da1f001eb16b22852"
+    "/cbt/ru/main-VZU74TLL.js": "5c7ea5da09acfcc774bbedb1c5350eda2cf2007d",
+    "/cbt/ru/media/material-symbols-outlined-latin-400-normal-6JBQYTB6.woff": "b9c4f248c5dac10adfb4547fe3eb42fbae390eb1",
+    "/cbt/ru/media/material-symbols-outlined-latin-400-normal-AACPWZOV.woff2": "5dd22a059f836db2e39ffb20e23fc9f752077895",
+    "/cbt/ru/polyfills-5RZQU3U6.js": "5fc0299301a48cf3777cc9b8fd6b4b2251713807",
+    "/cbt/ru/scripts-555OJNPI.js": "bee219291c43de9724c4aee09f08bbd36b156d08",
+    "/cbt/ru/styles-QAIHHN72.css": "1a4a0b582747ad44f1b3ab73d3f96bf0783098a4"
   },
   "navigationUrls": [
     {

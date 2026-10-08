@@ -1,13 +1,13 @@
 {
   "$schema": "https://raw.githubusercontent.com/zijianhuang/schemas/refs/heads/main/json/AllColorBlindTestsSchema.json",
-  "title": "石原氏色盲检查表（2026）",
-  "description": "多套石原氏色盲检测图",
+  "title": "石原氏色盲检查图 (2026)",
+  "description": "多套石原氏色盲检查图",
   "testContents": [
     {
       "dir": "14-plate",
       "test": {
-        "title": "14 块石原氏色盲测试图",
-        "description": "14张石原氏色盲图谱，由马丁·克日温斯基修正",
+        "title": "14 张石原氏色盲检测图",
+        "description": "由 Martin Krzywinski 优化的 14 张石原氏色盲检测图",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -15,7 +15,7 @@
             "nature": "Letter",
             "input": "Buttons",
             "answer": "12",
-            "description": "每个人都应该看到数字12。",
+            "description": "每个人都应该看看数字12。",
             "buttonTexts": [
               "21",
               "17",
@@ -39,7 +39,7 @@
             "deficiency": [
               "3"
             ],
-            "description": "正常视力：8；红绿色盲：3"
+            "description": "正常视觉：8；红绿色觉缺陷：3"
           },
           {
             "platePath": "6.svg",
@@ -56,7 +56,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "正常视力：5；红绿色盲：2"
+            "description": "正常视觉：5；红绿色觉缺陷：2"
           },
           {
             "platePath": "4.svg",
@@ -73,7 +73,7 @@
             "deficiency": [
               "70"
             ],
-            "description": "正常视野：29；红绿色盲：70"
+            "description": "正常视觉：29；红绿色觉缺陷：70"
           },
           {
             "platePath": "9.svg",
@@ -90,7 +90,7 @@
             "deficiency": [
               "21"
             ],
-            "description": "正常视野：74；红绿色盲：21"
+            "description": "正常视觉：74；红绿色觉缺陷：21"
           },
           {
             "platePath": "15.svg",
@@ -107,7 +107,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常视力：7；红绿色盲：大多数人什么也看不见，或者感觉有些不对劲。"
+            "description": "正常视觉：7；红绿色觉缺陷：大多数人什么也看不见，或者看到异常的图案。"
           },
           {
             "platePath": "13.svg",
@@ -124,7 +124,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常视力：45；红绿色盲：大多数人什么也看不见，或者感觉有些不对劲。"
+            "description": "正常视觉：45；红绿色觉缺陷：大多数人看不到任何内容，或看到错误的图案。"
           },
           {
             "platePath": "10.svg",
@@ -141,7 +141,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常视力：2；红绿色盲：大多数人什么也看不见，或者看到一些不正常的东西。"
+            "description": "正常视觉：2；红绿色觉缺陷：大多数人什么也看不见，或者看到的是错误的图案。"
           },
           {
             "platePath": "19.svg",
@@ -158,7 +158,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "正常视野：无；红绿色盲：2"
+            "description": "正常视觉：无；红绿色觉缺陷：2"
           },
           {
             "platePath": "16.svg",
@@ -175,7 +175,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常视力：16；红绿色盲：大多数人什么也看不见，或者感觉有些不对劲。"
+            "description": "正常视觉：16；红绿色觉缺陷：大多数人看不到任何内容，或看到错误的图案。"
           },
           {
             "platePath": "31.svg",
@@ -191,7 +191,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "正常视图：蓝绿色线；红绿色缺陷：∅"
+            "description": "正常视觉：蓝绿色线条；红绿色觉缺陷：∅"
           },
           {
             "platePath": "24.svg",
@@ -209,7 +209,7 @@
               "5",
               "3"
             ],
-            "description": "正常视力：35；红色盲或红色弱视：5；绿色盲或绿色弱视：3"
+            "description": "正常视觉：35；红色盲或红色弱：5；绿色盲或绿色弱：3"
           },
           {
             "platePath": "25.svg",
@@ -227,7 +227,7 @@
               "6",
               "9"
             ],
-            "description": "正常视力：96；红色盲或红色弱视：6；绿色盲或绿色弱视：9"
+            "description": "正常视觉：96；红色盲或红色弱：6；绿色盲或绿色弱：9"
           },
           {
             "platePath": "27.svg",
@@ -245,7 +245,7 @@
               "draw_27_purple.svg",
               "draw_27_red.svg"
             ],
-            "description": "正常视野：紫色和红色斑点；红色盲或红色弱视：仅紫色线；绿色盲或绿色弱视：仅红色线。"
+            "description": "正常视觉：紫色和红色斑点；红色盲或红色弱：仅见紫色线条；绿色盲或绿色弱：仅见红色线条"
           }
         ]
       }
@@ -253,8 +253,8 @@
     {
       "dir": "24-plate",
       "test": {
-        "title": "24张石原氏色盲测试图",
-        "description": "24张石原氏色盲图谱，由马丁·克日温斯基修正",
+        "title": "24张石原氏色盲检查图",
+        "description": "由 Martin Krzywinski 优化的 24 张石原氏色盲检测图",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -262,7 +262,7 @@
             "nature": "Letter",
             "input": "Buttons",
             "answer": "12",
-            "description": "每个人都应该看到数字12。",
+            "description": "每个人都应该看看数字12。",
             "buttonTexts": [
               "21",
               "17",
@@ -286,7 +286,7 @@
             "deficiency": [
               "3"
             ],
-            "description": "正常视力：8；红绿色盲：3"
+            "description": "正常视觉：8；红绿色觉缺陷：3"
           },
           {
             "platePath": "4.svg",
@@ -303,7 +303,7 @@
             "deficiency": [
               "70"
             ],
-            "description": "正常视野：29；红绿色盲：70"
+            "description": "正常视觉：29；红绿色觉缺陷：70"
           },
           {
             "platePath": "6.svg",
@@ -320,7 +320,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "正常视力：5；红绿色盲：2"
+            "description": "正常视觉：5；红绿色觉缺陷：2"
           },
           {
             "platePath": "7.svg",
@@ -337,7 +337,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "正常视力：3；红绿色盲：5"
+            "description": "正常视觉：3；红绿色觉缺陷：5"
           },
           {
             "platePath": "8.svg",
@@ -354,7 +354,7 @@
             "deficiency": [
               "17"
             ],
-            "description": "正常视野：15；红绿色盲：17"
+            "description": "正常视觉：15；红绿色觉缺陷：17"
           },
           {
             "platePath": "9.svg",
@@ -371,7 +371,7 @@
             "deficiency": [
               "21"
             ],
-            "description": "正常视野：74；红绿色盲：21"
+            "description": "正常视觉：74；红绿色觉缺陷：21"
           },
           {
             "platePath": "11.svg",
@@ -385,7 +385,7 @@
               "∅",
               "8"
             ],
-            "description": "正常视力：6；红绿色盲：大多数人什么也看不见，或者看到一些不正常的东西。"
+            "description": "正常视觉：6；红绿色觉缺陷：大多数人看不到任何内容，或看到错误的图案。"
           },
           {
             "platePath": "13.svg",
@@ -402,7 +402,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常视力：45；红绿色盲：大多数人什么也看不见，或者感觉有些不对劲。"
+            "description": "正常视觉：45；红绿色觉缺陷：大多数人看不到任何内容，或看到错误的图案。"
           },
           {
             "platePath": "14.svg",
@@ -419,7 +419,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常视力：5；红绿色盲：大多数人什么也看不见，或者感觉有些不对劲。"
+            "description": "正常视力：5；红绿色觉缺陷：大多数人什么也看不见，或者看到错误的图案。"
           },
           {
             "platePath": "15.svg",
@@ -436,7 +436,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常视力：7；红绿色盲：大多数人什么也看不见，或者感觉有些不对劲。"
+            "description": "正常视觉：7；红绿色觉缺陷：大多数人什么也看不见，或者看到异常的图案。"
           },
           {
             "platePath": "16.svg",
@@ -453,7 +453,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常视力：16；红绿色盲：大多数人什么也看不见，或者感觉有些不对劲。"
+            "description": "正常视觉：16；红绿色觉缺陷：大多数人看不到任何内容，或看到错误的图案。"
           },
           {
             "platePath": "17.svg",
@@ -470,7 +470,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常视力：73；红绿色盲：大多数人什么也看不见，或者感觉有些不对劲。"
+            "description": "正常视觉：73；红绿色觉缺陷：大多数人什么也看不见，或者看到错误的图案。"
           },
           {
             "platePath": "18.svg",
@@ -487,7 +487,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "正常视野：无；红绿色盲：5"
+            "description": "正常视觉：无；红绿色觉缺陷：5"
           },
           {
             "platePath": "20.svg",
@@ -504,7 +504,7 @@
             "deficiency": [
               "45"
             ],
-            "description": "正常视野：无；红绿色盲：45"
+            "description": "正常视觉：无；红绿色觉缺陷：45"
           },
           {
             "platePath": "22.svg",
@@ -522,7 +522,7 @@
               "6",
               "2"
             ],
-            "description": "正常视力：26；红色盲或红色弱视：6；绿色盲或绿色弱视：2"
+            "description": "正常视觉：26；红色盲或红色弱：6；绿色盲或绿色弱：2"
           },
           {
             "platePath": "23.svg",
@@ -540,7 +540,7 @@
               "2",
               "4"
             ],
-            "description": "正常视力：42；红色盲或红色弱视：2；绿色盲或绿色弱视：4"
+            "description": "正常视觉：42；红色盲或红色弱：2；绿色盲或绿色弱：4"
           },
           {
             "platePath": "26.svg",
@@ -558,7 +558,7 @@
               "draw_26_purple.svg",
               "draw_26_red.svg"
             ],
-            "description": "正常视野：紫色和红色斑点；红色盲或红色弱视：仅紫色线；绿色盲或绿色弱视：仅红色线。"
+            "description": "正常视觉：紫色和红色斑点；红色盲或红色弱：仅见紫色线条；绿色盲或绿色弱：仅见红色线条"
           },
           {
             "platePath": "28.svg",
@@ -574,7 +574,7 @@
             "deficiency": [
               "draw_28_deficiency_red_green.svg"
             ],
-            "description": "正常视野：无；红绿灯缺陷：一条线"
+            "description": "正常视觉：无；红绿色觉缺陷：一条线"
           },
           {
             "platePath": "30.svg",
@@ -590,7 +590,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "正常视图：蓝绿色线；红绿色缺陷：∅"
+            "description": "正常视觉：蓝绿色线条；红绿色觉缺陷：∅"
           },
           {
             "platePath": "32.svg",
@@ -606,7 +606,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "正常视图：橙色线；红绿缺陷：∅ 或假线"
+            "description": "正常视觉：橙色线条；红绿色觉缺陷：∅ 或虚假线条"
           },
           {
             "platePath": "35.svg",
@@ -622,7 +622,7 @@
             "deficiency": [
               "draw_35_deficiency.svg"
             ],
-            "description": "正常视野：蓝绿色和黄绿色线；红绿色盲：仅蓝绿色和紫色线"
+            "description": "正常视觉：蓝绿色和黄绿色线条；红绿色觉缺陷：仅见蓝绿色和紫罗兰色线条"
           },
           {
             "platePath": "37.svg",
@@ -639,7 +639,7 @@
             "deficiency": [
               "draw_37_deficiency.svg"
             ],
-            "description": "正常视型：紫橙色线；红绿色盲：蓝绿色和紫紫色线"
+            "description": "正常视觉：紫罗兰色与橙色线条；红绿色觉缺陷：蓝绿色与紫罗兰色线条"
           },
           {
             "platePath": "38.svg",
@@ -652,7 +652,7 @@
               "draw_38.svg",
               "draw_33.svg"
             ],
-            "description": "每个人都应该看到同一条线。"
+            "description": "每个人都应该看到同一条线"
           }
         ]
       }
@@ -660,8 +660,8 @@
     {
       "dir": "Hidden-plate",
       "test": {
-        "title": "石原氏隐盘",
-        "description": "只有色觉缺陷者才能阅读。",
+        "title": "石原隐蔽图",
+        "description": "只有色觉缺陷者才能读出其中的内容。",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -676,7 +676,7 @@
               "6",
               "7"
             ],
-            "description": "正常视野：无；红绿色盲：5"
+            "description": "正常视觉：无；红绿色觉缺陷：5"
           },
           {
             "platePath": "19.svg",
@@ -690,7 +690,7 @@
               "8",
               "3"
             ],
-            "description": "正常视野：无；红绿色盲：2"
+            "description": "正常视觉：无；红绿色觉缺陷：2"
           },
           {
             "platePath": "20.svg",
@@ -704,7 +704,7 @@
               "∅",
               "23"
             ],
-            "description": "正常视野：无；红绿色盲：45"
+            "description": "正常视觉：无；红绿色觉缺陷：45"
           },
           {
             "platePath": "21.svg",
@@ -718,7 +718,7 @@
               "43",
               "22"
             ],
-            "description": "正常视野：无异常；红绿色盲：73"
+            "description": "正常视觉：无；红绿色觉缺陷：73"
           },
           {
             "platePath": "28.svg",
@@ -731,7 +731,7 @@
               "draw_28_deficiency_red_green.svg",
               "empty-set.svg"
             ],
-            "description": "正常视野：无；红绿灯缺陷：一条线"
+            "description": "正常视觉：无；红绿色觉缺陷：一条线"
           },
           {
             "platePath": "29.svg",
@@ -744,7 +744,7 @@
               "draw_32.svg",
               "draw_29_deficiency_red_green.svg"
             ],
-            "description": "正常视野：无；红绿灯缺陷：一条线"
+            "description": "正常视觉：无；红绿色觉缺陷：一条线"
           }
         ]
       }
@@ -752,8 +752,8 @@
     {
       "dir": "MartinKrzywinski",
       "test": {
-        "title": "38 块石原氏色盲测试图",
-        "description": "38张石原氏色盲图谱，由马丁·克日温斯基修正",
+        "title": "38张石原氏色盲检测图",
+        "description": "由 Martin Krzywinski 优化的 38 张石原氏色盲检测图",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -761,7 +761,7 @@
             "nature": "Letter",
             "input": "Buttons",
             "answer": "12",
-            "description": "每个人都应该看到数字12。",
+            "description": "每个人都应该看看数字12。",
             "buttonTexts": [
               "21",
               "17",
@@ -785,7 +785,7 @@
             "deficiency": [
               "3"
             ],
-            "description": "正常视力：8；红绿色盲：3"
+            "description": "正常视觉：8；红绿色觉缺陷：3"
           },
           {
             "platePath": "3.svg",
@@ -802,7 +802,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "正常视力：6；红绿色盲：5"
+            "description": "正常视觉：6；红绿色觉缺陷：5"
           },
           {
             "platePath": "4.svg",
@@ -819,7 +819,7 @@
             "deficiency": [
               "70"
             ],
-            "description": "正常视野：29；红绿色盲：70"
+            "description": "正常视觉：29；红绿色觉缺陷：70"
           },
           {
             "platePath": "5.svg",
@@ -836,7 +836,7 @@
             "deficiency": [
               "35"
             ],
-            "description": "正常视野：57；红绿色盲：35"
+            "description": "正常视觉：57；红绿色觉缺陷：35"
           },
           {
             "platePath": "6.svg",
@@ -853,7 +853,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "正常视力：5；红绿色盲：2"
+            "description": "正常视觉：5；红绿色觉缺陷：2"
           },
           {
             "platePath": "7.svg",
@@ -870,7 +870,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "正常视力：3；红绿色盲：5"
+            "description": "正常视觉：3；红绿色觉缺陷：5"
           },
           {
             "platePath": "8.svg",
@@ -887,7 +887,7 @@
             "deficiency": [
               "17"
             ],
-            "description": "正常视野：15；红绿色盲：17"
+            "description": "正常视觉：15；红绿色觉缺陷：17"
           },
           {
             "platePath": "9.svg",
@@ -904,7 +904,7 @@
             "deficiency": [
               "21"
             ],
-            "description": "正常视野：74；红绿色盲：21"
+            "description": "正常视觉：74；红绿色觉缺陷：21"
           },
           {
             "platePath": "10.svg",
@@ -921,7 +921,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常视力：2；红绿色盲：大多数人什么也看不见，或者看到一些不正常的东西。"
+            "description": "正常视觉：2；红绿色觉缺陷：大多数人什么也看不见，或者看到的是错误的图案。"
           },
           {
             "platePath": "11.svg",
@@ -935,7 +935,7 @@
               "∅",
               "8"
             ],
-            "description": "正常视力：6；红绿色盲：大多数人什么也看不见，或者看到一些不正常的东西。"
+            "description": "正常视觉：6；红绿色觉缺陷：大多数人看不到任何内容，或看到错误的图案。"
           },
           {
             "platePath": "12.svg",
@@ -952,7 +952,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常视力：97；红绿色盲：大多数人什么也看不见，或者感觉有些不对劲。"
+            "description": "正常视觉：97；红绿色觉缺陷：大多数人什么也看不见，或者看到的是错误的图像。"
           },
           {
             "platePath": "13.svg",
@@ -969,7 +969,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常视力：45；红绿色盲：大多数人什么也看不见，或者感觉有些不对劲。"
+            "description": "正常视觉：45；红绿色觉缺陷：大多数人看不到任何内容，或看到错误的图案。"
           },
           {
             "platePath": "14.svg",
@@ -986,7 +986,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常视力：5；红绿色盲：大多数人什么也看不见，或者感觉有些不对劲。"
+            "description": "正常视力：5；红绿色觉缺陷：大多数人什么也看不见，或者看到错误的图案。"
           },
           {
             "platePath": "15.svg",
@@ -1003,7 +1003,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常视力：7；红绿色盲：大多数人什么也看不见，或者感觉有些不对劲。"
+            "description": "正常视觉：7；红绿色觉缺陷：大多数人什么也看不见，或者看到异常的图案。"
           },
           {
             "platePath": "16.svg",
@@ -1020,7 +1020,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常视力：16；红绿色盲：大多数人什么也看不见，或者感觉有些不对劲。"
+            "description": "正常视觉：16；红绿色觉缺陷：大多数人看不到任何内容，或看到错误的图案。"
           },
           {
             "platePath": "17.svg",
@@ -1037,7 +1037,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "正常视力：73；红绿色盲：大多数人什么也看不见，或者感觉有些不对劲。"
+            "description": "正常视觉：73；红绿色觉缺陷：大多数人什么也看不见，或者看到错误的图案。"
           },
           {
             "platePath": "18.svg",
@@ -1054,7 +1054,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "正常视野：无；红绿色盲：5"
+            "description": "正常视觉：无；红绿色觉缺陷：5"
           },
           {
             "platePath": "19.svg",
@@ -1071,7 +1071,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "正常视野：无；红绿色盲：2"
+            "description": "正常视觉：无；红绿色觉缺陷：2"
           },
           {
             "platePath": "20.svg",
@@ -1088,7 +1088,7 @@
             "deficiency": [
               "45"
             ],
-            "description": "正常视野：无；红绿色盲：45"
+            "description": "正常视觉：无；红绿色觉缺陷：45"
           },
           {
             "platePath": "21.svg",
@@ -1105,7 +1105,7 @@
             "deficiency": [
               "73"
             ],
-            "description": "正常视野：无；红绿色盲：73"
+            "description": "正常视觉：无；红绿色觉缺陷：73"
           },
           {
             "platePath": "22.svg",
@@ -1123,7 +1123,7 @@
               "6",
               "2"
             ],
-            "description": "正常视力：26；红色盲或红色弱视：6；绿色盲或绿色弱视：2"
+            "description": "正常视觉：26；红色盲或红色弱：6；绿色盲或绿色弱：2"
           },
           {
             "platePath": "23.svg",
@@ -1141,7 +1141,7 @@
               "2",
               "4"
             ],
-            "description": "正常视力：42；红色盲或红色弱视：2；绿色盲或绿色弱视：4"
+            "description": "正常视觉：42；红色盲或红色弱：2；绿色盲或绿色弱：4"
           },
           {
             "platePath": "24.svg",
@@ -1159,7 +1159,7 @@
               "5",
               "3"
             ],
-            "description": "正常视力：35；红色盲或红色弱视：5；绿色盲或绿色弱视：3"
+            "description": "正常视觉：35；红色盲或红色弱：5；绿色盲或绿色弱：3"
           },
           {
             "platePath": "25.svg",
@@ -1177,7 +1177,7 @@
               "6",
               "9"
             ],
-            "description": "正常视力：96；红色盲或红色弱视：6；绿色盲或绿色弱视：9"
+            "description": "正常视觉：96；红色盲或红色弱：6；绿色盲或绿色弱：9"
           },
           {
             "platePath": "26.svg",
@@ -1195,7 +1195,7 @@
               "draw_26_purple.svg",
               "draw_26_red.svg"
             ],
-            "description": "正常视野：紫色和红色斑点；红色盲或红色弱视：仅紫色线；绿色盲或绿色弱视：仅红色线。"
+            "description": "正常视觉：紫色和红色斑点；红色盲或红色弱：仅见紫色线条；绿色盲或绿色弱：仅见红色线条"
           },
           {
             "platePath": "27.svg",
@@ -1213,7 +1213,7 @@
               "draw_27_purple.svg",
               "draw_27_red.svg"
             ],
-            "description": "正常视野：紫色和红色斑点；红色盲或红色弱视：仅紫色线；绿色盲或绿色弱视：仅红色线。"
+            "description": "正常视觉：紫色和红色斑点；红色盲或红色弱：仅见紫色线条；绿色盲或绿色弱：仅见红色线条"
           },
           {
             "platePath": "28.svg",
@@ -1229,7 +1229,7 @@
             "deficiency": [
               "draw_28_deficiency_red_green.svg"
             ],
-            "description": "正常视野：无；红绿灯缺陷：一条线"
+            "description": "正常视觉：无；红绿色觉缺陷：一条线"
           },
           {
             "platePath": "29.svg",
@@ -1245,7 +1245,7 @@
             "deficiency": [
               "draw_29_deficiency_red_green.svg"
             ],
-            "description": "正常视野：无；红绿灯缺陷：一条线"
+            "description": "正常视觉：无；红绿色觉缺陷：一条线"
           },
           {
             "platePath": "30.svg",
@@ -1261,7 +1261,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "正常视图：蓝绿色线；红绿色缺陷：∅"
+            "description": "正常视觉：蓝绿色线条；红绿色觉缺陷：∅"
           },
           {
             "platePath": "31.svg",
@@ -1277,7 +1277,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "正常视图：蓝绿色线；红绿色缺陷：∅"
+            "description": "正常视觉：蓝绿色线条；红绿色觉缺陷：∅"
           },
           {
             "platePath": "32.svg",
@@ -1293,7 +1293,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "正常视图：橙色线；红绿缺陷：∅ 或假线"
+            "description": "正常视觉：橙色线条；红绿色觉缺陷：∅ 或虚假线条"
           },
           {
             "platePath": "33.svg",
@@ -1309,7 +1309,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "正常视图：橙色线；红绿缺陷：∅ 或假线"
+            "description": "正常视觉：橙色线条；红绿色觉缺陷：∅ 或虚假线条"
           },
           {
             "platePath": "34.svg",
@@ -1325,7 +1325,7 @@
             "deficiency": [
               "draw_34_deficiency.svg"
             ],
-            "description": "正常视野：蓝绿色和黄绿色线；红绿色盲：仅红绿色和紫色线"
+            "description": "正常视觉：蓝绿色和黄绿色线条；红绿色觉缺陷：仅见红绿色和紫罗兰色线条"
           },
           {
             "platePath": "35.svg",
@@ -1341,7 +1341,7 @@
             "deficiency": [
               "draw_35_deficiency.svg"
             ],
-            "description": "正常视野：蓝绿色和黄绿色线；红绿色盲：仅蓝绿色和紫色线"
+            "description": "正常视觉：蓝绿色和黄绿色线条；红绿色觉缺陷：仅见蓝绿色和紫罗兰色线条"
           },
           {
             "platePath": "36.svg",
@@ -1358,7 +1358,7 @@
             "deficiency": [
               "draw_36_deficiency.svg"
             ],
-            "description": "正常视型：紫橙色线；红绿色盲：蓝绿色和紫紫色线"
+            "description": "正常视觉：紫罗兰色与橙色线条；红绿色觉缺陷：蓝绿色与紫罗兰色线条"
           },
           {
             "platePath": "37.svg",
@@ -1375,7 +1375,7 @@
             "deficiency": [
               "draw_37_deficiency.svg"
             ],
-            "description": "正常视型：紫橙色线；红绿色盲：蓝绿色和紫紫色线"
+            "description": "正常视觉：紫罗兰色与橙色线条；红绿色觉缺陷：蓝绿色与紫罗兰色线条"
           },
           {
             "platePath": "38.svg",
@@ -1388,7 +1388,7 @@
               "draw_38.svg",
               "draw_33.svg"
             ],
-            "description": "每个人都应该看到同一条线。"
+            "description": "每个人都应该看到同一条线"
           }
         ]
       }
@@ -1486,7 +1486,7 @@
       "dir": "Shape_Object",
       "test": {
         "title": "对象",
-        "description": "形状和物体",
+        "description": "形状与物体",
         "dir": "../../SVG_Files/Shape_Object",
         "plates": [
           {
@@ -1579,7 +1579,7 @@
       "dir": "General1/Letter",
       "test": {
         "title": "字母数字",
-        "description": "字母和数字",
+        "description": "字母与数字",
         "dir": "../../../SVG_Files/General1/Letter",
         "plates": [
           {
@@ -1587,7 +1587,7 @@
             "nature": "Letter",
             "input": "LetterPad",
             "answer": "B",
-            "description": "找到字母"
+            "description": "查找信件"
           },
           {
             "platePath": "ishihara_C.svg",

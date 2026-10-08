@@ -1,13 +1,13 @@
 {
   "$schema": "https://raw.githubusercontent.com/zijianhuang/schemas/refs/heads/main/json/AllColorBlindTestsSchema.json",
-  "title": "이시하라 접시 (2026)",
-  "description": "이시하라 접시 여러 세트",
+  "title": "이시하라 색각 검사표 (2026)",
+  "description": "여러 세트의 이시하라 색각 검사표",
   "testContents": [
     {
       "dir": "14-plate",
       "test": {
-        "title": "이시하라 접시 14개",
-        "description": "마틴 크르지빈스키가 정밀하게 다듬은 이시하라 플레이트 14점",
+        "title": "이시하라 색각 검사표 14개",
+        "description": "마틴 크지빈스키(Martin Krzywinski)가 다듬은 14개의 이시하라 색각 검사표",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -15,7 +15,7 @@
             "nature": "Letter",
             "input": "Buttons",
             "answer": "12",
-            "description": "모든 사람이 숫자 12를 봐야 합니다.",
+            "description": "모두가 숫자 12를 봐야 합니다.",
             "buttonTexts": [
               "21",
               "17",
@@ -39,7 +39,7 @@
             "deficiency": [
               "3"
             ],
-            "description": "정상 시력: 8; 적록색맹: 3"
+            "description": "정상 시각: 8; 적록 색각 이상: 3"
           },
           {
             "platePath": "6.svg",
@@ -56,7 +56,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "정상 시력: 5; 적록색맹: 2"
+            "description": "정상 시각: 5; 적록 색각 이상: 2"
           },
           {
             "platePath": "4.svg",
@@ -73,7 +73,7 @@
             "deficiency": [
               "70"
             ],
-            "description": "정상 시력: 29; 적록색맹: 70"
+            "description": "정상 시각: 29; 적녹 색각 이상: 70"
           },
           {
             "platePath": "9.svg",
@@ -90,7 +90,7 @@
             "deficiency": [
               "21"
             ],
-            "description": "정상 시력: 74; 적록색맹: 21"
+            "description": "정상 시각: 74; 적록 색각 이상: 21"
           },
           {
             "platePath": "15.svg",
@@ -107,7 +107,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "정상 시력: 7; 적록색맹: 대부분의 사람들은 아무것도 보지 못하거나 무언가 잘못되었다고 느낍니다."
+            "description": "정상 시력: 7; 적록 색각 이상: 대부분 아무것도 보지 못하거나 잘못된 것을 봅니다."
           },
           {
             "platePath": "13.svg",
@@ -124,7 +124,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "정상 시력: 45; 적록색맹: 대부분의 사람들은 아무것도 보지 못하거나 무언가 잘못되었다고 느낍니다."
+            "description": "정상 시력: 45; 적록 색각 이상: 대부분 아무것도 보지 못하거나 잘못된 것을 봅니다."
           },
           {
             "platePath": "10.svg",
@@ -141,7 +141,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "정상 시력: 2; 적록색맹: 대부분의 사람들은 아무것도 보지 못하거나 무언가 잘못되었다고 느낍니다."
+            "description": "정상 시력: 2; 적록 색각 이상: 대부분 아무것도 보지 못하거나 잘못된 것을 봅니다."
           },
           {
             "platePath": "19.svg",
@@ -158,7 +158,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "정상 시야: 없음; 적록색맹: 2"
+            "description": "정상 시야: 보이지 않음; 적록 색각 이상: 2"
           },
           {
             "platePath": "16.svg",
@@ -175,7 +175,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "정상 시력: 16; 적록색맹: 대부분의 사람들은 아무것도 보지 못하거나 무언가 잘못 보인다."
+            "description": "정상 시력: 16; 적록 색각 이상: 대부분 아무것도 보지 못하거나 잘못된 것을 봅니다."
           },
           {
             "platePath": "31.svg",
@@ -191,7 +191,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "정상 시야: 청록색 선; 적록색 결핍: ∅"
+            "description": "정상 시야: 청록색 선; 적록 색각 결핍: ∅"
           },
           {
             "platePath": "24.svg",
@@ -209,7 +209,7 @@
               "5",
               "3"
             ],
-            "description": "정상 시력: 35; 적색맹 또는 적색편이: 5; 적색맹 또는 적색편이: 3"
+            "description": "정상 시각: 35; 제1색맹 또는 제1색약: 5; 제2색맹 또는 제2색약: 3"
           },
           {
             "platePath": "25.svg",
@@ -227,7 +227,7 @@
               "6",
               "9"
             ],
-            "description": "정상 시력: 96; 적색맹 또는 적색이상: 6; 적색맹 또는 적색이상: 9"
+            "description": "정상 시각: 96; 제1색맹 또는 제1색약: 6; 제2색맹 또는 제2색약: 9"
           },
           {
             "platePath": "27.svg",
@@ -245,7 +245,7 @@
               "draw_27_purple.svg",
               "draw_27_red.svg"
             ],
-            "description": "정상 시야: 보라색과 빨간색 반점; 적색맹 또는 적색맹: 보라색 선만 나타남; 적색맹 또는 적색맹: 빨간색 선만 나타남"
+            "description": "정상 시야: 보라색 및 빨간색 점; 제1색맹 또는 제1색약: 보라색 선만; 제2색맹 또는 제2색약: 빨간색 선만"
           }
         ]
       }
@@ -253,8 +253,8 @@
     {
       "dir": "24-plate",
       "test": {
-        "title": "이시하라 접시 24개",
-        "description": "마틴 크르지빈스키가 정밀하게 다듬은 이시하라 플레이트 24점",
+        "title": "이시하라 색각 검사표 24매",
+        "description": "마틴 크지빈스키(Martin Krzywinski)가 다듬은 24개의 이시하라 색각 검사표",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -262,7 +262,7 @@
             "nature": "Letter",
             "input": "Buttons",
             "answer": "12",
-            "description": "모든 사람이 숫자 12를 봐야 합니다.",
+            "description": "모두가 숫자 12를 봐야 합니다.",
             "buttonTexts": [
               "21",
               "17",
@@ -286,7 +286,7 @@
             "deficiency": [
               "3"
             ],
-            "description": "정상 시력: 8; 적록색맹: 3"
+            "description": "정상 시각: 8; 적록 색각 이상: 3"
           },
           {
             "platePath": "4.svg",
@@ -303,7 +303,7 @@
             "deficiency": [
               "70"
             ],
-            "description": "정상 시력: 29; 적록색맹: 70"
+            "description": "정상 시각: 29; 적녹 색각 이상: 70"
           },
           {
             "platePath": "6.svg",
@@ -320,7 +320,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "정상 시력: 5; 적록색맹: 2"
+            "description": "정상 시각: 5; 적록 색각 이상: 2"
           },
           {
             "platePath": "7.svg",
@@ -337,7 +337,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "정상 시력: 3; 적록색맹: 5"
+            "description": "정상 시각: 3; 적녹 색각 이상: 5"
           },
           {
             "platePath": "8.svg",
@@ -354,7 +354,7 @@
             "deficiency": [
               "17"
             ],
-            "description": "정상 시력: 15; 적록색맹: 17"
+            "description": "정상 시각: 15; 적록 색각 이상: 17"
           },
           {
             "platePath": "9.svg",
@@ -371,7 +371,7 @@
             "deficiency": [
               "21"
             ],
-            "description": "정상 시력: 74; 적록색맹: 21"
+            "description": "정상 시각: 74; 적록 색각 이상: 21"
           },
           {
             "platePath": "11.svg",
@@ -385,7 +385,7 @@
               "∅",
               "8"
             ],
-            "description": "정상 시력: 6; 적록색맹: 대부분의 사람들은 아무것도 보지 못하거나 무언가 잘못되었다고 느낍니다."
+            "description": "정상 시야: 6; 적록 색각 이상: 대부분 아무것도 보지 못하거나 잘못된 것을 봅니다."
           },
           {
             "platePath": "13.svg",
@@ -402,7 +402,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "정상 시력: 45; 적록색맹: 대부분의 사람들은 아무것도 보지 못하거나 무언가 잘못되었다고 느낍니다."
+            "description": "정상 시력: 45; 적록 색각 이상: 대부분 아무것도 보지 못하거나 잘못된 것을 봅니다."
           },
           {
             "platePath": "14.svg",
@@ -419,7 +419,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "정상 시력: 5; 적록색맹: 대부분의 사람들은 아무것도 보지 못하거나 무언가 잘못되었다고 느낍니다."
+            "description": "정상 시력: 5; 적록 색각 이상: 대부분 아무것도 보지 못하거나 잘못된 것을 봅니다."
           },
           {
             "platePath": "15.svg",
@@ -436,7 +436,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "정상 시력: 7; 적록색맹: 대부분의 사람들은 아무것도 보지 못하거나 무언가 잘못되었다고 느낍니다."
+            "description": "정상 시력: 7; 적록 색각 이상: 대부분 아무것도 보지 못하거나 잘못된 것을 봅니다."
           },
           {
             "platePath": "16.svg",
@@ -453,7 +453,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "정상 시력: 16; 적록색맹: 대부분의 사람들은 아무것도 보지 못하거나 무언가 잘못 보인다."
+            "description": "정상 시력: 16; 적록 색각 이상: 대부분 아무것도 보지 못하거나 잘못된 것을 봅니다."
           },
           {
             "platePath": "17.svg",
@@ -470,7 +470,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "정상 시력: 73; 적록색맹: 대부분의 사람들은 아무것도 보지 못하거나 무언가 잘못되었다고 느낍니다."
+            "description": "정상 시력: 73; 적록 색각 이상: 대부분 아무것도 보지 못하거나 잘못된 것을 봅니다."
           },
           {
             "platePath": "18.svg",
@@ -487,7 +487,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "정상 시야: 없음; 적록색맹: 5"
+            "description": "정상 시야: 보이지 않음; 적록 색각 이상: 5"
           },
           {
             "platePath": "20.svg",
@@ -504,7 +504,7 @@
             "deficiency": [
               "45"
             ],
-            "description": "정상 시야: 없음; 적록색맹: 45"
+            "description": "정상 시야: 보이지 않음; 적록 색각 이상: 45"
           },
           {
             "platePath": "22.svg",
@@ -522,7 +522,7 @@
               "6",
               "2"
             ],
-            "description": "정상 시력: 26; 적색맹 또는 적색편이: 6; 적색맹 또는 적색편이: 2"
+            "description": "정상 시각: 26; 제1색맹 또는 제1색약: 6; 제2색맹 또는 제2색약: 2"
           },
           {
             "platePath": "23.svg",
@@ -540,7 +540,7 @@
               "2",
               "4"
             ],
-            "description": "정상 시력: 42; 적색맹 또는 적색편이: 2; 적색맹 또는 적색편이: 4"
+            "description": "정상 시각: 42; 제1색맹 또는 제1색약: 2; 제2색맹 또는 제2색약: 4"
           },
           {
             "platePath": "26.svg",
@@ -558,7 +558,7 @@
               "draw_26_purple.svg",
               "draw_26_red.svg"
             ],
-            "description": "정상 시야: 보라색과 빨간색 반점; 적색맹 또는 적색맹: 보라색 선만 나타남; 적색맹 또는 적색맹: 빨간색 선만 나타남"
+            "description": "정상 시야: 보라색 및 빨간색 점; 제1색맹 또는 제1색약: 보라색 선만; 제2색맹 또는 제2색약: 빨간색 선만"
           },
           {
             "platePath": "28.svg",
@@ -574,7 +574,7 @@
             "deficiency": [
               "draw_28_deficiency_red_green.svg"
             ],
-            "description": "정상 시야: 아무것도 보이지 않음; 적록색맹: 선이 나타남"
+            "description": "정상 시야: 아무것도 보이지 않음; 적록 색각 이상: 선이 보임"
           },
           {
             "platePath": "30.svg",
@@ -590,7 +590,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "정상 시야: 청록색 선; 적록색 결핍: ∅"
+            "description": "정상 시야: 청록색 선; 적록 색각 결핍: ∅"
           },
           {
             "platePath": "32.svg",
@@ -606,7 +606,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "정상 시야: 주황색 선; 적록색맹: ∅ 또는 가선"
+            "description": "정상 시야: 주황색 선; 적록 색각 이상: ∅ 또는 잘못된 선"
           },
           {
             "platePath": "35.svg",
@@ -622,7 +622,7 @@
             "deficiency": [
               "draw_35_deficiency.svg"
             ],
-            "description": "정상 시력: 청록색과 황록색 선; 적록색맹: 청록색과 보라색 선만 나타남"
+            "description": "정상 시야: 청록색 및 황록색 선; 적녹색각 이상: 청록색 및 보라색 선만 보임"
           },
           {
             "platePath": "37.svg",
@@ -639,7 +639,7 @@
             "deficiency": [
               "draw_37_deficiency.svg"
             ],
-            "description": "정상 소견: 보라색과 주황색 선; 적록색맹: 청록색과 보라색 선"
+            "description": "정상 시야: 보라색 및 주황색 선; 적록 색각 이상: 청록색 및 보라색 선"
           },
           {
             "platePath": "38.svg",
@@ -652,7 +652,7 @@
               "draw_38.svg",
               "draw_33.svg"
             ],
-            "description": "모든 사람이 동일한 선을 봐야 합니다."
+            "description": "모두가 같은 선을 보아야 합니다."
           }
         ]
       }
@@ -660,8 +660,8 @@
     {
       "dir": "Hidden-plate",
       "test": {
-        "title": "이시하라 히든 플레이트",
-        "description": "색맹인 사람만이 읽을 수 있습니다.",
+        "title": "이시하라 숨겨진 도안",
+        "description": "색각 이상이 있는 사람만 판독할 수 있습니다.",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -676,7 +676,7 @@
               "6",
               "7"
             ],
-            "description": "정상 시야: 없음; 적록색맹: 5"
+            "description": "정상 시야: 보이지 않음; 적록 색각 이상: 5"
           },
           {
             "platePath": "19.svg",
@@ -690,7 +690,7 @@
               "8",
               "3"
             ],
-            "description": "정상 시야: 없음; 적록색맹: 2"
+            "description": "정상 시야: 보이지 않음; 적록 색각 이상: 2"
           },
           {
             "platePath": "20.svg",
@@ -704,7 +704,7 @@
               "∅",
               "23"
             ],
-            "description": "정상 시야: 없음; 적록색맹: 45"
+            "description": "정상 시야: 보이지 않음; 적록 색각 이상: 45"
           },
           {
             "platePath": "21.svg",
@@ -718,7 +718,7 @@
               "43",
               "22"
             ],
-            "description": "정상 시야: 없음; 적록색맹: 73"
+            "description": "정상 시야: 없음; 적록 색각 이상: 73"
           },
           {
             "platePath": "28.svg",
@@ -731,7 +731,7 @@
               "draw_28_deficiency_red_green.svg",
               "empty-set.svg"
             ],
-            "description": "정상 시야: 아무것도 보이지 않음; 적록색맹: 선이 나타남"
+            "description": "정상 시야: 아무것도 보이지 않음; 적록 색각 이상: 선이 보임"
           },
           {
             "platePath": "29.svg",
@@ -744,7 +744,7 @@
               "draw_32.svg",
               "draw_29_deficiency_red_green.svg"
             ],
-            "description": "정상 시야: 아무것도 보이지 않음; 적록색맹: 선이 나타남"
+            "description": "정상 시야: 아무것도 보이지 않음; 적록 색각 이상: 선이 보임"
           }
         ]
       }
@@ -752,8 +752,8 @@
     {
       "dir": "MartinKrzywinski",
       "test": {
-        "title": "이시하라 접시 38점",
-        "description": "마틴 크르지빈스키가 정밀하게 다듬은 이시하라 플레이트 38점",
+        "title": "이시하라 색각 검사표 38매",
+        "description": "마틴 크지빈스키(Martin Krzywinski)가 다듬은 38개의 이시하라 색각 검사표",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -761,7 +761,7 @@
             "nature": "Letter",
             "input": "Buttons",
             "answer": "12",
-            "description": "모든 사람이 숫자 12를 봐야 합니다.",
+            "description": "모두가 숫자 12를 봐야 합니다.",
             "buttonTexts": [
               "21",
               "17",
@@ -785,7 +785,7 @@
             "deficiency": [
               "3"
             ],
-            "description": "정상 시력: 8; 적록색맹: 3"
+            "description": "정상 시각: 8; 적록 색각 이상: 3"
           },
           {
             "platePath": "3.svg",
@@ -802,7 +802,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "정상 시력: 6; 적록색맹: 5"
+            "description": "정상 시력: 6; 적록 색각 이상: 5"
           },
           {
             "platePath": "4.svg",
@@ -819,7 +819,7 @@
             "deficiency": [
               "70"
             ],
-            "description": "정상 시력: 29; 적록색맹: 70"
+            "description": "정상 시각: 29; 적녹 색각 이상: 70"
           },
           {
             "platePath": "5.svg",
@@ -836,7 +836,7 @@
             "deficiency": [
               "35"
             ],
-            "description": "정상 시력: 57; 적록색맹: 35"
+            "description": "정상 시각: 57; 적녹 색각 이상: 35"
           },
           {
             "platePath": "6.svg",
@@ -853,7 +853,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "정상 시력: 5; 적록색맹: 2"
+            "description": "정상 시각: 5; 적록 색각 이상: 2"
           },
           {
             "platePath": "7.svg",
@@ -870,7 +870,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "정상 시력: 3; 적록색맹: 5"
+            "description": "정상 시각: 3; 적녹 색각 이상: 5"
           },
           {
             "platePath": "8.svg",
@@ -887,7 +887,7 @@
             "deficiency": [
               "17"
             ],
-            "description": "정상 시력: 15; 적록색맹: 17"
+            "description": "정상 시각: 15; 적록 색각 이상: 17"
           },
           {
             "platePath": "9.svg",
@@ -904,7 +904,7 @@
             "deficiency": [
               "21"
             ],
-            "description": "정상 시력: 74; 적록색맹: 21"
+            "description": "정상 시각: 74; 적록 색각 이상: 21"
           },
           {
             "platePath": "10.svg",
@@ -921,7 +921,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "정상 시력: 2; 적록색맹: 대부분의 사람들은 아무것도 보지 못하거나 무언가 잘못되었다고 느낍니다."
+            "description": "정상 시력: 2; 적록 색각 이상: 대부분 아무것도 보지 못하거나 잘못된 것을 봅니다."
           },
           {
             "platePath": "11.svg",
@@ -935,7 +935,7 @@
               "∅",
               "8"
             ],
-            "description": "정상 시력: 6; 적록색맹: 대부분의 사람들은 아무것도 보지 못하거나 무언가 잘못되었다고 느낍니다."
+            "description": "정상 시야: 6; 적록 색각 이상: 대부분 아무것도 보지 못하거나 잘못된 것을 봅니다."
           },
           {
             "platePath": "12.svg",
@@ -952,7 +952,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "정상 시력: 97; 적록색맹: 대부분의 사람들은 아무것도 보지 못하거나 무언가 잘못되었다고 느낍니다."
+            "description": "정상 시력: 97; 적록 색각 이상: 대부분 아무것도 보지 못하거나 잘못된 것을 봅니다."
           },
           {
             "platePath": "13.svg",
@@ -969,7 +969,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "정상 시력: 45; 적록색맹: 대부분의 사람들은 아무것도 보지 못하거나 무언가 잘못되었다고 느낍니다."
+            "description": "정상 시력: 45; 적록 색각 이상: 대부분 아무것도 보지 못하거나 잘못된 것을 봅니다."
           },
           {
             "platePath": "14.svg",
@@ -986,7 +986,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "정상 시력: 5; 적록색맹: 대부분의 사람들은 아무것도 보지 못하거나 무언가 잘못되었다고 느낍니다."
+            "description": "정상 시력: 5; 적록 색각 이상: 대부분 아무것도 보지 못하거나 잘못된 것을 봅니다."
           },
           {
             "platePath": "15.svg",
@@ -1003,7 +1003,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "정상 시력: 7; 적록색맹: 대부분의 사람들은 아무것도 보지 못하거나 무언가 잘못되었다고 느낍니다."
+            "description": "정상 시력: 7; 적록 색각 이상: 대부분 아무것도 보지 못하거나 잘못된 것을 봅니다."
           },
           {
             "platePath": "16.svg",
@@ -1020,7 +1020,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "정상 시력: 16; 적록색맹: 대부분의 사람들은 아무것도 보지 못하거나 무언가 잘못 보인다."
+            "description": "정상 시력: 16; 적록 색각 이상: 대부분 아무것도 보지 못하거나 잘못된 것을 봅니다."
           },
           {
             "platePath": "17.svg",
@@ -1037,7 +1037,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "정상 시력: 73; 적록색맹: 대부분의 사람들은 아무것도 보지 못하거나 무언가 잘못되었다고 느낍니다."
+            "description": "정상 시력: 73; 적록 색각 이상: 대부분 아무것도 보지 못하거나 잘못된 것을 봅니다."
           },
           {
             "platePath": "18.svg",
@@ -1054,7 +1054,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "정상 시야: 없음; 적록색맹: 5"
+            "description": "정상 시야: 보이지 않음; 적록 색각 이상: 5"
           },
           {
             "platePath": "19.svg",
@@ -1071,7 +1071,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "정상 시야: 없음; 적록색맹: 2"
+            "description": "정상 시야: 보이지 않음; 적록 색각 이상: 2"
           },
           {
             "platePath": "20.svg",
@@ -1088,7 +1088,7 @@
             "deficiency": [
               "45"
             ],
-            "description": "정상 시야: 없음; 적록색맹: 45"
+            "description": "정상 시야: 보이지 않음; 적록 색각 이상: 45"
           },
           {
             "platePath": "21.svg",
@@ -1105,7 +1105,7 @@
             "deficiency": [
               "73"
             ],
-            "description": "정상 시야: 없음; 적록색맹: 73"
+            "description": "정상 시야: 없음; 적록 색각 이상: 73"
           },
           {
             "platePath": "22.svg",
@@ -1123,7 +1123,7 @@
               "6",
               "2"
             ],
-            "description": "정상 시력: 26; 적색맹 또는 적색편이: 6; 적색맹 또는 적색편이: 2"
+            "description": "정상 시각: 26; 제1색맹 또는 제1색약: 6; 제2색맹 또는 제2색약: 2"
           },
           {
             "platePath": "23.svg",
@@ -1141,7 +1141,7 @@
               "2",
               "4"
             ],
-            "description": "정상 시력: 42; 적색맹 또는 적색편이: 2; 적색맹 또는 적색편이: 4"
+            "description": "정상 시각: 42; 제1색맹 또는 제1색약: 2; 제2색맹 또는 제2색약: 4"
           },
           {
             "platePath": "24.svg",
@@ -1159,7 +1159,7 @@
               "5",
               "3"
             ],
-            "description": "정상 시력: 35; 적색맹 또는 적색편이: 5; 적색맹 또는 적색편이: 3"
+            "description": "정상 시각: 35; 제1색맹 또는 제1색약: 5; 제2색맹 또는 제2색약: 3"
           },
           {
             "platePath": "25.svg",
@@ -1177,7 +1177,7 @@
               "6",
               "9"
             ],
-            "description": "정상 시력: 96; 적색맹 또는 적색이상: 6; 적색맹 또는 적색이상: 9"
+            "description": "정상 시각: 96; 제1색맹 또는 제1색약: 6; 제2색맹 또는 제2색약: 9"
           },
           {
             "platePath": "26.svg",
@@ -1195,7 +1195,7 @@
               "draw_26_purple.svg",
               "draw_26_red.svg"
             ],
-            "description": "정상 시야: 보라색과 빨간색 반점; 적색맹 또는 적색맹: 보라색 선만 나타남; 적색맹 또는 적색맹: 빨간색 선만 나타남"
+            "description": "정상 시야: 보라색 및 빨간색 점; 제1색맹 또는 제1색약: 보라색 선만; 제2색맹 또는 제2색약: 빨간색 선만"
           },
           {
             "platePath": "27.svg",
@@ -1213,7 +1213,7 @@
               "draw_27_purple.svg",
               "draw_27_red.svg"
             ],
-            "description": "정상 시야: 보라색과 빨간색 반점; 적색맹 또는 적색맹: 보라색 선만 나타남; 적색맹 또는 적색맹: 빨간색 선만 나타남"
+            "description": "정상 시야: 보라색 및 빨간색 점; 제1색맹 또는 제1색약: 보라색 선만; 제2색맹 또는 제2색약: 빨간색 선만"
           },
           {
             "platePath": "28.svg",
@@ -1229,7 +1229,7 @@
             "deficiency": [
               "draw_28_deficiency_red_green.svg"
             ],
-            "description": "정상 시야: 아무것도 보이지 않음; 적록색맹: 선이 나타남"
+            "description": "정상 시야: 아무것도 보이지 않음; 적록 색각 이상: 선이 보임"
           },
           {
             "platePath": "29.svg",
@@ -1245,7 +1245,7 @@
             "deficiency": [
               "draw_29_deficiency_red_green.svg"
             ],
-            "description": "정상 시야: 아무것도 보이지 않음; 적록색맹: 선이 나타남"
+            "description": "정상 시야: 아무것도 보이지 않음; 적록 색각 이상: 선이 보임"
           },
           {
             "platePath": "30.svg",
@@ -1261,7 +1261,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "정상 시야: 청록색 선; 적록색 결핍: ∅"
+            "description": "정상 시야: 청록색 선; 적록 색각 결핍: ∅"
           },
           {
             "platePath": "31.svg",
@@ -1277,7 +1277,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "정상 시야: 청록색 선; 적록색 결핍: ∅"
+            "description": "정상 시야: 청록색 선; 적록 색각 결핍: ∅"
           },
           {
             "platePath": "32.svg",
@@ -1293,7 +1293,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "정상 시야: 주황색 선; 적록색맹: ∅ 또는 가선"
+            "description": "정상 시야: 주황색 선; 적록 색각 이상: ∅ 또는 잘못된 선"
           },
           {
             "platePath": "33.svg",
@@ -1309,7 +1309,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "정상 시야: 주황색 선; 적록색맹: ∅ 또는 가선"
+            "description": "정상 시야: 주황색 선; 적록 색각 이상: ∅ 또는 잘못된 선"
           },
           {
             "platePath": "34.svg",
@@ -1325,7 +1325,7 @@
             "deficiency": [
               "draw_34_deficiency.svg"
             ],
-            "description": "정상 소견: 청록색 및 황록색 선; 적록색맹: 적록색 및 보라색 선만 나타남"
+            "description": "정상 시야: 청록색 및 황록색 선; 적녹색각 이상: 적녹색 및 보라색 선만 보임"
           },
           {
             "platePath": "35.svg",
@@ -1341,7 +1341,7 @@
             "deficiency": [
               "draw_35_deficiency.svg"
             ],
-            "description": "정상 시력: 청록색과 황록색 선; 적록색맹: 청록색과 보라색 선만 나타남"
+            "description": "정상 시야: 청록색 및 황록색 선; 적녹색각 이상: 청록색 및 보라색 선만 보임"
           },
           {
             "platePath": "36.svg",
@@ -1358,7 +1358,7 @@
             "deficiency": [
               "draw_36_deficiency.svg"
             ],
-            "description": "정상 소견: 보라색과 주황색 선; 적록색맹: 청록색과 보라색 선"
+            "description": "정상 시야: 보라색 및 주황색 선; 적록 색각 이상: 청록색 및 보라색 선"
           },
           {
             "platePath": "37.svg",
@@ -1375,7 +1375,7 @@
             "deficiency": [
               "draw_37_deficiency.svg"
             ],
-            "description": "정상 소견: 보라색과 주황색 선; 적록색맹: 청록색과 보라색 선"
+            "description": "정상 시야: 보라색 및 주황색 선; 적록 색각 이상: 청록색 및 보라색 선"
           },
           {
             "platePath": "38.svg",
@@ -1388,7 +1388,7 @@
               "draw_38.svg",
               "draw_33.svg"
             ],
-            "description": "모든 사람이 동일한 선을 봐야 합니다."
+            "description": "모두가 같은 선을 보아야 합니다."
           }
         ]
       }
@@ -1485,7 +1485,7 @@
     {
       "dir": "Shape_Object",
       "test": {
-        "title": "사물",
+        "title": "객체",
         "description": "모양과 물체",
         "dir": "../../SVG_Files/Shape_Object",
         "plates": [
@@ -1587,7 +1587,7 @@
             "nature": "Letter",
             "input": "LetterPad",
             "answer": "B",
-            "description": "글자를 찾으세요"
+            "description": "편지 위치 찾기"
           },
           {
             "platePath": "ishihara_C.svg",

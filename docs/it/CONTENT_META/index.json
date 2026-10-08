@@ -1,13 +1,13 @@
 {
   "$schema": "https://raw.githubusercontent.com/zijianhuang/schemas/refs/heads/main/json/AllColorBlindTestsSchema.json",
-  "title": "Piatti di Ishihara (2026)",
-  "description": "Set multipli di piatti Ishihara",
+  "title": "Tavole di Ishihara (2026)",
+  "description": "Più set di tavole di Ishihara",
   "testContents": [
     {
       "dir": "14-plate",
       "test": {
-        "title": "14 piatti Ishihara",
-        "description": "14 Piatti Ishihara rifiniti da Martin Krzywinski",
+        "title": "14 tavole di Ishihara",
+        "description": "14 tavole di Ishihara perfezionate da Martin Krzywinski",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -39,7 +39,7 @@
             "deficiency": [
               "3"
             ],
-            "description": "Vista normale: 8; Deficit rosso-verde: 3"
+            "description": "Visione normale: 8; Deficit rosso-verde: 3"
           },
           {
             "platePath": "6.svg",
@@ -56,7 +56,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "Vista normale: 5; Deficit rosso-verde: 2"
+            "description": "Visione normale: 5; Deficit rosso-verde: 2"
           },
           {
             "platePath": "4.svg",
@@ -73,7 +73,7 @@
             "deficiency": [
               "70"
             ],
-            "description": "Vista normale: 29; Deficit rosso-verde: 70"
+            "description": "Visione normale: 29; Deficit rosso-verde: 70"
           },
           {
             "platePath": "9.svg",
@@ -90,7 +90,7 @@
             "deficiency": [
               "21"
             ],
-            "description": "Vista normale: 74; Deficit rosso-verde: 21"
+            "description": "Visione normale: 74; Deficit rosso-verde: 21"
           },
           {
             "platePath": "15.svg",
@@ -107,7 +107,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Vista normale: 7; Deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di sbagliato."
+            "description": "Visione normale: 7; deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di diverso."
           },
           {
             "platePath": "13.svg",
@@ -124,7 +124,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Vista normale: 45; Deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di sbagliato."
+            "description": "Visione normale: 45; deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di diverso."
           },
           {
             "platePath": "10.svg",
@@ -141,7 +141,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Visione normale: 2; Deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di sbagliato."
+            "description": "Visione normale: 2; deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di diverso."
           },
           {
             "platePath": "19.svg",
@@ -158,7 +158,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "Vista normale: niente; Deficienza rosso-verde: 2"
+            "description": "Visione normale: nulla; deficit rosso-verde: 2"
           },
           {
             "platePath": "16.svg",
@@ -175,7 +175,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Vista normale: 16; Deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di sbagliato."
+            "description": "Visione normale: 16; deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di diverso."
           },
           {
             "platePath": "31.svg",
@@ -191,7 +191,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "Vista normale: linea blu-verde; Deficienza rosso-verde: ∅"
+            "description": "Visione normale: linea blu-verde; Deficit rosso-verde: ∅"
           },
           {
             "platePath": "24.svg",
@@ -209,7 +209,7 @@
               "5",
               "3"
             ],
-            "description": "Vista normale: 35; Protanopia o protanomalia: 5; Deuteranopia o deuteranomalia: 3"
+            "description": "Visione normale: 35; Protanopia o protanomalia: 5; Deuteranopia o deuteranomalia: 3"
           },
           {
             "platePath": "25.svg",
@@ -227,7 +227,7 @@
               "6",
               "9"
             ],
-            "description": "Vista normale: 96; Protanopia o protanomalia: 6; Deuteranopia o deuteranomalia: 9"
+            "description": "Visione normale: 96; Protanopia o protanomalia: 6; Deuteranopia o deuteranomalia: 9"
           },
           {
             "platePath": "27.svg",
@@ -245,7 +245,7 @@
               "draw_27_purple.svg",
               "draw_27_red.svg"
             ],
-            "description": "Vista normale: punti viola e rossi; Protanopia o protanomalia: solo la linea viola; Deuteranopia o deuteranomalia: solo la linea rossa"
+            "description": "Visione normale: punti viola e rossi; Protanopia o protanomalia: solo la linea viola; Deuteranopia o deuteranomalia: solo la linea rossa"
           }
         ]
       }
@@ -253,8 +253,8 @@
     {
       "dir": "24-plate",
       "test": {
-        "title": "24 piatti Ishihara",
-        "description": "24 piatti Ishihara rifiniti da Martin Krzywinski",
+        "title": "24 tavole di Ishihara",
+        "description": "24 tavole di Ishihara perfezionate da Martin Krzywinski",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -286,7 +286,7 @@
             "deficiency": [
               "3"
             ],
-            "description": "Vista normale: 8; Deficit rosso-verde: 3"
+            "description": "Visione normale: 8; Deficit rosso-verde: 3"
           },
           {
             "platePath": "4.svg",
@@ -303,7 +303,7 @@
             "deficiency": [
               "70"
             ],
-            "description": "Vista normale: 29; Deficit rosso-verde: 70"
+            "description": "Visione normale: 29; Deficit rosso-verde: 70"
           },
           {
             "platePath": "6.svg",
@@ -320,7 +320,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "Vista normale: 5; Deficit rosso-verde: 2"
+            "description": "Visione normale: 5; Deficit rosso-verde: 2"
           },
           {
             "platePath": "7.svg",
@@ -337,7 +337,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "Vista normale: 3; Deficit rosso-verde: 5"
+            "description": "Visione normale: 3; Deficit rosso-verde: 5"
           },
           {
             "platePath": "8.svg",
@@ -354,7 +354,7 @@
             "deficiency": [
               "17"
             ],
-            "description": "Vista normale: 15; Deficit rosso-verde: 17"
+            "description": "Visione normale: 15; Deficit rosso-verde: 17"
           },
           {
             "platePath": "9.svg",
@@ -371,7 +371,7 @@
             "deficiency": [
               "21"
             ],
-            "description": "Vista normale: 74; Deficit rosso-verde: 21"
+            "description": "Visione normale: 74; Deficit rosso-verde: 21"
           },
           {
             "platePath": "11.svg",
@@ -385,7 +385,7 @@
               "∅",
               "8"
             ],
-            "description": "Vista normale: 6; Deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di sbagliato."
+            "description": "Visione normale: 6; deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di diverso."
           },
           {
             "platePath": "13.svg",
@@ -402,7 +402,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Vista normale: 45; Deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di sbagliato."
+            "description": "Visione normale: 45; deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di diverso."
           },
           {
             "platePath": "14.svg",
@@ -419,7 +419,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Visione normale: 5; Deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di sbagliato."
+            "description": "Visione normale: 5; deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di diverso."
           },
           {
             "platePath": "15.svg",
@@ -436,7 +436,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Vista normale: 7; Deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di sbagliato."
+            "description": "Visione normale: 7; deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di diverso."
           },
           {
             "platePath": "16.svg",
@@ -453,7 +453,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Vista normale: 16; Deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di sbagliato."
+            "description": "Visione normale: 16; deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di diverso."
           },
           {
             "platePath": "17.svg",
@@ -470,7 +470,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Vista normale: 73; Deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di sbagliato."
+            "description": "Visione normale: 73; deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di diverso."
           },
           {
             "platePath": "18.svg",
@@ -487,7 +487,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "Vista normale: niente; Deficienza rosso-verde: 5"
+            "description": "Visione normale: nulla; deficit rosso-verde: 5"
           },
           {
             "platePath": "20.svg",
@@ -504,7 +504,7 @@
             "deficiency": [
               "45"
             ],
-            "description": "Vista normale: niente; Deficienza rosso-verde: 45"
+            "description": "Visione normale: nulla; deficit rosso-verde: 45"
           },
           {
             "platePath": "22.svg",
@@ -522,7 +522,7 @@
               "6",
               "2"
             ],
-            "description": "Vista normale: 26; Protanopia o protanomalia: 6; Deuteranopia o deuteranomalia: 2"
+            "description": "Visione normale: 26; Protanopia o protanomalia: 6; Deuteranopia o deuteranomalia: 2"
           },
           {
             "platePath": "23.svg",
@@ -540,7 +540,7 @@
               "2",
               "4"
             ],
-            "description": "Vista normale: 42; Protanopia o protanomalia: 2; Deuteranopia o deuteranomalia: 4"
+            "description": "Visione normale: 42; Protanopia o protanomalia: 2; Deuteranopia o deuteranomalia: 4"
           },
           {
             "platePath": "26.svg",
@@ -558,7 +558,7 @@
               "draw_26_purple.svg",
               "draw_26_red.svg"
             ],
-            "description": "Vista normale: punti viola e rossi; Protanopia o protanomalia: solo la linea viola; Deuteranopia o deuteranomalia: solo la linea rossa"
+            "description": "Visione normale: punti viola e rossi; Protanopia o protanomalia: solo la linea viola; Deuteranopia o deuteranomalia: solo la linea rossa"
           },
           {
             "platePath": "28.svg",
@@ -574,7 +574,7 @@
             "deficiency": [
               "draw_28_deficiency_red_green.svg"
             ],
-            "description": "Vista normale: niente; Deficienza rosso-verde: una linea"
+            "description": "Visione normale: nulla; deficit rosso-verde: una linea"
           },
           {
             "platePath": "30.svg",
@@ -590,7 +590,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "Vista normale: linea blu-verde; Deficienza rosso-verde: ∅"
+            "description": "Visione normale: linea blu-verde; Deficit rosso-verde: ∅"
           },
           {
             "platePath": "32.svg",
@@ -606,7 +606,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "Vista normale: linea arancione; Deficienza rosso-verde: ∅ o falsa linea"
+            "description": "Visione normale: linea arancione; deficit rosso-verde: ∅ o una linea errata"
           },
           {
             "platePath": "35.svg",
@@ -622,7 +622,7 @@
             "deficiency": [
               "draw_35_deficiency.svg"
             ],
-            "description": "Vista normale: linea blu-verde e giallo-verde; Deficienza rosso-verde: solo linea blu-verde e viola"
+            "description": "Visione normale: linea blu-verde e giallo-verde; deficit rosso-verde: solo linea blu-verde e viola."
           },
           {
             "platePath": "37.svg",
@@ -639,7 +639,7 @@
             "deficiency": [
               "draw_37_deficiency.svg"
             ],
-            "description": "Vista normale: linea viola e arancione; Deficienza rosso-verde: linea blu-verde e viola"
+            "description": "Visione normale: linea viola e arancione; deficit rosso-verde: linea blu-verde e viola"
           },
           {
             "platePath": "38.svg",
@@ -652,7 +652,7 @@
               "draw_38.svg",
               "draw_33.svg"
             ],
-            "description": "Tutti dovrebbero vedere la stessa linea"
+            "description": "Tutti dovrebbero vedere la stessa linea."
           }
         ]
       }
@@ -660,8 +660,8 @@
     {
       "dir": "Hidden-plate",
       "test": {
-        "title": "Piastre nascoste di Ishihara",
-        "description": "Solo chi ha una carenza di colore può leggere",
+        "title": "Tavole nascoste di Ishihara",
+        "description": "Solo le persone con un deficit nella percezione dei colori sono in grado di leggerlo.",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -676,7 +676,7 @@
               "6",
               "7"
             ],
-            "description": "Vista normale: niente; Deficienza rosso-verde: 5"
+            "description": "Visione normale: nulla; deficit rosso-verde: 5"
           },
           {
             "platePath": "19.svg",
@@ -690,7 +690,7 @@
               "8",
               "3"
             ],
-            "description": "Vista normale: niente; Deficienza rosso-verde: 2"
+            "description": "Visione normale: nulla; deficit rosso-verde: 2"
           },
           {
             "platePath": "20.svg",
@@ -704,7 +704,7 @@
               "∅",
               "23"
             ],
-            "description": "Vista normale: niente; Deficienza rosso-verde: 45"
+            "description": "Visione normale: nulla; deficit rosso-verde: 45"
           },
           {
             "platePath": "21.svg",
@@ -718,7 +718,7 @@
               "43",
               "22"
             ],
-            "description": "Vista normale: niente; Deficienza rosso-verde: 73"
+            "description": "Visione normale: nulla; deficit rosso-verde: 73"
           },
           {
             "platePath": "28.svg",
@@ -731,7 +731,7 @@
               "draw_28_deficiency_red_green.svg",
               "empty-set.svg"
             ],
-            "description": "Vista normale: niente; Deficienza rosso-verde: una linea"
+            "description": "Visione normale: nulla; deficit rosso-verde: una linea"
           },
           {
             "platePath": "29.svg",
@@ -744,7 +744,7 @@
               "draw_32.svg",
               "draw_29_deficiency_red_green.svg"
             ],
-            "description": "Vista normale: niente; Deficienza rosso-verde: una linea"
+            "description": "Visione normale: nulla; deficit rosso-verde: una linea"
           }
         ]
       }
@@ -752,8 +752,8 @@
     {
       "dir": "MartinKrzywinski",
       "test": {
-        "title": "38 piatti Ishihara",
-        "description": "38 piatti Ishihara rifiniti da Martin Krzywinski",
+        "title": "38 tavole di Ishihara",
+        "description": "38 tavole di Ishihara perfezionate da Martin Krzywinski",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -785,7 +785,7 @@
             "deficiency": [
               "3"
             ],
-            "description": "Vista normale: 8; Deficit rosso-verde: 3"
+            "description": "Visione normale: 8; Deficit rosso-verde: 3"
           },
           {
             "platePath": "3.svg",
@@ -802,7 +802,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "Vista normale: 6; Deficit rosso-verde: 5"
+            "description": "Visione normale: 6; Deficit rosso-verde: 5"
           },
           {
             "platePath": "4.svg",
@@ -819,7 +819,7 @@
             "deficiency": [
               "70"
             ],
-            "description": "Vista normale: 29; Deficit rosso-verde: 70"
+            "description": "Visione normale: 29; Deficit rosso-verde: 70"
           },
           {
             "platePath": "5.svg",
@@ -836,7 +836,7 @@
             "deficiency": [
               "35"
             ],
-            "description": "Vista normale: 57; Deficit rosso-verde: 35"
+            "description": "Visione normale: 57; Deficit rosso-verde: 35"
           },
           {
             "platePath": "6.svg",
@@ -853,7 +853,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "Vista normale: 5; Deficit rosso-verde: 2"
+            "description": "Visione normale: 5; Deficit rosso-verde: 2"
           },
           {
             "platePath": "7.svg",
@@ -870,7 +870,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "Vista normale: 3; Deficit rosso-verde: 5"
+            "description": "Visione normale: 3; Deficit rosso-verde: 5"
           },
           {
             "platePath": "8.svg",
@@ -887,7 +887,7 @@
             "deficiency": [
               "17"
             ],
-            "description": "Vista normale: 15; Deficit rosso-verde: 17"
+            "description": "Visione normale: 15; Deficit rosso-verde: 17"
           },
           {
             "platePath": "9.svg",
@@ -904,7 +904,7 @@
             "deficiency": [
               "21"
             ],
-            "description": "Vista normale: 74; Deficit rosso-verde: 21"
+            "description": "Visione normale: 74; Deficit rosso-verde: 21"
           },
           {
             "platePath": "10.svg",
@@ -921,7 +921,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Visione normale: 2; Deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di sbagliato."
+            "description": "Visione normale: 2; deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di diverso."
           },
           {
             "platePath": "11.svg",
@@ -935,7 +935,7 @@
               "∅",
               "8"
             ],
-            "description": "Vista normale: 6; Deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di sbagliato."
+            "description": "Visione normale: 6; deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di diverso."
           },
           {
             "platePath": "12.svg",
@@ -952,7 +952,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Vista normale: 97; Deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di sbagliato."
+            "description": "Visione normale: 97; deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di errato."
           },
           {
             "platePath": "13.svg",
@@ -969,7 +969,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Vista normale: 45; Deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di sbagliato."
+            "description": "Visione normale: 45; deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di diverso."
           },
           {
             "platePath": "14.svg",
@@ -986,7 +986,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Visione normale: 5; Deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di sbagliato."
+            "description": "Visione normale: 5; deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di diverso."
           },
           {
             "platePath": "15.svg",
@@ -1003,7 +1003,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Vista normale: 7; Deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di sbagliato."
+            "description": "Visione normale: 7; deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di diverso."
           },
           {
             "platePath": "16.svg",
@@ -1020,7 +1020,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Vista normale: 16; Deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di sbagliato."
+            "description": "Visione normale: 16; deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di diverso."
           },
           {
             "platePath": "17.svg",
@@ -1037,7 +1037,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Vista normale: 73; Deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di sbagliato."
+            "description": "Visione normale: 73; deficit rosso-verde: la maggior parte delle persone non vede nulla o vede qualcosa di diverso."
           },
           {
             "platePath": "18.svg",
@@ -1054,7 +1054,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "Vista normale: niente; Deficienza rosso-verde: 5"
+            "description": "Visione normale: nulla; deficit rosso-verde: 5"
           },
           {
             "platePath": "19.svg",
@@ -1071,7 +1071,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "Vista normale: niente; Deficienza rosso-verde: 2"
+            "description": "Visione normale: nulla; deficit rosso-verde: 2"
           },
           {
             "platePath": "20.svg",
@@ -1088,7 +1088,7 @@
             "deficiency": [
               "45"
             ],
-            "description": "Vista normale: niente; Deficienza rosso-verde: 45"
+            "description": "Visione normale: nulla; deficit rosso-verde: 45"
           },
           {
             "platePath": "21.svg",
@@ -1105,7 +1105,7 @@
             "deficiency": [
               "73"
             ],
-            "description": "Vista normale: niente; Deficienza rosso-verde: 73"
+            "description": "Visione normale: nulla; deficit rosso-verde: 73"
           },
           {
             "platePath": "22.svg",
@@ -1123,7 +1123,7 @@
               "6",
               "2"
             ],
-            "description": "Vista normale: 26; Protanopia o protanomalia: 6; Deuteranopia o deuteranomalia: 2"
+            "description": "Visione normale: 26; Protanopia o protanomalia: 6; Deuteranopia o deuteranomalia: 2"
           },
           {
             "platePath": "23.svg",
@@ -1141,7 +1141,7 @@
               "2",
               "4"
             ],
-            "description": "Vista normale: 42; Protanopia o protanomalia: 2; Deuteranopia o deuteranomalia: 4"
+            "description": "Visione normale: 42; Protanopia o protanomalia: 2; Deuteranopia o deuteranomalia: 4"
           },
           {
             "platePath": "24.svg",
@@ -1159,7 +1159,7 @@
               "5",
               "3"
             ],
-            "description": "Vista normale: 35; Protanopia o protanomalia: 5; Deuteranopia o deuteranomalia: 3"
+            "description": "Visione normale: 35; Protanopia o protanomalia: 5; Deuteranopia o deuteranomalia: 3"
           },
           {
             "platePath": "25.svg",
@@ -1177,7 +1177,7 @@
               "6",
               "9"
             ],
-            "description": "Vista normale: 96; Protanopia o protanomalia: 6; Deuteranopia o deuteranomalia: 9"
+            "description": "Visione normale: 96; Protanopia o protanomalia: 6; Deuteranopia o deuteranomalia: 9"
           },
           {
             "platePath": "26.svg",
@@ -1195,7 +1195,7 @@
               "draw_26_purple.svg",
               "draw_26_red.svg"
             ],
-            "description": "Vista normale: punti viola e rossi; Protanopia o protanomalia: solo la linea viola; Deuteranopia o deuteranomalia: solo la linea rossa"
+            "description": "Visione normale: punti viola e rossi; Protanopia o protanomalia: solo la linea viola; Deuteranopia o deuteranomalia: solo la linea rossa"
           },
           {
             "platePath": "27.svg",
@@ -1213,7 +1213,7 @@
               "draw_27_purple.svg",
               "draw_27_red.svg"
             ],
-            "description": "Vista normale: punti viola e rossi; Protanopia o protanomalia: solo la linea viola; Deuteranopia o deuteranomalia: solo la linea rossa"
+            "description": "Visione normale: punti viola e rossi; Protanopia o protanomalia: solo la linea viola; Deuteranopia o deuteranomalia: solo la linea rossa"
           },
           {
             "platePath": "28.svg",
@@ -1229,7 +1229,7 @@
             "deficiency": [
               "draw_28_deficiency_red_green.svg"
             ],
-            "description": "Vista normale: niente; Deficienza rosso-verde: una linea"
+            "description": "Visione normale: nulla; deficit rosso-verde: una linea"
           },
           {
             "platePath": "29.svg",
@@ -1245,7 +1245,7 @@
             "deficiency": [
               "draw_29_deficiency_red_green.svg"
             ],
-            "description": "Vista normale: niente; Deficienza rosso-verde: una linea"
+            "description": "Visione normale: nulla; deficit rosso-verde: una linea"
           },
           {
             "platePath": "30.svg",
@@ -1261,7 +1261,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "Vista normale: linea blu-verde; Deficienza rosso-verde: ∅"
+            "description": "Visione normale: linea blu-verde; Deficit rosso-verde: ∅"
           },
           {
             "platePath": "31.svg",
@@ -1277,7 +1277,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "Vista normale: linea blu-verde; Deficienza rosso-verde: ∅"
+            "description": "Visione normale: linea blu-verde; Deficit rosso-verde: ∅"
           },
           {
             "platePath": "32.svg",
@@ -1293,7 +1293,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "Vista normale: linea arancione; Deficienza rosso-verde: ∅ o falsa linea"
+            "description": "Visione normale: linea arancione; deficit rosso-verde: ∅ o una linea errata"
           },
           {
             "platePath": "33.svg",
@@ -1309,7 +1309,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "Vista normale: linea arancione; Deficienza rosso-verde: ∅ o falsa linea"
+            "description": "Visione normale: linea arancione; deficit rosso-verde: ∅ o una linea errata"
           },
           {
             "platePath": "34.svg",
@@ -1325,7 +1325,7 @@
             "deficiency": [
               "draw_34_deficiency.svg"
             ],
-            "description": "Vista normale: linea blu-verde e giallo-verde; Deficienza rosso-verde: solo linea rosso-verde e viola"
+            "description": "Visione normale: linea blu-verde e giallo-verde; deficit rosso-verde: solo linea rosso-verde e viola"
           },
           {
             "platePath": "35.svg",
@@ -1341,7 +1341,7 @@
             "deficiency": [
               "draw_35_deficiency.svg"
             ],
-            "description": "Vista normale: linea blu-verde e giallo-verde; Deficienza rosso-verde: solo linea blu-verde e viola"
+            "description": "Visione normale: linea blu-verde e giallo-verde; deficit rosso-verde: solo linea blu-verde e viola."
           },
           {
             "platePath": "36.svg",
@@ -1358,7 +1358,7 @@
             "deficiency": [
               "draw_36_deficiency.svg"
             ],
-            "description": "Vista normale: linea viola e arancione; Deficienza rosso-verde: linea blu-verde e viola"
+            "description": "Visione normale: linea viola e arancione; deficit rosso-verde: linea blu-verde e viola"
           },
           {
             "platePath": "37.svg",
@@ -1375,7 +1375,7 @@
             "deficiency": [
               "draw_37_deficiency.svg"
             ],
-            "description": "Vista normale: linea viola e arancione; Deficienza rosso-verde: linea blu-verde e viola"
+            "description": "Visione normale: linea viola e arancione; deficit rosso-verde: linea blu-verde e viola"
           },
           {
             "platePath": "38.svg",
@@ -1388,7 +1388,7 @@
               "draw_38.svg",
               "draw_33.svg"
             ],
-            "description": "Tutti dovrebbero vedere la stessa linea"
+            "description": "Tutti dovrebbero vedere la stessa linea."
           }
         ]
       }
@@ -1485,7 +1485,7 @@
     {
       "dir": "Shape_Object",
       "test": {
-        "title": "oggetti",
+        "title": "Oggetti",
         "description": "Forme e oggetti",
         "dir": "../../SVG_Files/Shape_Object",
         "plates": [
@@ -1578,7 +1578,7 @@
     {
       "dir": "General1/Letter",
       "test": {
-        "title": "Alfanumerici",
+        "title": "Caratteri alfanumerici",
         "description": "Lettere e numeri",
         "dir": "../../../SVG_Files/General1/Letter",
         "plates": [

@@ -1,7 +1,7 @@
 {
   "name": "Ishihara Renk Körlüğü Testi",
   "short_name": "Renk Körlüğü",
-  "description": "Renk körlüğü taraması için Ishihara plakalarını kullanarak renk görme yeteneğinizi hızlıca test edin.",
+  "description": "Hızlı renk körlüğü taraması için Ishihara levhalarıyla renk görme yetinizi kontrol edin.",
   "id": "Fonlow.ColorBlindTest",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",

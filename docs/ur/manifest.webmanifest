@@ -1,7 +1,7 @@
 {
   "name": "اشیہارا کلر بلائنڈ ٹیسٹ",
-  "short_name": "کلر بلائنڈ",
-  "description": "رنگین اندھے پن کی فوری اسکریننگ کے لیے اشی ہارا پلیٹس کے ساتھ اپنے رنگین وژن کی جانچ کریں۔",
+  "short_name": "رنگوں کی شناخت سے قاصر",
+  "description": "رنگوں کی اندھے پن (color blindness) کی فوری جانچ کے لیے 'اشیہارا پلیٹس' (Ishihara plates) کے ذریعے اپنی رنگوں کی بصارت (color vision) کو چیک کریں۔",
   "id": "Fonlow.ColorBlindTest",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",

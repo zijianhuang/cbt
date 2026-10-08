@@ -1,7 +1,7 @@
 {
   "name": "Test d'Ishihara pour le daltonisme",
-  "short_name": "daltonien",
-  "description": "Testez votre vision des couleurs avec les planches d'Ishihara pour un dépistage rapide du daltonisme.",
+  "short_name": "Daltonien",
+  "description": "Vérifiez votre vision des couleurs à l'aide des planches d'Ishihara pour un dépistage rapide du daltonisme.",
   "id": "Fonlow.ColorBlindTest",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",

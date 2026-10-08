@@ -1,13 +1,13 @@
 {
   "$schema": "https://raw.githubusercontent.com/zijianhuang/schemas/refs/heads/main/json/AllColorBlindTestsSchema.json",
   "title": "Ishihara Levhaları (2026)",
-  "description": "Ishihara plakalarının birden fazla seti",
+  "description": "Birden fazla Ishihara levha seti",
   "testContents": [
     {
       "dir": "14-plate",
       "test": {
-        "title": "14 Ishihara Tabağı",
-        "description": "Martin Krzywinski tarafından geliştirilen 14 Ishihara levhası",
+        "title": "14 Ishihara Levhası",
+        "description": "Martin Krzywinski tarafından iyileştirilmiş 14 Ishihara levhası",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -15,7 +15,7 @@
             "nature": "Letter",
             "input": "Buttons",
             "answer": "12",
-            "description": "Herkes 12 sayısını görmeli.",
+            "description": "Herkes 12 numarasını görmeli.",
             "buttonTexts": [
               "21",
               "17",
@@ -39,7 +39,7 @@
             "deficiency": [
               "3"
             ],
-            "description": "Normal görüş: 8; Kırmızı-yeşil renk körlüğü: 3"
+            "description": "Normal görüş: 8; Kırmızı-yeşil görme bozukluğu: 3"
           },
           {
             "platePath": "6.svg",
@@ -56,7 +56,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "Normal görüş: 5; Kırmızı-yeşil renk körlüğü: 2"
+            "description": "Normal görüş: 5; Kırmızı-yeşil görme bozukluğu: 2"
           },
           {
             "platePath": "4.svg",
@@ -73,7 +73,7 @@
             "deficiency": [
               "70"
             ],
-            "description": "Normal görüş: 29; Kırmızı-yeşil eksikliği: 70"
+            "description": "Normal görüş: 29; Kırmızı-yeşil görme bozukluğu: 70"
           },
           {
             "platePath": "9.svg",
@@ -90,7 +90,7 @@
             "deficiency": [
               "21"
             ],
-            "description": "Normal görüş: 74; Kırmızı-yeşil eksikliği: 21"
+            "description": "Normal görüş: 74; Kırmızı-yeşil görme bozukluğu: 21"
           },
           {
             "platePath": "15.svg",
@@ -107,7 +107,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normal görüş: 7; Kırmızı-yeşil görme yetersizliği: Çoğu insan hiçbir şey görmez veya yanlış bir şey görür."
+            "description": "Normal görüş: 7; Kırmızı-yeşil renk görme eksikliği: çoğu kişi hiçbir şey görmez ya da hatalı bir şey görür."
           },
           {
             "platePath": "13.svg",
@@ -124,7 +124,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normal görüş: 45; Kırmızı-yeşil görme yetersizliği: Çoğu insan hiçbir şey görmez veya yanlış bir şey görür."
+            "description": "Normal görüş: 45; Kırmızı-yeşil görme bozukluğu: çoğu insan hiçbir şey görmez ya da yanlış bir şey görür."
           },
           {
             "platePath": "10.svg",
@@ -141,7 +141,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normal görüş: 2; Kırmızı-yeşil körlüğü: Çoğu insan hiçbir şey görmez veya yanlış bir şey görür."
+            "description": "Normal görüş: 2; Kırmızı-yeşil görme bozukluğu: çoğu kişi hiçbir şey görmez ya da yanlış bir şey görür."
           },
           {
             "platePath": "19.svg",
@@ -158,7 +158,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "Normal görünüm: hiçbir şey yok; Kırmızı-yeşil eksikliği: 2"
+            "description": "Normal görüş: hiçbir şey; Kırmızı-yeşil görme bozukluğu: 2"
           },
           {
             "platePath": "16.svg",
@@ -175,7 +175,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normal görüş: 16; Kırmızı-yeşil görme yetersizliği: Çoğu insan hiçbir şey görmez veya yanlış bir şey görür."
+            "description": "Normal görüş: 16; Kırmızı-yeşil görme bozukluğu: çoğu kişi hiçbir şey görmez ya da yanlış bir şey görür."
           },
           {
             "platePath": "31.svg",
@@ -191,7 +191,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "Normal görünüm: mavi-yeşil çizgi; Kırmızı-yeşil eksikliği: ∅"
+            "description": "Normal görüş: mavi-yeşil çizgi; Kırmızı-yeşil görme bozukluğu: ∅"
           },
           {
             "platePath": "24.svg",
@@ -209,7 +209,7 @@
               "5",
               "3"
             ],
-            "description": "Normal görünüm: 35; Protanopi veya protanomali: 5; Deuteranopi veya deuteranoli: 3"
+            "description": "Normal görüş: 35; Protanopi veya protanomali: 5; Deuteranopi veya deuteranomali: 3"
           },
           {
             "platePath": "25.svg",
@@ -227,7 +227,7 @@
               "6",
               "9"
             ],
-            "description": "Normal görünüm: 96; Protanopi veya protanomali: 6; Deuteranopi veya deuteranoli: 9"
+            "description": "Normal görüş: 96; Protanopi veya protanomali: 6; Deuteranopi veya deuteranomali: 9"
           },
           {
             "platePath": "27.svg",
@@ -245,7 +245,7 @@
               "draw_27_purple.svg",
               "draw_27_red.svg"
             ],
-            "description": "Normal görünüm: mor ve kırmızı lekeler; Protanopi veya protanomali: sadece mor çizgi; Deuteranopi veya deuteranomali: sadece kırmızı çizgi"
+            "description": "Normal görüş: mor ve kırmızı noktalar; Protanopi veya protanomali: sadece mor çizgi; Deuteranopi veya deuteranomali: sadece kırmızı çizgi"
           }
         ]
       }
@@ -253,8 +253,8 @@
     {
       "dir": "24-plate",
       "test": {
-        "title": "24 Ishihara Tabağı",
-        "description": "Martin Krzywinski tarafından geliştirilen 24 Ishihara Plakası",
+        "title": "24 Ishihara Levhası",
+        "description": "Martin Krzywinski tarafından iyileştirilmiş 24 Ishihara levhası",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -262,7 +262,7 @@
             "nature": "Letter",
             "input": "Buttons",
             "answer": "12",
-            "description": "Herkes 12 sayısını görmeli.",
+            "description": "Herkes 12 numarasını görmeli.",
             "buttonTexts": [
               "21",
               "17",
@@ -286,7 +286,7 @@
             "deficiency": [
               "3"
             ],
-            "description": "Normal görüş: 8; Kırmızı-yeşil renk körlüğü: 3"
+            "description": "Normal görüş: 8; Kırmızı-yeşil görme bozukluğu: 3"
           },
           {
             "platePath": "4.svg",
@@ -303,7 +303,7 @@
             "deficiency": [
               "70"
             ],
-            "description": "Normal görüş: 29; Kırmızı-yeşil eksikliği: 70"
+            "description": "Normal görüş: 29; Kırmızı-yeşil görme bozukluğu: 70"
           },
           {
             "platePath": "6.svg",
@@ -320,7 +320,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "Normal görüş: 5; Kırmızı-yeşil renk körlüğü: 2"
+            "description": "Normal görüş: 5; Kırmızı-yeşil görme bozukluğu: 2"
           },
           {
             "platePath": "7.svg",
@@ -337,7 +337,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "Normal görüş: 3; Kırmızı-yeşil renk körlüğü: 5"
+            "description": "Normal görüş: 3; Kırmızı-yeşil görme bozukluğu: 5"
           },
           {
             "platePath": "8.svg",
@@ -354,7 +354,7 @@
             "deficiency": [
               "17"
             ],
-            "description": "Normal görüş: 15; Kırmızı-yeşil eksikliği: 17"
+            "description": "Normal görüş: 15; Kırmızı-yeşil görme eksikliği: 17"
           },
           {
             "platePath": "9.svg",
@@ -371,7 +371,7 @@
             "deficiency": [
               "21"
             ],
-            "description": "Normal görüş: 74; Kırmızı-yeşil eksikliği: 21"
+            "description": "Normal görüş: 74; Kırmızı-yeşil görme bozukluğu: 21"
           },
           {
             "platePath": "11.svg",
@@ -385,7 +385,7 @@
               "∅",
               "8"
             ],
-            "description": "Normal görüş: 6; Kırmızı-yeşil görme yetersizliği: Çoğu insan hiçbir şey görmez veya yanlış bir şey görür."
+            "description": "Normal görüş: 6; Kırmızı-yeşil görme bozukluğu: çoğu insan hiçbir şey görmez ya da yanlış bir şey görür."
           },
           {
             "platePath": "13.svg",
@@ -402,7 +402,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normal görüş: 45; Kırmızı-yeşil görme yetersizliği: Çoğu insan hiçbir şey görmez veya yanlış bir şey görür."
+            "description": "Normal görüş: 45; Kırmızı-yeşil görme bozukluğu: çoğu insan hiçbir şey görmez ya da yanlış bir şey görür."
           },
           {
             "platePath": "14.svg",
@@ -419,7 +419,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normal görüş: 5; Kırmızı-yeşil görme yetersizliği: Çoğu insan hiçbir şey görmez veya yanlış bir şey görür."
+            "description": "Normal görüş: 5; Kırmızı-yeşil renk görme eksikliği: çoğu kişi hiçbir şey görmez ya da hatalı bir şey görür."
           },
           {
             "platePath": "15.svg",
@@ -436,7 +436,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normal görüş: 7; Kırmızı-yeşil görme yetersizliği: Çoğu insan hiçbir şey görmez veya yanlış bir şey görür."
+            "description": "Normal görüş: 7; Kırmızı-yeşil renk görme eksikliği: çoğu kişi hiçbir şey görmez ya da hatalı bir şey görür."
           },
           {
             "platePath": "16.svg",
@@ -453,7 +453,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normal görüş: 16; Kırmızı-yeşil görme yetersizliği: Çoğu insan hiçbir şey görmez veya yanlış bir şey görür."
+            "description": "Normal görüş: 16; Kırmızı-yeşil görme bozukluğu: çoğu kişi hiçbir şey görmez ya da yanlış bir şey görür."
           },
           {
             "platePath": "17.svg",
@@ -470,7 +470,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normal görüş: 73; Kırmızı-yeşil görme yetersizliği: Çoğu insan hiçbir şey görmez veya yanlış bir şey görür."
+            "description": "Normal görüş: 73; Kırmızı-yeşil görme bozukluğu: çoğu kişi hiçbir şey görmez ya da yanlış bir şey görür."
           },
           {
             "platePath": "18.svg",
@@ -487,7 +487,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "Normal görünüm: hiçbir şey yok; Kırmızı-yeşil eksikliği: 5"
+            "description": "Normal görüş: hiçbir şey; Kırmızı-yeşil görme bozukluğu: 5"
           },
           {
             "platePath": "20.svg",
@@ -504,7 +504,7 @@
             "deficiency": [
               "45"
             ],
-            "description": "Normal görünüm: hiçbir şey yok; Kırmızı-yeşil eksikliği: 45"
+            "description": "Normal görüş: hiçbir şey; Kırmızı-yeşil görme eksikliği: 45"
           },
           {
             "platePath": "22.svg",
@@ -522,7 +522,7 @@
               "6",
               "2"
             ],
-            "description": "Normal görünüm: 26; Protanopi veya protanomali: 6; Deuteranopi veya deuteranoli: 2"
+            "description": "Normal görüş: 26; Protanopi veya protanomali: 6; Döteranopi veya döteranomali: 2"
           },
           {
             "platePath": "23.svg",
@@ -540,7 +540,7 @@
               "2",
               "4"
             ],
-            "description": "Normal görünüm: 42; Protanopi veya protanomali: 2; Deuteranopi veya deuteranoli: 4"
+            "description": "Normal görüş: 42; Protanopi veya protanomali: 2; Deuteranopi veya deuteranomali: 4"
           },
           {
             "platePath": "26.svg",
@@ -558,7 +558,7 @@
               "draw_26_purple.svg",
               "draw_26_red.svg"
             ],
-            "description": "Normal görünüm: mor ve kırmızı lekeler; Protanopi veya protanomali: sadece mor çizgi; Deuteranopi veya deuteranomali: sadece kırmızı çizgi"
+            "description": "Normal görüş: mor ve kırmızı noktalar; Protanopi veya protanomali: sadece mor çizgi; Deuteranopi veya deuteranomali: sadece kırmızı çizgi"
           },
           {
             "platePath": "28.svg",
@@ -574,7 +574,7 @@
             "deficiency": [
               "draw_28_deficiency_red_green.svg"
             ],
-            "description": "Normal görünüm: hiçbir şey yok; Kırmızı-yeşil eksikliği: bir çizgi"
+            "description": "Normal görüş: hiçbir şey; Kırmızı-yeşil görme bozukluğu: bir çizgi"
           },
           {
             "platePath": "30.svg",
@@ -590,7 +590,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "Normal görünüm: mavi-yeşil çizgi; Kırmızı-yeşil eksikliği: ∅"
+            "description": "Normal görüş: mavi-yeşil çizgi; Kırmızı-yeşil görme bozukluğu: ∅"
           },
           {
             "platePath": "32.svg",
@@ -606,7 +606,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "Normal görünüm: turuncu çizgi; Kırmızı-yeşil eksikliği: ∅ veya yanlış çizgi"
+            "description": "Normal görüş: turuncu çizgi; Kırmızı-yeşil görme bozukluğu: ∅ veya hatalı bir çizgi"
           },
           {
             "platePath": "35.svg",
@@ -622,7 +622,7 @@
             "deficiency": [
               "draw_35_deficiency.svg"
             ],
-            "description": "Normal görünüm: mavi-yeşil ve sarı-yeşil çizgi; Kırmızı-yeşil eksikliği: sadece mavi-yeşil ve mor çizgi"
+            "description": "Normal görüş: mavi-yeşil ve sarı-yeşil çizgi; Kırmızı-yeşil görme bozukluğu: yalnızca mavi-yeşil ve menekşe rengi çizgi"
           },
           {
             "platePath": "37.svg",
@@ -639,7 +639,7 @@
             "deficiency": [
               "draw_37_deficiency.svg"
             ],
-            "description": "Normal görünüm: mor ve turuncu çizgi; Kırmızı-yeşil eksikliği: mavi-yeşil ve mor çizgi"
+            "description": "Normal görüş: menekşe ve turuncu çizgi; Kırmızı-yeşil görme eksikliği: mavi-yeşil ve menekşe çizgi"
           },
           {
             "platePath": "38.svg",
@@ -660,8 +660,8 @@
     {
       "dir": "Hidden-plate",
       "test": {
-        "title": "Ishihara Gizli Tabaklar",
-        "description": "Sadece renk körlüğü olanlar okuyabilir.",
+        "title": "Ishihara Gizli Levhaları",
+        "description": "Yalnızca renk görme bozukluğu olanlar okuyabilir.",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -676,7 +676,7 @@
               "6",
               "7"
             ],
-            "description": "Normal görünüm: hiçbir şey yok; Kırmızı-yeşil eksikliği: 5"
+            "description": "Normal görüş: hiçbir şey; Kırmızı-yeşil görme bozukluğu: 5"
           },
           {
             "platePath": "19.svg",
@@ -690,7 +690,7 @@
               "8",
               "3"
             ],
-            "description": "Normal görünüm: hiçbir şey yok; Kırmızı-yeşil eksikliği: 2"
+            "description": "Normal görüş: hiçbir şey; Kırmızı-yeşil görme bozukluğu: 2"
           },
           {
             "platePath": "20.svg",
@@ -704,7 +704,7 @@
               "∅",
               "23"
             ],
-            "description": "Normal görünüm: hiçbir şey yok; Kırmızı-yeşil eksikliği: 45"
+            "description": "Normal görüş: hiçbir şey; Kırmızı-yeşil görme eksikliği: 45"
           },
           {
             "platePath": "21.svg",
@@ -718,7 +718,7 @@
               "43",
               "22"
             ],
-            "description": "Normal görünüm: hiçbir şey yok; Kırmızı-yeşil eksikliği: 73"
+            "description": "Normal görüş: hiçbir şey; Kırmızı-yeşil görme bozukluğu: 73"
           },
           {
             "platePath": "28.svg",
@@ -731,7 +731,7 @@
               "draw_28_deficiency_red_green.svg",
               "empty-set.svg"
             ],
-            "description": "Normal görünüm: hiçbir şey yok; Kırmızı-yeşil eksikliği: bir çizgi"
+            "description": "Normal görüş: hiçbir şey; Kırmızı-yeşil görme bozukluğu: bir çizgi"
           },
           {
             "platePath": "29.svg",
@@ -744,7 +744,7 @@
               "draw_32.svg",
               "draw_29_deficiency_red_green.svg"
             ],
-            "description": "Normal görünüm: hiçbir şey yok; Kırmızı-yeşil eksikliği: bir çizgi"
+            "description": "Normal görüş: hiçbir şey; Kırmızı-yeşil görme bozukluğu: bir çizgi"
           }
         ]
       }
@@ -752,8 +752,8 @@
     {
       "dir": "MartinKrzywinski",
       "test": {
-        "title": "38 Ishihara Tabağı",
-        "description": "Martin Krzywinski tarafından geliştirilen 38 Ishihara Plakası",
+        "title": "38 Ishihara Levhası",
+        "description": "Martin Krzywinski tarafından iyileştirilmiş 38 Ishihara levhası",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -761,7 +761,7 @@
             "nature": "Letter",
             "input": "Buttons",
             "answer": "12",
-            "description": "Herkes 12 sayısını görmeli.",
+            "description": "Herkes 12 numarasını görmeli.",
             "buttonTexts": [
               "21",
               "17",
@@ -785,7 +785,7 @@
             "deficiency": [
               "3"
             ],
-            "description": "Normal görüş: 8; Kırmızı-yeşil renk körlüğü: 3"
+            "description": "Normal görüş: 8; Kırmızı-yeşil görme bozukluğu: 3"
           },
           {
             "platePath": "3.svg",
@@ -802,7 +802,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "Normal görüş: 6; Kırmızı-yeşil eksikliği: 5"
+            "description": "Normal görüş: 6; Kırmızı-yeşil görme bozukluğu: 5"
           },
           {
             "platePath": "4.svg",
@@ -819,7 +819,7 @@
             "deficiency": [
               "70"
             ],
-            "description": "Normal görüş: 29; Kırmızı-yeşil eksikliği: 70"
+            "description": "Normal görüş: 29; Kırmızı-yeşil görme bozukluğu: 70"
           },
           {
             "platePath": "5.svg",
@@ -836,7 +836,7 @@
             "deficiency": [
               "35"
             ],
-            "description": "Normal görüş: 57; Kırmızı-yeşil eksikliği: 35"
+            "description": "Normal görüş: 57; Kırmızı-yeşil görme bozukluğu: 35"
           },
           {
             "platePath": "6.svg",
@@ -853,7 +853,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "Normal görüş: 5; Kırmızı-yeşil renk körlüğü: 2"
+            "description": "Normal görüş: 5; Kırmızı-yeşil görme bozukluğu: 2"
           },
           {
             "platePath": "7.svg",
@@ -870,7 +870,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "Normal görüş: 3; Kırmızı-yeşil renk körlüğü: 5"
+            "description": "Normal görüş: 3; Kırmızı-yeşil görme bozukluğu: 5"
           },
           {
             "platePath": "8.svg",
@@ -887,7 +887,7 @@
             "deficiency": [
               "17"
             ],
-            "description": "Normal görüş: 15; Kırmızı-yeşil eksikliği: 17"
+            "description": "Normal görüş: 15; Kırmızı-yeşil görme eksikliği: 17"
           },
           {
             "platePath": "9.svg",
@@ -904,7 +904,7 @@
             "deficiency": [
               "21"
             ],
-            "description": "Normal görüş: 74; Kırmızı-yeşil eksikliği: 21"
+            "description": "Normal görüş: 74; Kırmızı-yeşil görme bozukluğu: 21"
           },
           {
             "platePath": "10.svg",
@@ -921,7 +921,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normal görüş: 2; Kırmızı-yeşil körlüğü: Çoğu insan hiçbir şey görmez veya yanlış bir şey görür."
+            "description": "Normal görüş: 2; Kırmızı-yeşil görme bozukluğu: çoğu kişi hiçbir şey görmez ya da yanlış bir şey görür."
           },
           {
             "platePath": "11.svg",
@@ -935,7 +935,7 @@
               "∅",
               "8"
             ],
-            "description": "Normal görüş: 6; Kırmızı-yeşil görme yetersizliği: Çoğu insan hiçbir şey görmez veya yanlış bir şey görür."
+            "description": "Normal görüş: 6; Kırmızı-yeşil görme bozukluğu: çoğu insan hiçbir şey görmez ya da yanlış bir şey görür."
           },
           {
             "platePath": "12.svg",
@@ -952,7 +952,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normal görüş: 97; Kırmızı-yeşil görme yetersizliği: Çoğu insan hiçbir şey görmez veya yanlış bir şey görür."
+            "description": "Normal görüş: 97; Kırmızı-yeşil görme bozukluğu: çoğu kişi hiçbir şey görmez ya da yanlış bir şey görür."
           },
           {
             "platePath": "13.svg",
@@ -969,7 +969,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normal görüş: 45; Kırmızı-yeşil görme yetersizliği: Çoğu insan hiçbir şey görmez veya yanlış bir şey görür."
+            "description": "Normal görüş: 45; Kırmızı-yeşil görme bozukluğu: çoğu insan hiçbir şey görmez ya da yanlış bir şey görür."
           },
           {
             "platePath": "14.svg",
@@ -986,7 +986,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normal görüş: 5; Kırmızı-yeşil görme yetersizliği: Çoğu insan hiçbir şey görmez veya yanlış bir şey görür."
+            "description": "Normal görüş: 5; Kırmızı-yeşil renk görme eksikliği: çoğu kişi hiçbir şey görmez ya da hatalı bir şey görür."
           },
           {
             "platePath": "15.svg",
@@ -1003,7 +1003,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normal görüş: 7; Kırmızı-yeşil görme yetersizliği: Çoğu insan hiçbir şey görmez veya yanlış bir şey görür."
+            "description": "Normal görüş: 7; Kırmızı-yeşil renk görme eksikliği: çoğu kişi hiçbir şey görmez ya da hatalı bir şey görür."
           },
           {
             "platePath": "16.svg",
@@ -1020,7 +1020,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normal görüş: 16; Kırmızı-yeşil görme yetersizliği: Çoğu insan hiçbir şey görmez veya yanlış bir şey görür."
+            "description": "Normal görüş: 16; Kırmızı-yeşil görme bozukluğu: çoğu kişi hiçbir şey görmez ya da yanlış bir şey görür."
           },
           {
             "platePath": "17.svg",
@@ -1037,7 +1037,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normal görüş: 73; Kırmızı-yeşil görme yetersizliği: Çoğu insan hiçbir şey görmez veya yanlış bir şey görür."
+            "description": "Normal görüş: 73; Kırmızı-yeşil görme bozukluğu: çoğu kişi hiçbir şey görmez ya da yanlış bir şey görür."
           },
           {
             "platePath": "18.svg",
@@ -1054,7 +1054,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "Normal görünüm: hiçbir şey yok; Kırmızı-yeşil eksikliği: 5"
+            "description": "Normal görüş: hiçbir şey; Kırmızı-yeşil görme bozukluğu: 5"
           },
           {
             "platePath": "19.svg",
@@ -1071,7 +1071,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "Normal görünüm: hiçbir şey yok; Kırmızı-yeşil eksikliği: 2"
+            "description": "Normal görüş: hiçbir şey; Kırmızı-yeşil görme bozukluğu: 2"
           },
           {
             "platePath": "20.svg",
@@ -1088,7 +1088,7 @@
             "deficiency": [
               "45"
             ],
-            "description": "Normal görünüm: hiçbir şey yok; Kırmızı-yeşil eksikliği: 45"
+            "description": "Normal görüş: hiçbir şey; Kırmızı-yeşil görme eksikliği: 45"
           },
           {
             "platePath": "21.svg",
@@ -1105,7 +1105,7 @@
             "deficiency": [
               "73"
             ],
-            "description": "Normal görünüm: hiçbir şey yok; Kırmızı-yeşil eksikliği: 73"
+            "description": "Normal görüş: hiçbir şey; Kırmızı-yeşil görme bozukluğu: 73"
           },
           {
             "platePath": "22.svg",
@@ -1123,7 +1123,7 @@
               "6",
               "2"
             ],
-            "description": "Normal görünüm: 26; Protanopi veya protanomali: 6; Deuteranopi veya deuteranoli: 2"
+            "description": "Normal görüş: 26; Protanopi veya protanomali: 6; Döteranopi veya döteranomali: 2"
           },
           {
             "platePath": "23.svg",
@@ -1141,7 +1141,7 @@
               "2",
               "4"
             ],
-            "description": "Normal görünüm: 42; Protanopi veya protanomali: 2; Deuteranopi veya deuteranoli: 4"
+            "description": "Normal görüş: 42; Protanopi veya protanomali: 2; Deuteranopi veya deuteranomali: 4"
           },
           {
             "platePath": "24.svg",
@@ -1159,7 +1159,7 @@
               "5",
               "3"
             ],
-            "description": "Normal görünüm: 35; Protanopi veya protanomali: 5; Deuteranopi veya deuteranoli: 3"
+            "description": "Normal görüş: 35; Protanopi veya protanomali: 5; Deuteranopi veya deuteranomali: 3"
           },
           {
             "platePath": "25.svg",
@@ -1177,7 +1177,7 @@
               "6",
               "9"
             ],
-            "description": "Normal görünüm: 96; Protanopi veya protanomali: 6; Deuteranopi veya deuteranoli: 9"
+            "description": "Normal görüş: 96; Protanopi veya protanomali: 6; Deuteranopi veya deuteranomali: 9"
           },
           {
             "platePath": "26.svg",
@@ -1195,7 +1195,7 @@
               "draw_26_purple.svg",
               "draw_26_red.svg"
             ],
-            "description": "Normal görünüm: mor ve kırmızı lekeler; Protanopi veya protanomali: sadece mor çizgi; Deuteranopi veya deuteranomali: sadece kırmızı çizgi"
+            "description": "Normal görüş: mor ve kırmızı noktalar; Protanopi veya protanomali: sadece mor çizgi; Deuteranopi veya deuteranomali: sadece kırmızı çizgi"
           },
           {
             "platePath": "27.svg",
@@ -1213,7 +1213,7 @@
               "draw_27_purple.svg",
               "draw_27_red.svg"
             ],
-            "description": "Normal görünüm: mor ve kırmızı lekeler; Protanopi veya protanomali: sadece mor çizgi; Deuteranopi veya deuteranomali: sadece kırmızı çizgi"
+            "description": "Normal görüş: mor ve kırmızı noktalar; Protanopi veya protanomali: sadece mor çizgi; Deuteranopi veya deuteranomali: sadece kırmızı çizgi"
           },
           {
             "platePath": "28.svg",
@@ -1229,7 +1229,7 @@
             "deficiency": [
               "draw_28_deficiency_red_green.svg"
             ],
-            "description": "Normal görünüm: hiçbir şey yok; Kırmızı-yeşil eksikliği: bir çizgi"
+            "description": "Normal görüş: hiçbir şey; Kırmızı-yeşil görme bozukluğu: bir çizgi"
           },
           {
             "platePath": "29.svg",
@@ -1245,7 +1245,7 @@
             "deficiency": [
               "draw_29_deficiency_red_green.svg"
             ],
-            "description": "Normal görünüm: hiçbir şey yok; Kırmızı-yeşil eksikliği: bir çizgi"
+            "description": "Normal görüş: hiçbir şey; Kırmızı-yeşil görme bozukluğu: bir çizgi"
           },
           {
             "platePath": "30.svg",
@@ -1261,7 +1261,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "Normal görünüm: mavi-yeşil çizgi; Kırmızı-yeşil eksikliği: ∅"
+            "description": "Normal görüş: mavi-yeşil çizgi; Kırmızı-yeşil görme bozukluğu: ∅"
           },
           {
             "platePath": "31.svg",
@@ -1277,7 +1277,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "Normal görünüm: mavi-yeşil çizgi; Kırmızı-yeşil eksikliği: ∅"
+            "description": "Normal görüş: mavi-yeşil çizgi; Kırmızı-yeşil görme bozukluğu: ∅"
           },
           {
             "platePath": "32.svg",
@@ -1293,7 +1293,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "Normal görünüm: turuncu çizgi; Kırmızı-yeşil eksikliği: ∅ veya yanlış çizgi"
+            "description": "Normal görüş: turuncu çizgi; Kırmızı-yeşil görme bozukluğu: ∅ veya hatalı bir çizgi"
           },
           {
             "platePath": "33.svg",
@@ -1309,7 +1309,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "Normal görünüm: turuncu çizgi; Kırmızı-yeşil eksikliği: ∅ veya yanlış çizgi"
+            "description": "Normal görüş: turuncu çizgi; Kırmızı-yeşil görme bozukluğu: ∅ veya hatalı bir çizgi"
           },
           {
             "platePath": "34.svg",
@@ -1325,7 +1325,7 @@
             "deficiency": [
               "draw_34_deficiency.svg"
             ],
-            "description": "Normal görünüm: mavi-yeşil ve sarı-yeşil çizgi; Kırmızı-yeşil eksikliği: sadece kırmızı-yeşil ve mor çizgi"
+            "description": "Normal görüş: mavi-yeşil ve sarı-yeşil çizgi; Kırmızı-yeşil görme bozukluğu: yalnızca kırmızı-yeşil ve menekşe rengi çizgi"
           },
           {
             "platePath": "35.svg",
@@ -1341,7 +1341,7 @@
             "deficiency": [
               "draw_35_deficiency.svg"
             ],
-            "description": "Normal görünüm: mavi-yeşil ve sarı-yeşil çizgi; Kırmızı-yeşil eksikliği: sadece mavi-yeşil ve mor çizgi"
+            "description": "Normal görüş: mavi-yeşil ve sarı-yeşil çizgi; Kırmızı-yeşil görme bozukluğu: yalnızca mavi-yeşil ve menekşe rengi çizgi"
           },
           {
             "platePath": "36.svg",
@@ -1358,7 +1358,7 @@
             "deficiency": [
               "draw_36_deficiency.svg"
             ],
-            "description": "Normal görünüm: mor ve turuncu çizgi; Kırmızı-yeşil eksikliği: mavi-yeşil ve mor çizgi"
+            "description": "Normal görüş: menekşe ve turuncu çizgi; Kırmızı-yeşil görme eksikliği: mavi-yeşil ve menekşe çizgi"
           },
           {
             "platePath": "37.svg",
@@ -1375,7 +1375,7 @@
             "deficiency": [
               "draw_37_deficiency.svg"
             ],
-            "description": "Normal görünüm: mor ve turuncu çizgi; Kırmızı-yeşil eksikliği: mavi-yeşil ve mor çizgi"
+            "description": "Normal görüş: menekşe ve turuncu çizgi; Kırmızı-yeşil görme eksikliği: mavi-yeşil ve menekşe çizgi"
           },
           {
             "platePath": "38.svg",
@@ -1397,7 +1397,7 @@
       "dir": "Numbers_MixedBackground",
       "test": {
         "title": "Sayılar",
-        "description": "Sayılar ~ Karışık Arka Plan",
+        "description": "Rakamlar ~ Karışık Arka Plan",
         "maxPlates": 10,
         "dir": "../../SVG_Files/Numbers_MixedBackground",
         "plates": [
@@ -1578,8 +1578,8 @@
     {
       "dir": "General1/Letter",
       "test": {
-        "title": "Alfanümerik",
-        "description": "Harfler ve Sayılar",
+        "title": "Alfanümerik karakterler",
+        "description": "Harfler ve Rakamlar",
         "dir": "../../../SVG_Files/General1/Letter",
         "plates": [
           {
@@ -1587,7 +1587,7 @@
             "nature": "Letter",
             "input": "LetterPad",
             "answer": "B",
-            "description": "Mektubu bulun"
+            "description": "Mektubun yerini tespit et"
           },
           {
             "platePath": "ishihara_C.svg",

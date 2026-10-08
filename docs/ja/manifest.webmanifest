@@ -1,7 +1,7 @@
 {
   "name": "石原式色覚検査",
-  "short_name": "色覚異常",
-  "description": "石原式色覚検査表を使って、色覚検査を行い、色覚異常の簡単なスクリーニングを受けましょう。",
+  "short_name": "色盲",
+  "description": "色覚異常の簡易スクリーニングとして、石原表を用いて色覚をチェックしましょう。",
   "id": "Fonlow.ColorBlindTest",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",

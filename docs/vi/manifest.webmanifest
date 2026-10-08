@@ -1,7 +1,7 @@
 {
   "name": "Bài kiểm tra mù màu Ishihara",
   "short_name": "Mù màu",
-  "description": "Kiểm tra khả năng nhận biết màu sắc của bạn bằng bảng Ishihara để sàng lọc nhanh chứng mù màu.",
+  "description": "Kiểm tra thị giác màu sắc bằng các bảng Ishihara để sàng lọc nhanh chứng mù màu.",
   "id": "Fonlow.ColorBlindTest",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",

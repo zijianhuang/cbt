@@ -1,7 +1,7 @@
 {
-  "name": "Teste de daltonismo de Ishihara",
-  "short_name": "daltônico",
-  "description": "Faça um teste de visão de cores com as placas de Ishihara para um diagnóstico rápido de daltonismo.",
+  "name": "Teste de Ishihara para daltonismo",
+  "short_name": "Daltônico",
+  "description": "Verifique sua visão de cores com as pranchas de Ishihara para uma triagem rápida de daltonismo.",
   "id": "Fonlow.ColorBlindTest",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",

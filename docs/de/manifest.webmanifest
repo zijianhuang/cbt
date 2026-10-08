@@ -1,7 +1,7 @@
 {
-  "name": "Ishihara-Farbsehtest",
-  "short_name": "Farbenblindheit",
-  "description": "Testen Sie Ihr Farbsehvermögen mit Ishihara-Tafeln für ein schnelles Farbsehtestverfahren.",
+  "name": "Ishihara-Test auf Farbblindheit",
+  "short_name": "farbenblind",
+  "description": "Überprüfen Sie Ihr Farbsehvermögen mithilfe von Ishihara-Farbtafeln für ein schnelles Screening auf Farbenblindheit.",
   "id": "Fonlow.ColorBlindTest",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",

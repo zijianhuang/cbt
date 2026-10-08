@@ -1,13 +1,13 @@
 {
   "$schema": "https://raw.githubusercontent.com/zijianhuang/schemas/refs/heads/main/json/AllColorBlindTestsSchema.json",
   "title": "Ishihara-platen (2026)",
-  "description": "Meerdere sets Ishihara-borden",
+  "description": "Meerdere sets Ishihara-platen",
   "testContents": [
     {
       "dir": "14-plate",
       "test": {
         "title": "14 Ishihara-platen",
-        "description": "14 Ishihara-borden, verfijnd door Martin Krzywinski.",
+        "description": "14 Ishihara-platen, verfijnd door Martin Krzywinski",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -39,7 +39,7 @@
             "deficiency": [
               "3"
             ],
-            "description": "Normaal zicht: 8; Rood-groentekort: 3"
+            "description": "Normaal zicht: 8; Rood-groenstoornis: 3"
           },
           {
             "platePath": "6.svg",
@@ -56,7 +56,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "Normaal zicht: 5; Rood-groentekort: 2"
+            "description": "Normaal zicht: 5; Rood-groenafwijking: 2"
           },
           {
             "platePath": "4.svg",
@@ -73,7 +73,7 @@
             "deficiency": [
               "70"
             ],
-            "description": "Normaal zicht: 29; Rood-groentekort: 70"
+            "description": "Normaal zicht: 29; Rood-groenstoornis: 70"
           },
           {
             "platePath": "9.svg",
@@ -90,7 +90,7 @@
             "deficiency": [
               "21"
             ],
-            "description": "Normaal zicht: 74; Rood-groentekort: 21"
+            "description": "Normaal zicht: 74; Rood-groendeficiëntie: 21"
           },
           {
             "platePath": "15.svg",
@@ -107,7 +107,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normaal zicht: 7; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets verkeerd."
+            "description": "Normaal zicht: 7; Rood-groenafwijking: de meeste mensen zien niets of zien iets anders."
           },
           {
             "platePath": "13.svg",
@@ -124,7 +124,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normaal zicht: 45; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets verkeerd."
+            "description": "Normaal zicht: 45; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets anders."
           },
           {
             "platePath": "10.svg",
@@ -141,7 +141,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normaal zicht: 2; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets verkeerd."
+            "description": "Normaal zicht: 2; Rood-groenafwijking: de meeste mensen zien niets of zien iets anders."
           },
           {
             "platePath": "19.svg",
@@ -158,7 +158,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "Normaal zicht: niets; Rood-groentekort: 2"
+            "description": "Normaal zicht: niets; Rood-groenafwijking: 2"
           },
           {
             "platePath": "16.svg",
@@ -175,7 +175,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normaal zicht: 16; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets verkeerd."
+            "description": "Normaal zicht: 16; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets anders."
           },
           {
             "platePath": "31.svg",
@@ -191,7 +191,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "Normaal zicht: blauwgroene lijn; Roodgroentekort: ∅"
+            "description": "Normaal zicht: blauw-groene lijn; Rood-groendeficiëntie: ∅"
           },
           {
             "platePath": "24.svg",
@@ -245,7 +245,7 @@
               "draw_27_purple.svg",
               "draw_27_red.svg"
             ],
-            "description": "Normaal zicht: paarse en rode vlekken; Protanopie of protanomalie: alleen de paarse lijn; Deuteranopie of deuteranomalie: alleen de rode lijn"
+            "description": "Normaal zicht: paarse en rode stippen; protanopie of protanomalie: alleen de paarse lijn; deuteranopie of deuteranomalie: alleen de rode lijn"
           }
         ]
       }
@@ -254,7 +254,7 @@
       "dir": "24-plate",
       "test": {
         "title": "24 Ishihara-platen",
-        "description": "24 Ishihara-platen, verfijnd door Martin Krzywinski.",
+        "description": "24 Ishihara-platen, verfijnd door Martin Krzywinski",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -286,7 +286,7 @@
             "deficiency": [
               "3"
             ],
-            "description": "Normaal zicht: 8; Rood-groentekort: 3"
+            "description": "Normaal zicht: 8; Rood-groenstoornis: 3"
           },
           {
             "platePath": "4.svg",
@@ -303,7 +303,7 @@
             "deficiency": [
               "70"
             ],
-            "description": "Normaal zicht: 29; Rood-groentekort: 70"
+            "description": "Normaal zicht: 29; Rood-groenstoornis: 70"
           },
           {
             "platePath": "6.svg",
@@ -320,7 +320,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "Normaal zicht: 5; Rood-groentekort: 2"
+            "description": "Normaal zicht: 5; Rood-groenafwijking: 2"
           },
           {
             "platePath": "7.svg",
@@ -337,7 +337,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "Normaal zicht: 3; Rood-groentekort: 5"
+            "description": "Normaal zicht: 3; Rood-groenafwijking: 5"
           },
           {
             "platePath": "8.svg",
@@ -354,7 +354,7 @@
             "deficiency": [
               "17"
             ],
-            "description": "Normaal zicht: 15; Rood-groentekort: 17"
+            "description": "Normaal zicht: 15; Rood-groendeficiëntie: 17"
           },
           {
             "platePath": "9.svg",
@@ -371,7 +371,7 @@
             "deficiency": [
               "21"
             ],
-            "description": "Normaal zicht: 74; Rood-groentekort: 21"
+            "description": "Normaal zicht: 74; Rood-groendeficiëntie: 21"
           },
           {
             "platePath": "11.svg",
@@ -385,7 +385,7 @@
               "∅",
               "8"
             ],
-            "description": "Normaal zicht: 6; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets verkeerd."
+            "description": "Normaal zicht: 6; rood-groendeficiëntie: de meeste mensen zien niets of zien iets anders."
           },
           {
             "platePath": "13.svg",
@@ -402,7 +402,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normaal zicht: 45; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets verkeerd."
+            "description": "Normaal zicht: 45; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets anders."
           },
           {
             "platePath": "14.svg",
@@ -419,7 +419,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normaal zicht: 5; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets verkeerd."
+            "description": "Normaal zicht: 5; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets anders."
           },
           {
             "platePath": "15.svg",
@@ -436,7 +436,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normaal zicht: 7; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets verkeerd."
+            "description": "Normaal zicht: 7; Rood-groenafwijking: de meeste mensen zien niets of zien iets anders."
           },
           {
             "platePath": "16.svg",
@@ -453,7 +453,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normaal zicht: 16; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets verkeerd."
+            "description": "Normaal zicht: 16; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets anders."
           },
           {
             "platePath": "17.svg",
@@ -470,7 +470,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normaal zicht: 73; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets verkeerd."
+            "description": "Normaal zicht: 73; rood-groendeficiëntie: de meeste mensen zien niets of zien iets anders."
           },
           {
             "platePath": "18.svg",
@@ -487,7 +487,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "Normaal zicht: niets; Rood-groentekort: 5"
+            "description": "Normaal zicht: niets; Rood-groenafwijking: 5"
           },
           {
             "platePath": "20.svg",
@@ -504,7 +504,7 @@
             "deficiency": [
               "45"
             ],
-            "description": "Normaal zicht: niets; Rood-groentekort: 45"
+            "description": "Normaal zicht: niets; Rood-groenstoornis: 45"
           },
           {
             "platePath": "22.svg",
@@ -558,7 +558,7 @@
               "draw_26_purple.svg",
               "draw_26_red.svg"
             ],
-            "description": "Normaal zicht: paarse en rode vlekken; Protanopie of protanomalie: alleen de paarse lijn; Deuteranopie of deuteranomalie: alleen de rode lijn"
+            "description": "Normaal zicht: paarse en rode stippen; protanopie of protanomalie: alleen de paarse lijn; deuteranopie of deuteranomalie: alleen de rode lijn"
           },
           {
             "platePath": "28.svg",
@@ -574,7 +574,7 @@
             "deficiency": [
               "draw_28_deficiency_red_green.svg"
             ],
-            "description": "Normaal zicht: niets; Rood-groendeficiëntie: een lijn"
+            "description": "Normaal zicht: niets; rood-groenafwijking: een lijn"
           },
           {
             "platePath": "30.svg",
@@ -590,7 +590,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "Normaal zicht: blauwgroene lijn; Roodgroentekort: ∅"
+            "description": "Normaal zicht: blauw-groene lijn; Rood-groendeficiëntie: ∅"
           },
           {
             "platePath": "32.svg",
@@ -606,7 +606,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "Normaal zicht: oranje lijn; Rood-groendeficiëntie: ∅ of een valse lijn"
+            "description": "Normaal zicht: oranje lijn; rood-groendeficiëntie: ∅ of een onjuiste lijn"
           },
           {
             "platePath": "35.svg",
@@ -622,7 +622,7 @@
             "deficiency": [
               "draw_35_deficiency.svg"
             ],
-            "description": "Normaal zicht: blauwgroene en geelgroene lijn; roodgroentekort: alleen blauwgroene en violette lijn"
+            "description": "Normaal zicht: blauwgroene en geelgroene lijn; rood-groenstoornis: alleen blauwgroene en violette lijn"
           },
           {
             "platePath": "37.svg",
@@ -639,7 +639,7 @@
             "deficiency": [
               "draw_37_deficiency.svg"
             ],
-            "description": "Normaal zicht: paarse en oranje lijn; Roodgroentekort: blauwgroene en paarse lijn"
+            "description": "Normaal zicht: violette en oranje lijn; rood-groendeficiëntie: blauwgroene en violette lijn"
           },
           {
             "platePath": "38.svg",
@@ -660,8 +660,8 @@
     {
       "dir": "Hidden-plate",
       "test": {
-        "title": "Ishihara Verborgen Borden",
-        "description": "Alleen mensen met kleurenblindheid kunnen dit aflezen.",
+        "title": "Verborgen Ishihara-platen",
+        "description": "Alleen personen met een kleurwaarnemingsstoornis kunnen dit aflezen.",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -676,7 +676,7 @@
               "6",
               "7"
             ],
-            "description": "Normaal zicht: niets; Rood-groentekort: 5"
+            "description": "Normaal zicht: niets; Rood-groenafwijking: 5"
           },
           {
             "platePath": "19.svg",
@@ -690,7 +690,7 @@
               "8",
               "3"
             ],
-            "description": "Normaal zicht: niets; Rood-groentekort: 2"
+            "description": "Normaal zicht: niets; Rood-groenafwijking: 2"
           },
           {
             "platePath": "20.svg",
@@ -704,7 +704,7 @@
               "∅",
               "23"
             ],
-            "description": "Normaal zicht: niets; Rood-groentekort: 45"
+            "description": "Normaal zicht: niets; Rood-groenstoornis: 45"
           },
           {
             "platePath": "21.svg",
@@ -718,7 +718,7 @@
               "43",
               "22"
             ],
-            "description": "Normaal zicht: niets; Rood-groentekort: 73"
+            "description": "Normaal zicht: niets; Rood-groenafwijking: 73"
           },
           {
             "platePath": "28.svg",
@@ -731,7 +731,7 @@
               "draw_28_deficiency_red_green.svg",
               "empty-set.svg"
             ],
-            "description": "Normaal zicht: niets; Rood-groendeficiëntie: een lijn"
+            "description": "Normaal zicht: niets; rood-groenafwijking: een lijn"
           },
           {
             "platePath": "29.svg",
@@ -744,7 +744,7 @@
               "draw_32.svg",
               "draw_29_deficiency_red_green.svg"
             ],
-            "description": "Normaal zicht: niets; Rood-groendeficiëntie: een lijn"
+            "description": "Normaal zicht: niets; rood-groenafwijking: een lijn"
           }
         ]
       }
@@ -753,7 +753,7 @@
       "dir": "MartinKrzywinski",
       "test": {
         "title": "38 Ishihara-platen",
-        "description": "38 Ishihara-platen, verfijnd door Martin Krzywinski.",
+        "description": "38 Ishihara-platen, verfijnd door Martin Krzywinski",
         "dir": "../../mk_svg_sources/svglowrespng",
         "plates": [
           {
@@ -785,7 +785,7 @@
             "deficiency": [
               "3"
             ],
-            "description": "Normaal zicht: 8; Rood-groentekort: 3"
+            "description": "Normaal zicht: 8; Rood-groenstoornis: 3"
           },
           {
             "platePath": "3.svg",
@@ -802,7 +802,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "Normaal zicht: 6; Rood-groentekort: 5"
+            "description": "Normaal zicht: 6; Rood-groenafwijking: 5"
           },
           {
             "platePath": "4.svg",
@@ -819,7 +819,7 @@
             "deficiency": [
               "70"
             ],
-            "description": "Normaal zicht: 29; Rood-groentekort: 70"
+            "description": "Normaal zicht: 29; Rood-groenstoornis: 70"
           },
           {
             "platePath": "5.svg",
@@ -836,7 +836,7 @@
             "deficiency": [
               "35"
             ],
-            "description": "Normaal zicht: 57; Rood-groentekort: 35"
+            "description": "Normaal zicht: 57; Rood-groendeficiëntie: 35"
           },
           {
             "platePath": "6.svg",
@@ -853,7 +853,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "Normaal zicht: 5; Rood-groentekort: 2"
+            "description": "Normaal zicht: 5; Rood-groenafwijking: 2"
           },
           {
             "platePath": "7.svg",
@@ -870,7 +870,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "Normaal zicht: 3; Rood-groentekort: 5"
+            "description": "Normaal zicht: 3; Rood-groenafwijking: 5"
           },
           {
             "platePath": "8.svg",
@@ -887,7 +887,7 @@
             "deficiency": [
               "17"
             ],
-            "description": "Normaal zicht: 15; Rood-groentekort: 17"
+            "description": "Normaal zicht: 15; Rood-groendeficiëntie: 17"
           },
           {
             "platePath": "9.svg",
@@ -904,7 +904,7 @@
             "deficiency": [
               "21"
             ],
-            "description": "Normaal zicht: 74; Rood-groentekort: 21"
+            "description": "Normaal zicht: 74; Rood-groendeficiëntie: 21"
           },
           {
             "platePath": "10.svg",
@@ -921,7 +921,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normaal zicht: 2; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets verkeerd."
+            "description": "Normaal zicht: 2; Rood-groenafwijking: de meeste mensen zien niets of zien iets anders."
           },
           {
             "platePath": "11.svg",
@@ -935,7 +935,7 @@
               "∅",
               "8"
             ],
-            "description": "Normaal zicht: 6; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets verkeerd."
+            "description": "Normaal zicht: 6; rood-groendeficiëntie: de meeste mensen zien niets of zien iets anders."
           },
           {
             "platePath": "12.svg",
@@ -952,7 +952,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normaal zicht: 97; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets verkeerd."
+            "description": "Normaal zicht: 97; rood-groendeficiëntie: de meeste mensen zien niets of zien iets anders."
           },
           {
             "platePath": "13.svg",
@@ -969,7 +969,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normaal zicht: 45; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets verkeerd."
+            "description": "Normaal zicht: 45; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets anders."
           },
           {
             "platePath": "14.svg",
@@ -986,7 +986,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normaal zicht: 5; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets verkeerd."
+            "description": "Normaal zicht: 5; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets anders."
           },
           {
             "platePath": "15.svg",
@@ -1003,7 +1003,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normaal zicht: 7; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets verkeerd."
+            "description": "Normaal zicht: 7; Rood-groenafwijking: de meeste mensen zien niets of zien iets anders."
           },
           {
             "platePath": "16.svg",
@@ -1020,7 +1020,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normaal zicht: 16; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets verkeerd."
+            "description": "Normaal zicht: 16; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets anders."
           },
           {
             "platePath": "17.svg",
@@ -1037,7 +1037,7 @@
             "deficiency": [
               "∅"
             ],
-            "description": "Normaal zicht: 73; Rood-groendeficiëntie: de meeste mensen zien niets of zien iets verkeerd."
+            "description": "Normaal zicht: 73; rood-groendeficiëntie: de meeste mensen zien niets of zien iets anders."
           },
           {
             "platePath": "18.svg",
@@ -1054,7 +1054,7 @@
             "deficiency": [
               "5"
             ],
-            "description": "Normaal zicht: niets; Rood-groentekort: 5"
+            "description": "Normaal zicht: niets; Rood-groenafwijking: 5"
           },
           {
             "platePath": "19.svg",
@@ -1071,7 +1071,7 @@
             "deficiency": [
               "2"
             ],
-            "description": "Normaal zicht: niets; Rood-groentekort: 2"
+            "description": "Normaal zicht: niets; Rood-groenafwijking: 2"
           },
           {
             "platePath": "20.svg",
@@ -1088,7 +1088,7 @@
             "deficiency": [
               "45"
             ],
-            "description": "Normaal zicht: niets; Rood-groentekort: 45"
+            "description": "Normaal zicht: niets; Rood-groenstoornis: 45"
           },
           {
             "platePath": "21.svg",
@@ -1105,7 +1105,7 @@
             "deficiency": [
               "73"
             ],
-            "description": "Normaal zicht: niets; Rood-groentekort: 73"
+            "description": "Normaal zicht: niets; Rood-groenafwijking: 73"
           },
           {
             "platePath": "22.svg",
@@ -1195,7 +1195,7 @@
               "draw_26_purple.svg",
               "draw_26_red.svg"
             ],
-            "description": "Normaal zicht: paarse en rode vlekken; Protanopie of protanomalie: alleen de paarse lijn; Deuteranopie of deuteranomalie: alleen de rode lijn"
+            "description": "Normaal zicht: paarse en rode stippen; protanopie of protanomalie: alleen de paarse lijn; deuteranopie of deuteranomalie: alleen de rode lijn"
           },
           {
             "platePath": "27.svg",
@@ -1213,7 +1213,7 @@
               "draw_27_purple.svg",
               "draw_27_red.svg"
             ],
-            "description": "Normaal zicht: paarse en rode vlekken; Protanopie of protanomalie: alleen de paarse lijn; Deuteranopie of deuteranomalie: alleen de rode lijn"
+            "description": "Normaal zicht: paarse en rode stippen; protanopie of protanomalie: alleen de paarse lijn; deuteranopie of deuteranomalie: alleen de rode lijn"
           },
           {
             "platePath": "28.svg",
@@ -1229,7 +1229,7 @@
             "deficiency": [
               "draw_28_deficiency_red_green.svg"
             ],
-            "description": "Normaal zicht: niets; Rood-groendeficiëntie: een lijn"
+            "description": "Normaal zicht: niets; rood-groenafwijking: een lijn"
           },
           {
             "platePath": "29.svg",
@@ -1245,7 +1245,7 @@
             "deficiency": [
               "draw_29_deficiency_red_green.svg"
             ],
-            "description": "Normaal zicht: niets; Rood-groendeficiëntie: een lijn"
+            "description": "Normaal zicht: niets; rood-groenafwijking: een lijn"
           },
           {
             "platePath": "30.svg",
@@ -1261,7 +1261,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "Normaal zicht: blauwgroene lijn; Roodgroentekort: ∅"
+            "description": "Normaal zicht: blauw-groene lijn; Rood-groendeficiëntie: ∅"
           },
           {
             "platePath": "31.svg",
@@ -1277,7 +1277,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "Normaal zicht: blauwgroene lijn; Roodgroentekort: ∅"
+            "description": "Normaal zicht: blauw-groene lijn; Rood-groendeficiëntie: ∅"
           },
           {
             "platePath": "32.svg",
@@ -1293,7 +1293,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "Normaal zicht: oranje lijn; Rood-groendeficiëntie: ∅ of een valse lijn"
+            "description": "Normaal zicht: oranje lijn; rood-groendeficiëntie: ∅ of een onjuiste lijn"
           },
           {
             "platePath": "33.svg",
@@ -1309,7 +1309,7 @@
             "deficiency": [
               "empty-set.svg"
             ],
-            "description": "Normaal zicht: oranje lijn; Rood-groendeficiëntie: ∅ of een valse lijn"
+            "description": "Normaal zicht: oranje lijn; rood-groendeficiëntie: ∅ of een onjuiste lijn"
           },
           {
             "platePath": "34.svg",
@@ -1325,7 +1325,7 @@
             "deficiency": [
               "draw_34_deficiency.svg"
             ],
-            "description": "Normaal zicht: blauwgroene en geelgroene lijn; roodgroentekort: alleen roodgroene en violette lijn"
+            "description": "Normaal zicht: blauwgroene en geelgroene lijn; rood-groenafwijking: alleen rood-groene en violette lijn"
           },
           {
             "platePath": "35.svg",
@@ -1341,7 +1341,7 @@
             "deficiency": [
               "draw_35_deficiency.svg"
             ],
-            "description": "Normaal zicht: blauwgroene en geelgroene lijn; roodgroentekort: alleen blauwgroene en violette lijn"
+            "description": "Normaal zicht: blauwgroene en geelgroene lijn; rood-groenstoornis: alleen blauwgroene en violette lijn"
           },
           {
             "platePath": "36.svg",
@@ -1358,7 +1358,7 @@
             "deficiency": [
               "draw_36_deficiency.svg"
             ],
-            "description": "Normaal zicht: paarse en oranje lijn; Roodgroentekort: blauwgroene en paarse lijn"
+            "description": "Normaal zicht: violette en oranje lijn; rood-groendeficiëntie: blauwgroene en violette lijn"
           },
           {
             "platePath": "37.svg",
@@ -1375,7 +1375,7 @@
             "deficiency": [
               "draw_37_deficiency.svg"
             ],
-            "description": "Normaal zicht: paarse en oranje lijn; Roodgroentekort: blauwgroene en paarse lijn"
+            "description": "Normaal zicht: violette en oranje lijn; rood-groendeficiëntie: blauwgroene en violette lijn"
           },
           {
             "platePath": "38.svg",
@@ -1587,7 +1587,7 @@
             "nature": "Letter",
             "input": "LetterPad",
             "answer": "B",
-            "description": "Zoek de brief"
+            "description": "Brief lokaliseren"
           },
           {
             "platePath": "ishihara_C.svg",
