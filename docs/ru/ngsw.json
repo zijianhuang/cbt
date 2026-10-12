@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1791491177017,
+  "timestamp": 1791767133291,
   "appData": "Fonlow.ColorBlindTest.ServiceWorker",
   "index": "/cbt/ru/index.html",
   "assetGroups": [
@@ -12,7 +12,7 @@
         "ignoreVary": true
       },
       "urls": [
-        "/cbt/ru/styles-QAIHHN72.css"
+        "/cbt/ru/styles-PY7WVCIM.css"
       ],
       "patterns": []
     },
@@ -24,9 +24,9 @@
         "ignoreVary": true
       },
       "urls": [
-        "/cbt/ru/main-VZU74TLL.js",
-        "/cbt/ru/polyfills-5RZQU3U6.js",
-        "/cbt/ru/scripts-555OJNPI.js"
+        "/cbt/ru/main-Y5HZGQDX.js",
+        "/cbt/ru/polyfills-L4LJGNHF.js",
+        "/cbt/ru/scripts-PXEKZ6VB.js"
       ],
       "patterns": []
     },
@@ -137,12 +137,12 @@
     "/cbt/ru/assets/themes/cyan-orange.css": "db756b0d1f88bee9cbfc8c5417203f67eb690086",
     "/cbt/ru/assets/themes/magenta-violet.css": "7a58db77acee34a257c0c6c1dc360fa7f3142f6c",
     "/cbt/ru/assets/themes/rose-red.css": "b39d843369c203984c6a04c702b4cd30ac47a98a",
-    "/cbt/ru/main-VZU74TLL.js": "5c7ea5da09acfcc774bbedb1c5350eda2cf2007d",
+    "/cbt/ru/main-Y5HZGQDX.js": "c020d97e872ded80a0b32b173d87974b998e45a7",
     "/cbt/ru/media/material-symbols-outlined-latin-400-normal-6JBQYTB6.woff": "b9c4f248c5dac10adfb4547fe3eb42fbae390eb1",
     "/cbt/ru/media/material-symbols-outlined-latin-400-normal-AACPWZOV.woff2": "5dd22a059f836db2e39ffb20e23fc9f752077895",
-    "/cbt/ru/polyfills-5RZQU3U6.js": "5fc0299301a48cf3777cc9b8fd6b4b2251713807",
-    "/cbt/ru/scripts-555OJNPI.js": "bee219291c43de9724c4aee09f08bbd36b156d08",
-    "/cbt/ru/styles-QAIHHN72.css": "1a4a0b582747ad44f1b3ab73d3f96bf0783098a4"
+    "/cbt/ru/polyfills-L4LJGNHF.js": "06007801369cc0c599a217e1c1fd2a8597c3c441",
+    "/cbt/ru/scripts-PXEKZ6VB.js": "40c6c313b858bbabc06e3f9a66bfc7e500c7f9fc",
+    "/cbt/ru/styles-PY7WVCIM.css": "4c7b3db3dc0a996941d39cbe06d70ee8da4c3f8f"
   },
   "navigationUrls": [
     {
