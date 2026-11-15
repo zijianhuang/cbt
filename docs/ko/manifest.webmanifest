@@ -16,8 +16,8 @@
     "education"
   ],
   "lang": "ko",
-  "scope": "/ko/",
-  "start_url": "/ko/",
+  "scope": "/cbt/ko/",
+  "start_url": "/cbt/ko/",
   "icons": [
     {
       "src": "./assets/icons/icon-72x72.png",

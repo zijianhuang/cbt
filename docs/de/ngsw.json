@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1794720110953,
+  "timestamp": 1794784231282,
   "appData": "Fonlow.ColorBlindTest.ServiceWorker",
   "index": "/cbt/de/index.html",
   "assetGroups": [
@@ -28,7 +28,7 @@
       "urls": [
         "/cbt/de/main-GDB6XJ6A.js",
         "/cbt/de/polyfills-L4LJGNHF.js",
-        "/cbt/de/scripts-W7TKANDT.js"
+        "/cbt/de/scripts-WGWVJJRX.js"
       ],
       "patterns": []
     },
@@ -138,13 +138,13 @@
     "/cbt/de/assets/themes/cyan-orange.css": "db756b0d1f88bee9cbfc8c5417203f67eb690086",
     "/cbt/de/assets/themes/magenta-violet.css": "7a58db77acee34a257c0c6c1dc360fa7f3142f6c",
     "/cbt/de/assets/themes/rose-red.css": "b39d843369c203984c6a04c702b4cd30ac47a98a",
-    "/cbt/de/index.html": "919f8914bf346728bea704831c0f361b8364e7bd",
+    "/cbt/de/index.html": "7b0dd7cb28b914263f2bc56a0e9fbf6c0817dd8d",
     "/cbt/de/main-GDB6XJ6A.js": "480e1bfe7e7e5610a74660cbc4e1001f9f766c9a",
     "/cbt/de/manifest.webmanifest": "93d7125e44f140ab5a8926f938a0bd9667c9fc78",
     "/cbt/de/media/material-symbols-outlined-latin-400-normal-2D77PVQS.woff": "7d288e9d114f6e63f48278a094e8b39a8386f38f",
     "/cbt/de/media/material-symbols-outlined-latin-400-normal-FN7LBJA7.woff2": "f01a409a39f98b51d7b37b241a524e5d32d7af17",
     "/cbt/de/polyfills-L4LJGNHF.js": "fddb84e6a047526a82dea86b83f5ac812a380824",
-    "/cbt/de/scripts-W7TKANDT.js": "3914fb034c0b3900a3387a41cca509a5efd69e04",
+    "/cbt/de/scripts-WGWVJJRX.js": "6b26391bb42b1118ae3b73d4b5784f4cf6f4ab51",
     "/cbt/de/styles-V7VKO7SW.css": "c0cb944a08b8eb2f4738a6a11859c349cd18fe2e"
   },
   "navigationUrls": [

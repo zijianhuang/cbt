@@ -16,8 +16,8 @@
     "education"
   ],
   "lang": "fa",
-  "scope": "/fa/",
-  "start_url": "/fa/",
+  "scope": "/cbt/fa/",
+  "start_url": "/cbt/fa/",
   "icons": [
     {
       "src": "./assets/icons/icon-72x72.png",

@@ -16,8 +16,8 @@
     "education"
   ],
   "lang": "fr",
-  "scope": "/fr/",
-  "start_url": "/fr/",
+  "scope": "/cbt/fr/",
+  "start_url": "/cbt/fr/",
   "icons": [
     {
       "src": "./assets/icons/icon-72x72.png",
