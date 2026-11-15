@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1791767133332,
+  "timestamp": 1794720111160,
   "appData": "Fonlow.ColorBlindTest.ServiceWorker",
   "index": "/cbt/te/index.html",
   "assetGroups": [
@@ -12,7 +12,9 @@
         "ignoreVary": true
       },
       "urls": [
-        "/cbt/te/styles-PY7WVCIM.css"
+        "/cbt/te/index.html",
+        "/cbt/te/manifest.webmanifest",
+        "/cbt/te/styles-V7VKO7SW.css"
       ],
       "patterns": []
     },
@@ -24,23 +26,20 @@
         "ignoreVary": true
       },
       "urls": [
-        "/cbt/te/main-Y5HZGQDX.js",
+        "/cbt/te/main-GDB6XJ6A.js",
         "/cbt/te/polyfills-L4LJGNHF.js",
-        "/cbt/te/scripts-PXEKZ6VB.js"
+        "/cbt/te/scripts-W7TKANDT.js"
       ],
       "patterns": []
     },
     {
-      "name": "assets",
-      "installMode": "lazy",
-      "updateMode": "lazy",
+      "name": "fontsAndIcons",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
       "cacheQueryOptions": {
         "ignoreVary": true
       },
       "urls": [
-        "/cbt/te/assets/README.md",
-        "/cbt/te/assets/docs/TestContent.md",
-        "/cbt/te/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff2",
         "/cbt/te/assets/icons/clipboard-copy.svg",
         "/cbt/te/assets/icons/fan.svg",
         "/cbt/te/assets/icons/icon-128x128.png",
@@ -54,6 +53,22 @@
         "/cbt/te/assets/icons/icon-72x72.png",
         "/cbt/te/assets/icons/icon-96x96.png",
         "/cbt/te/assets/icons/jian.svg",
+        "/cbt/te/media/material-symbols-outlined-latin-400-normal-2D77PVQS.woff",
+        "/cbt/te/media/material-symbols-outlined-latin-400-normal-FN7LBJA7.woff2"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/cbt/te/assets/README.md",
+        "/cbt/te/assets/docs/TestContent.md",
+        "/cbt/te/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff2",
         "/cbt/te/assets/screenshots/cb_ipad.png",
         "/cbt/te/assets/screenshots/cb_result.png",
         "/cbt/te/assets/screenshots/cb_standard.png",
@@ -64,19 +79,6 @@
         "/cbt/te/assets/themes/rose-red.css"
       ],
       "patterns": []
-    },
-    {
-      "name": "Material Symbols",
-      "installMode": "lazy",
-      "updateMode": "lazy",
-      "cacheQueryOptions": {
-        "ignoreVary": true
-      },
-      "urls": [
-        "/cbt/te/media/material-symbols-outlined-latin-400-normal-6JBQYTB6.woff",
-        "/cbt/te/media/material-symbols-outlined-latin-400-normal-AACPWZOV.woff2"
-      ],
-      "patterns": []
     }
   ],
   "dataGroups": [
@@ -85,14 +87,14 @@
       "patterns": [
         "\\/conf\\/.*"
       ],
-      "strategy": "performance",
+      "strategy": "freshness",
       "maxSize": 50,
-      "maxAge": 86400000,
-      "timeoutMs": 60000,
+      "maxAge": 31536000000,
+      "timeoutMs": 15000,
       "cacheQueryOptions": {
         "ignoreVary": true
       },
-      "version": 1
+      "version": 2
     },
     {
       "name": "svgPlates",
@@ -102,14 +104,13 @@
         "\\/mk_svg_sources\\/.*",
         "\\/SVG_Files\\/.*"
       ],
-      "strategy": "freshness",
-      "maxSize": 500,
-      "maxAge": 86400000,
-      "timeoutMs": 60000,
+      "strategy": "performance",
+      "maxSize": 1000,
+      "maxAge": 31536000000,
       "cacheQueryOptions": {
         "ignoreVary": true
       },
-      "version": 3
+      "version": 5
     }
   ],
   "hashTable": {
@@ -137,12 +138,14 @@
     "/cbt/te/assets/themes/cyan-orange.css": "db756b0d1f88bee9cbfc8c5417203f67eb690086",
     "/cbt/te/assets/themes/magenta-violet.css": "7a58db77acee34a257c0c6c1dc360fa7f3142f6c",
     "/cbt/te/assets/themes/rose-red.css": "b39d843369c203984c6a04c702b4cd30ac47a98a",
-    "/cbt/te/main-Y5HZGQDX.js": "82a1a9c39833496c3753e18a70d6c57f324f66ee",
-    "/cbt/te/media/material-symbols-outlined-latin-400-normal-6JBQYTB6.woff": "b9c4f248c5dac10adfb4547fe3eb42fbae390eb1",
-    "/cbt/te/media/material-symbols-outlined-latin-400-normal-AACPWZOV.woff2": "5dd22a059f836db2e39ffb20e23fc9f752077895",
+    "/cbt/te/index.html": "43d40df1a6e48146a05298874412d8e53181bc59",
+    "/cbt/te/main-GDB6XJ6A.js": "e09511b842974eebfbcb64107a0afb17082a0b98",
+    "/cbt/te/manifest.webmanifest": "93d7125e44f140ab5a8926f938a0bd9667c9fc78",
+    "/cbt/te/media/material-symbols-outlined-latin-400-normal-2D77PVQS.woff": "7d288e9d114f6e63f48278a094e8b39a8386f38f",
+    "/cbt/te/media/material-symbols-outlined-latin-400-normal-FN7LBJA7.woff2": "f01a409a39f98b51d7b37b241a524e5d32d7af17",
     "/cbt/te/polyfills-L4LJGNHF.js": "ce53d022d4858dc6897d4f9f70fa650e26873341",
-    "/cbt/te/scripts-PXEKZ6VB.js": "40c6c313b858bbabc06e3f9a66bfc7e500c7f9fc",
-    "/cbt/te/styles-PY7WVCIM.css": "4c7b3db3dc0a996941d39cbe06d70ee8da4c3f8f"
+    "/cbt/te/scripts-W7TKANDT.js": "3914fb034c0b3900a3387a41cca509a5efd69e04",
+    "/cbt/te/styles-V7VKO7SW.css": "c0cb944a08b8eb2f4738a6a11859c349cd18fe2e"
   },
   "navigationUrls": [
     {
