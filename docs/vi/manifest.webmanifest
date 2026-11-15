@@ -16,8 +16,8 @@
     "education"
   ],
   "lang": "vi",
-  "scope": "/vi/",
-  "start_url": "/vi/",
+  "scope": "/cbt/vi/",
+  "start_url": "/cbt/vi/",
   "icons": [
     {
       "src": "./assets/icons/icon-72x72.png",

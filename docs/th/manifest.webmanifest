@@ -16,8 +16,8 @@
     "education"
   ],
   "lang": "th",
-  "scope": "/th/",
-  "start_url": "/th/",
+  "scope": "/cbt/th/",
+  "start_url": "/cbt/th/",
   "icons": [
     {
       "src": "./assets/icons/icon-72x72.png",

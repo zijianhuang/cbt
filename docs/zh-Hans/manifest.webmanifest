@@ -16,8 +16,8 @@
     "education"
   ],
   "lang": "zh-Hans",
-  "scope": "/zh-Hans/",
-  "start_url": "/zh-Hans/",
+  "scope": "/cbt/zh-Hans/",
+  "start_url": "/cbt/zh-Hans/",
   "icons": [
     {
       "src": "./assets/icons/icon-72x72.png",
